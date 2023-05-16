@@ -1,0 +1,33 @@
+BODY{
+	MARGIN:0px
+}
+.style8 {
+	FONT-SIZE: small; COLOR: #333333; FONT-FAMILY: "MS Sans Serif"
+}
+.style11 {
+	FONT-SIZE: x-small; COLOR: #999999; FONT-FAMILY: "MS Sans Serif"
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.style32 {
+	COLOR: #000000
+}
+.style39 {
+	font-family: AngsanaUPC;
+	font-size: 18px;
+}
+.style51 {font-family: AngsanaUPC; font-size: 24px; }
+.style52 {
+	font-family: EucrosiaUPC;
+	font-size: 22px;
+}
