@@ -1,5 +1,5 @@
 <? @session_start(); include("../inc_connect.php"); ?>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 	<?php 
 
@@ -16,12 +16,12 @@
 	$user = $_POST['txtUser'];
 	$pass = $_POST['txtPass'];
 	$id = $_REQUEST['edit_id'];
-	// ·°È‰¢¢ÈÕ¡Ÿ≈
+	// ‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•
 	//$id = $_REQUEST['edit_id'];
 	$sql_edit = "update tb_admin set 
 	adm_id = '$memid', adm_name='$namex' , address = '$add' , phone = '$phone', Position_id = '$position', brithday = '$birth', adm_user = '$user', adm_pass = '$pass' where adm_id = '$id'"; 
 	mysql_query($sql_edit) or die(mysql_error());
-	echo"<SCRIPT>alert('·°È‰¢¢ÈÕ¡Ÿ≈¢Õß $namex   ”‡√Á®·≈È«'); </SCRIPT>";
+	echo"<SCRIPT>alert('‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Ç‡∏≠‡∏á $namex  ‡∏™‡∏≥‡πÄ‡∏£‡πá‡∏à‡πÅ‡∏•‡πâ‡∏ß'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=search_Admin.php'>";
  
 	//-->

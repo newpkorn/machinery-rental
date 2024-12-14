@@ -11,8 +11,8 @@
 .style57 {color: #0000FF}
 -->
 </style>
-<HEAD><TITLE>: : �к����������ͧ�ѡá� ����ҧ��ǧ�����ä�� : :</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/css.css" rel="stylesheet" type="text/css">
 
 <SCRIPT LANGUAGE="JavaScript">
@@ -20,12 +20,12 @@
 function validate(){
 	var f = document.login;
 	if (f.username.value=="") 	{
-		alert("��سһ�͹���ͼ����ҹ.");
+		alert("กรุณาป้อนชื่อผู้ใช้งาน.");
 		f.username.focus();
 		return false;
 	}
 	if (f.password.value=="") 	{
-		alert("��سһ�͹���ʼ�ҹ.");
+		alert("กรุณาป้อนรหัสผ่าน.");
 		f.password.focus();
 		return false;
 	}
@@ -55,7 +55,7 @@ function validate(){
         <td background="images/rim_05.gif"> <img src="images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td><strong><marquee>�Թ�յ�͹�Ѻ����к����������ͧ�ѡá� ����ҧ��ǧ �����ä�� </marquee></strong></td>
+            <td><strong><marquee>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </marquee></strong></td>
             </tr>
           <tr>
             <td bgcolor="#FFFFFF" align="center">
@@ -63,8 +63,8 @@ function validate(){
 
 			  <table width="400" border="1"align="center" >
             <TR>
-				<TD width="21%"  align="center" bgcolor="#CCFFFF"><span class="style57">�ӴѺ</span></TD>
-				<TD width="79%" align="center" bgcolor="#CCFFFF"><span class="style57">�͡���</span></TD>
+				<TD width="21%"  align="center" bgcolor="#CCFFFF"><span class="style57">ลำดับ</span></TD>
+				<TD width="79%" align="center" bgcolor="#CCFFFF"><span class="style57">เอกสาร</span></TD>
             </TR>
 			<?
 			$numb=1;

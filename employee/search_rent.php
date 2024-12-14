@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 
@@ -18,7 +18,7 @@ $(function(){
         if($("#myTbl tr").size()>1){  
             $("#myTbl tr:last").remove();  
         }else{  
-            alert("µÈÕß¡’√“¬°“√¢ÈÕ¡Ÿ≈Õ¬Ë“ßπÈÕ¬ 1 √“¬°“√");  
+            alert("‡∏ï‡πâ‡∏≠‡∏á‡∏°‡∏µ‡∏£‡∏≤‡∏¢‡∏Å‡∏≤‡∏£‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏≠‡∏¢‡πà‡∏≤‡∏á‡∏ô‡πâ‡∏≠‡∏¢ 1 ‡∏£‡∏≤‡∏¢‡∏Å‡∏≤‡∏£");  
         }  
     });           
 });  
@@ -46,7 +46,7 @@ $(function(){
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-            <span class="style1">™◊ËÕºŸÈ„™Èß“π</span> : <?=$_SESSION['emp_name']?>
+            <span class="style1">‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -59,19 +59,19 @@ $(function(){
     </table>
       <table width="92%" height="182"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="34"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">ÀπÈ“·√°</a></td>
+          <td height="34"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="RentMachine.php">‡™Ë“‡§√◊ËÕß®—°√°≈</a></td>
+          <td height="34"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="RentMachine.php">‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_rent.php">§ÈπÀ“¢ÈÕ¡Ÿ≈°“√‡™Ë“</a></td>
+          <td height="34"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_rent.php">‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/view.gif" alt="" width="15" height="15" />&nbsp;<a href="report_lease.php" target="_blank">√“¬ß“π°“√‡™Ë“</a></td>
+          <td height="34"><img src="../images/view.gif" alt="" width="15" height="15" />&nbsp;<a href="report_lease.php" target="_blank">‡∏£‡∏≤‡∏¢‡∏á‡∏≤‡∏ô‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</a></td>
         </tr>
         <tr>
-          <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></td>
+          <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></td>
         </tr>
     </table>
 
@@ -91,28 +91,28 @@ $(function(){
           </tr>
           <tr>
             <td><fieldset>
-              <legend>¢ÈÕ¡Ÿ≈°“√‡™Ë“</legend>
+              <legend>‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</legend>
               <table width="100%" border="0">
              <tr>
-                  <td width=" " align="right">√À— °“√‡™Ë“</td>
+                  <td width=" " align="right">‡∏£‡∏´‡∏±‡∏™‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</td>
 				  
 			  <form id="form2" name="form2" method="post" action="search_rent.php">
                   <td width=" "><input name="txt_search" type="text" id="txt_search" size="30" maxlength="100" />
-                    <input type="submit" name="§ÈπÀ“3" id="§ÈπÀ“3" value="§ÈπÀ“" /></td>
+                    <input type="submit" name="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤3" id="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤3" value="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤" /></td>
                   <td width=""></td> </FORM>
                 </tr>
                
                 <tr>
                   <td colspan="3"><table width="100%" border="1">
                     <tr>
-                     <td width="8%" height="36" align="center" bgcolor="#0000FF"><span class="style2">√À— °“√‡™Ë“</span></td>
-                  <td width="13%"align="center" bgcolor="#0000FF"><span class="style2"> ¡“™‘°</span></td>
-                  <td width="13%" align="center"bgcolor="#0000FF"><span class="style2">æπ—°ß“π¥Ÿ·≈</span></td>
-                  <td width="30%" align="center"bgcolor="#0000FF"><span class="style2">‡§√◊ËÕß®—°√°≈</span></td>
-                  <td width="10%" align="center"bgcolor="#0000FF"><span class="style2">«—π∑’Ë‡™Ë“</span></td>
-                  <td width="10%"align="center" bgcolor="#0000FF"><span class="style2">«—π∑’Ë§◊π</span></td>
-				  <td width="10%" align="center"bgcolor="#0000FF"><span class="style2">‡Õ° “√</span></td>
-				  <td width="8%" align="center"bgcolor="#0000FF"><span class="style2">≈∫</span></td>
+                     <td width="8%" height="36" align="center" bgcolor="#0000FF"><span class="style2">‡∏£‡∏´‡∏±‡∏™‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</span></td>
+                  <td width="13%"align="center" bgcolor="#0000FF"><span class="style2">‡∏™‡∏°‡∏≤‡∏ä‡∏¥‡∏Å</span></td>
+                  <td width="13%" align="center"bgcolor="#0000FF"><span class="style2">‡∏û‡∏ô‡∏±‡∏Å‡∏á‡∏≤‡∏ô‡∏î‡∏π‡πÅ‡∏•</span></td>
+                  <td width="30%" align="center"bgcolor="#0000FF"><span class="style2">‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</span></td>
+                  <td width="10%" align="center"bgcolor="#0000FF"><span class="style2">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡πÄ‡∏ä‡πà‡∏≤</span></td>
+                  <td width="10%"align="center" bgcolor="#0000FF"><span class="style2">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏Ñ‡∏∑‡∏ô</span></td>
+				  <td width="10%" align="center"bgcolor="#0000FF"><span class="style2">‡πÄ‡∏≠‡∏Å‡∏™‡∏≤‡∏£</span></td>
+				  <td width="8%" align="center"bgcolor="#0000FF"><span class="style2">‡∏•‡∏ö</span></td>
                     </tr>
                  <?  
 $sqlreserv=mysql_query("select * from   tb_lease , tb_member , tb_employee where  tb_lease.emp_id=tb_employee.emp_id  and  tb_lease.mem_id=tb_member.mem_id and  leas_id like '%$txt_search%' ");
@@ -159,8 +159,8 @@ echo thai_date1($eng_date2);?>
 				      <BR>
 				      <?}?>
 				    </span></td>
-                <td align="center" bgcolor="#CCFFFF"><A HREF="form_print.php?idl=<?=$rsreserv[0];?>" target="_blank" class="style1">æ‘¡æÏ</A></td>
-				<td align="center"bgcolor="#CCFFFF"><div align="center" class="style1"><a href="del_Rent.php?del_id=<?=$rsreserv[0]?>" onClick='return Conf(this)' >≈∫</a></div></td>
+                <td align="center" bgcolor="#CCFFFF"><A HREF="form_print.php?idl=<?=$rsreserv[0];?>" target="_blank" class="style1">‡∏û‡∏¥‡∏°‡∏û‡πå</A></td>
+				<td align="center"bgcolor="#CCFFFF"><div align="center" class="style1"><a href="del_Rent.php?del_id=<?=$rsreserv[0]?>" onClick='return Conf(this)' >‡∏•‡∏ö</a></div></td>
                 </tr>
 <?}?>
                     
@@ -215,7 +215,7 @@ e_k=event.keyCode
 if (((e_k < 48) || (e_k > 47)) && e_k != 46 && e_k != 13) {
 //if (e_k != 13 && (e_k < 48) || (e_k > 57) || e_k == ) {
 event.returnValue = false;
-alert(" °√ÿ≥“„ Ë«—π∑’Ë ‚¥¬°“√°¥ªÿË¡ DATE");
+alert(" ‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡πÉ‡∏™‡πà‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà ‡πÇ‡∏î‡∏¢‡∏Å‡∏≤‡∏£‡∏Å‡∏î‡∏õ‡∏∏‡πà‡∏° DATE");
 }
 } 
 
@@ -230,7 +230,7 @@ window.open($URL,'','toolbar=no,location=no,status=no,resizable=yes,menubar=no,s
 }//of function
 
 function kod_pum() {
-alert('°“√„ Ë«—π∑’ËµÈÕß∑”°“√°¥ªÿË¡ Date ‡∑Ë“π—Èπ§√—∫');
+alert('‡∏Å‡∏≤‡∏£‡πÉ‡∏™‡πà‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏ó‡∏≥‡∏Å‡∏≤‡∏£‡∏Å‡∏î‡∏õ‡∏∏‡πà‡∏° Date ‡πÄ‡∏ó‡πà‡∏≤‡∏ô‡∏±‡πâ‡∏ô‡∏Ñ‡∏£‡∏±‡∏ö');
 		event.returnValue = false;
 } 
 </script>

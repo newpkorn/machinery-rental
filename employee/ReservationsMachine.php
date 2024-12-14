@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -25,7 +25,7 @@ $(function(){
         if($("#myTbl tr").size()>1){  
             $("#myTbl tr:last").remove();  
         }else{  
-            alert("��ͧ����¡�â��������ҧ���� 1 ��¡��");  
+            alert("ต้องมีรายการข้อมูลอย่างน้อย 1 รายการ");  
         }  
     });           
 });  
@@ -34,7 +34,7 @@ $(function(){
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("�س��ͧ���ź������ ?") == true) {
+  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
   return true;
   }
   return false;
@@ -56,7 +56,7 @@ $(function(){
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-            <span class="style1">���ͼ����ҹ</span> : <?=$_SESSION['emp_name']?>
+            <span class="style1">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -69,19 +69,19 @@ $(function(){
     </table>
       <table width="91%" height="137"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="25"><img src="../images/home.gif" alt="" width="16" height="14" /><a href="Menu_Detail.php"> ˹���á</a></td>
+          <td height="25"><img src="../images/home.gif" alt="" width="16" height="14" /><a href="Menu_Detail.php"> หน้าแรก</a></td>
         </tr>
         <tr>
-          <td height="25"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="ReservationsMachine.php">�ͧ����ͧ�ѡá�</a></td>
+          <td height="25"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="ReservationsMachine.php">จองเครื่องจักรกล</a></td>
         </tr>
         <tr>
-          <td height="25"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_reserv.php">���Ң����š�èͧ</a></td>
+          <td height="25"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_reserv.php">ค้นหาข้อมูลการจอง</a></td>
         </tr>
         <tr>
-          <td height="25"><img src="../images/view.gif" alt="" width="15" height="15" />&nbsp;<a href="report_book.php" target="_blank">��§ҹ��èͧ</a></td>
+          <td height="25"><img src="../images/view.gif" alt="" width="15" height="15" />&nbsp;<a href="report_book.php" target="_blank">รายงานการจอง</a></td>
         </tr>
         <tr>
-          <td width="100%" height="25"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></td>
+          <td width="100%" height="25"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ออกจากระบบ</a></td>
         </tr>
     </table> 
     </td>
@@ -100,7 +100,7 @@ $(function(){
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><legend><img src="../images/menu/reserv.jpg" alt="" width="375" height="43" /></legend>
           <table width="100%"  border="0">
             <tr>
-              <td width="7%">��Ҫԡ</td>
+              <td width="7%">สมาชิก</td>
               <td width="22%" align="left">
 	  					    <select name="mem_name">
 		 <? 
@@ -115,12 +115,12 @@ $(function(){
 
 			<!-- 		<input type="text" name="mem_name" size="40"  id="mem_name" value=""/>	 -->
 			  </td>
-           <td width="7%">����ͧ�ѡá�</td>
+           <td width="7%">เครื่องจักรกล</td>
               <td width="30%" align="left">
 			  	&nbsp;&nbsp;    <button id="addRow" type="button">&nbsp; + &nbsp;</button>    
     &nbsp;  
     <button id="removeRow" type="button">&nbsp; -- &nbsp;</button>
-    <span class="style7">+ �ͧ�ҡ����˹����¡��</span>  
+    <span class="style7">+ จองมากกว่าหนึ่งรายการ</span>  
  <table id="myTbl" width="" border="0" cellspacing="2" cellpadding="0">  
   <tr id="firstTr">  
             <td width="459"class="style14"><div align="left">
@@ -149,7 +149,7 @@ $(function(){
               <td>&nbsp;</td>
             </tr>
             <tr>
-              <td  >�ѹ���ͧ</td>
+              <td  >วันที่จอง</td>
               <td  align="left">  <input type="text" name="StartDate" id="StartDate" value="<?=$StartDate?>" onKeyPress="kod_pum()"/>&nbsp;
 			  		   <script language='javascript'>
   
@@ -158,7 +158,7 @@ $(function(){
    }
 
               </script> </td>
-              <td  >�ѹ����Ѻ</td>
+              <td  >วันที่รับ</td>
               <td  align="left"> <input type="text" name="ArriveDate"  id="ArriveDate" value="<?=$ArriveDate?>" onKeyPress="kod_pum()"/>&nbsp;
 			   <script language='javascript'>
   
@@ -172,7 +172,7 @@ $(function(){
               <td height="39" align="right">&nbsp;</td>
               <td align="right">&nbsp;</td>
               <td align="right">&nbsp;</td>
-              <td ><input  type="submit" name="����" id="����2" value="     ����     " /></td>
+              <td ><input  type="submit" name="ค้นหา" id="ค้นหา2" value="     เพิ่ม     " /></td>
             </tr>
 
     </form>
@@ -181,14 +181,14 @@ $(function(){
             <tr>
               <td height="56" colspan="4"><table width="100%" border="1">
                 <tr>
-				<td width="10%" height="30" align="center" bgcolor="#0066CC"><span class="style6">���ʡ�èͧ</span></td>
-                  <td width="14%"align="center" bgcolor="#0066CC"><span class="style6">��Ҫԡ</span></td>
-                  <td width="13%" align="center"bgcolor="#0066CC"><span class="style6">���˹�ҷ��</span></td>
-                  <td width="23%" align="center"bgcolor="#0066CC"><span class="style6">����ͧ�ѡá�</span></td>
-                  <td width="10%" align="center"bgcolor="#0066CC"><span class="style6">�ѹ���ͧ</span></td>
-                  <td width="12%"align="center" bgcolor="#0066CC"><span class="style6">�ѹ����Ѻ</span></td>
-				  <td width="11%" align="center"bgcolor="#0066CC"><span class="style6">����������</span></td>
-				  <td width="7%" align="center"bgcolor="#0066CC"><span class="style6">ź</span></td>
+				<td width="10%" height="30" align="center" bgcolor="#0066CC"><span class="style6">รหัสการจอง</span></td>
+                  <td width="14%"align="center" bgcolor="#0066CC"><span class="style6">สมาชิก</span></td>
+                  <td width="13%" align="center"bgcolor="#0066CC"><span class="style6">เจ้าหน้าที่</span></td>
+                  <td width="23%" align="center"bgcolor="#0066CC"><span class="style6">เครื่องจักรกล</span></td>
+                  <td width="10%" align="center"bgcolor="#0066CC"><span class="style6">วันที่จอง</span></td>
+                  <td width="12%"align="center" bgcolor="#0066CC"><span class="style6">วันที่รับ</span></td>
+				  <td width="11%" align="center"bgcolor="#0066CC"><span class="style6">พิมพ์ใบเสร็จ</span></td>
+				  <td width="7%" align="center"bgcolor="#0066CC"><span class="style6">ลบ</span></td>
                 </tr>
     
 <?  $sqlreserv=mysql_query("select * from  tb_reserv , tb_employee  , tb_member where  tb_reserv.mem_id=tb_member.mem_id  and tb_reserv.emp_id=tb_employee.emp_id  ");
@@ -268,7 +268,7 @@ e_k=event.keyCode
 if (((e_k < 48) || (e_k > 47)) && e_k != 46 && e_k != 13) {
 //if (e_k != 13 && (e_k < 48) || (e_k > 57) || e_k == ) {
 event.returnValue = false;
-alert(" ��س�����ѹ��� �¡�á����� DATE");
+alert(" กรุณาใส่วันที่ โดยการกดปุ่ม DATE");
 }
 } 
 
@@ -283,7 +283,7 @@ window.open($URL,'','toolbar=no,location=no,status=no,resizable=yes,menubar=no,s
 }//of function
 
 function kod_pum() {
-alert('�������ѹ����ͧ�ӡ�á����� Date ��ҹ�鹤�Ѻ');
+alert('การใส่วันที่ต้องทำการกดปุ่ม Date เท่านั้นครับ');
 		event.returnValue = false;
 } 
 </script>

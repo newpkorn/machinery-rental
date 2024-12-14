@@ -1,5 +1,5 @@
 <? @session_start(); include("../inc_connect.php"); ?>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 	<?php 
 
@@ -17,21 +17,21 @@
 
 	$id2 = $_REQUEST["code1"];
 if(strlen($txtCode)!=13){
-	echo"<SCRIPT>alert('°√Õ°¢ÈÕ¡Ÿ≈ idcard πÈÕ¬À√◊Õ¡“°‰ª§√—∫ µÈÕß‡∑Ë“°—∫ 13 ‡∑Ë“π—Èπ§√—∫');history.back();</SCRIPT>";
+	echo"<SCRIPT>alert('‡∏Å‡∏£‡∏≠‡∏Å‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏• idcard ‡∏ô‡πâ‡∏≠‡∏¢‡∏´‡∏£‡∏∑‡∏≠‡∏°‡∏≤‡∏Å‡πÑ‡∏õ‡∏Ñ‡∏£‡∏±‡∏ö ‡∏ï‡πâ‡∏≠‡∏á‡πÄ‡∏ó‡πà‡∏≤‡∏Å‡∏±‡∏ö 13 ‡πÄ‡∏ó‡πà‡∏≤‡∏ô‡∏±‡πâ‡∏ô‡∏Ñ‡∏£‡∏±‡∏ö');history.back();</SCRIPT>";
  exit();
 } 
-	// ·°È‰¢¢ÈÕ¡Ÿ≈
+	// ‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•
 	//$id = $_REQUEST['edit_id'];
 	$sql_edit = "update tb_member set 
 	mem_name = '$name' , reg_card = '$code1' ,date_issue = '$dateIssue', address = '$add' , phone = '$phone', Birthday = '$birth', mem_age = '$txtAge' where reg_card = '$id'"; 
 	mysql_query($sql_edit) or die(mysql_error());
-		echo"<SCRIPT>alert('·°È‰¢¢ÈÕ¡Ÿ≈¢Õß $name   ”‡√Á®·≈È«'); </SCRIPT>";
+		echo"<SCRIPT>alert('‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Ç‡∏≠‡∏á $name  ‡∏™‡∏≥‡πÄ‡∏£‡πá‡∏à‡πÅ‡∏•‡πâ‡∏ß'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=search_Member.php'>";
  
 	//-->
 }
 
-//‡√’¬°¢ÈÕ¡Ÿ≈®“° √À—  ¡“· ¥ß„π textbox
+//‡πÄ‡∏£‡∏µ‡∏¢‡∏Å‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏à‡∏≤‡∏Å ‡∏£‡∏´‡∏±‡∏™ ‡∏°‡∏≤‡πÅ‡∏™‡∏î‡∏á‡πÉ‡∏ô textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];

@@ -11,8 +11,8 @@
 .style53 {color: #336699}
 -->
 </style>
-<HEAD><TITLE>: : �к����������ͧ�ѡá� ����ҧ��ǧ�����ä�� : :</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/css.css" rel="stylesheet" type="text/css">
 
 <SCRIPT LANGUAGE="JavaScript">
@@ -20,12 +20,12 @@
 function validate(){
 	var f = document.login;
 	if (f.username.value=="") 	{
-		alert("��سһ�͹���ͼ����ҹ.");
+		alert("กรุณาป้อนชื่อผู้ใช้งาน.");
 		f.username.focus();
 		return false;
 	}
 	if (f.password.value=="") 	{
-		alert("��سһ�͹���ʼ�ҹ.");
+		alert("กรุณาป้อนรหัสผ่าน.");
 		f.password.focus();
 		return false;
 	}
@@ -55,7 +55,7 @@ function validate(){
         <td background="images/rim_05.gif"> <img src="images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td><strong><marquee>�Թ�յ�͹�Ѻ����к����������ͧ�ѡá� ����ҧ��ǧ �����ä�� </marquee></strong></td>
+            <td><strong><marquee>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </marquee></strong></td>
             </tr>
           <tr>
             <td bgcolor="#FFFFFF"><table width="100%"  border="0">
@@ -65,11 +65,11 @@ function validate(){
                   </tr>
                 <tr>
                   <td width="29%" rowspan="2" align="right"><img src="images/Keys.png" alt="" width="80" height="80"></td>
-                  <td width="13%" align="right">���ͼ����ҹ</td>
+                  <td width="13%" align="right">ชื่อผู้ใช้งาน</td>
                   <td width="58%"> <input name="username" type="text" id="username" size="15"></td>
                   </tr>
                 <tr>
-                  <td align="right">���ʼ�ҹ</td>
+                  <td align="right">รหัสผ่าน</td>
                   <td><input name="password" type="password" id="password" size="15"></td>
                   </tr>
                 <tr align="center">
@@ -77,7 +77,7 @@ function validate(){
                     <input type="reset" name="Submit2" value="Reset"></td>
                   </tr>
                 <tr align="center">
-                  <td colspan="3"><span class="style53">������ʼ�ҹ</span></td>
+                  <td colspan="3"><span class="style53">ลืมรหัสผ่าน</span></td>
                   </tr>
                 </form>
               </table></td>

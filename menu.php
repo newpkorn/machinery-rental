@@ -20,15 +20,15 @@
                 height=50><IMG height=9 
                   src="images/arrow.png"
                   width=9 border=0> <span class="style6"><A 
-                  href="index.php" class="style39">˹���á</A><BR>
+                  href="index.php" class="style39">หน้าแรก</A><BR>
 	            <!-- 		  &nbsp;&nbsp;<IMG height=9 
                    src="images/arrow.png"
-                  width=9 border=0> <span class="style39">����</span><BR> -->
+                  width=9 border=0> <span class="style39">ค้นหา</span><BR> -->
 		        <IMG 
                   height=9 
                      src="images/arrow.png"
                   width=9 border=0> <A 
-                  href="Formlogin.php" class="style39">�������к�</A></span> </TD>
+                  href="Formlogin.php" class="style39">เข้าสู่ระบบ</A></span> </TD>
               </TR>
   <TD height=25 align=left vAlign=top><img src="images/menu/menu_Machin.jpg" width="171" height="25"></TD>
               </TR>
@@ -36,26 +36,26 @@
                 <TD vAlign=center align=left 
                 height=30><IMG height=9 
                   src="images/arrow.png"
-                  width=9 border=0> <span class="style39 style6"><A HREF="search_machin.php">��������ͧ�ѡá�</A></span></TD>
+                  width=9 border=0> <span class="style39 style6"><A HREF="search_machin.php">ค้นหาเครื่องจักรกล</A></span></TD>
                </TR>
               <TR>
                 <TD height=25 align=left vAlign=top><img src="images/menu/menu_download.jpg" width="171" height="25"></TD>
               </TR>
                <TR>
                  <TD vAlign=center align=left 
-                height=30><img src="images/5_81.gif" alt="" width="14" height="14" />&nbsp;����Ѻ�����ҹ</TD>
+                height=30><img src="images/5_81.gif" alt="" width="14" height="14" />&nbsp;สำหรับผู้ใช้งาน</TD>
                </TR>
                <TR>
                 <TD vAlign=center align=left 
                 height=30><IMG height=9 
                   src="images/arrow.png"
-                  width=9 border=0> <span class="style39"><A HREF="document.php">�͡���Ẻ�����</A></span></TD></TR><TR>
+                  width=9 border=0> <span class="style39"><A HREF="document.php">เอกสารแบบฟอร์ม</A></span></TD></TR><TR>
                 <TD height=25 align=left vAlign=top><img src="images/menu/menu_contrac.jpg" width="171" height="25"></TD>
                 <TR>
                   <TD vAlign=center align=left 
                 height=30><img height=9 
                   src="images/arrow.png"
-                  width=9 border=0 /> <span class="style39"><a href="contact.php">����ҧ��ǧ�����ä��</a></span></TD>
+                  width=9 border=0 /> <span class="style39"><a href="contact.php">กรมทางหลวงมหาสารคาม</a></span></TD>
                 </TR>
                 <TR>
                   <TD vAlign=center align=left 
@@ -65,13 +65,13 @@
                   <TD vAlign=center align=left 
                 height=30><img height="9" 
                   src="images/arrow.png"
-                  width="9" border="0" /> <a href="http://mkrcc.dyndns.org/web/index.php" class="style5">�ӹѡ�ҹ�ҧ��ǧ�����ä��</a></TD>
+                  width="9" border="0" /> <a href="http://mkrcc.dyndns.org/web/index.php" class="style5">สำนักงานทางหลวงมหาสารคาม</a></TD>
                 </TR>
                 <TR>
                   <TD vAlign=center align=left 
                 height=30><img height="9" 
                   src="images/arrow.png"
-                  width="9" border="0" /> <a href="http://www.erfund.go.th/home.php" class="style5">�Թ�ع��ع���¹�������ͧ�ѡá�</a></TD>
+                  width="9" border="0" /> <a href="http://www.erfund.go.th/home.php" class="style5">เงินทุนหมุนเวียนค่าเครื่องจักรกล</a></TD>
                 </TR>
                 <TR>
                   <TD vAlign=center align=left 

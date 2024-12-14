@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
  <style type="text/css">
 <!--
@@ -42,7 +42,7 @@ $(function(){
         if($("#myTbl tr").size()>1){  
             $("#myTbl tr:last").remove();  
         }else{  
-            alert("ต้องมีรายการข้อมูลอย่างน้อย 1 รายการ");  
+            alert("เธ•เนเธญเธเธกเธตเธฃเธฒเธขเธเธฒเธฃเธเนเธญเธกเธนเธฅเธญเธขเนเธฒเธเธเนเธญเธข 1 เธฃเธฒเธขเธเธฒเธฃ");  
         }  
     });           
 });  
@@ -51,7 +51,7 @@ $(function(){
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
+  if (confirm("เธเธธเธ“เธ•เนเธญเธเธเธฒเธฃเธฅเธเธเนเธญเธกเธนเธฅ ?") == true) {
   return true;
   }
   return false;
@@ -73,7 +73,7 @@ $(function(){
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-            <span class="style2">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['emp_name']?>
+            <span class="style2">เธเธทเนเธญเธเธนเนเนเธเนเธเธฒเธ</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -86,19 +86,19 @@ $(function(){
     </table>
       <table width="92%" height="182"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="34"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">หน้าแรก</a></td>
+          <td height="34"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">เธซเธเนเธฒเนเธฃเธ</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="RentMachine.php">เช่าเครื่องจักรกล</a></td>
+          <td height="34"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="RentMachine.php">เน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_rent.php">ค้นหาข้อมูลการเช่า</a></td>
+          <td height="34"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_rent.php">เธเนเธเธซเธฒเธเนเธญเธกเธนเธฅเธเธฒเธฃเน€เธเนเธฒ</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/view.gif" alt="" width="15" height="15" />&nbsp;<a href="report_lease.php" target="_blank">รายงานการเช่า</a></td>
+          <td height="34"><img src="../images/view.gif" alt="" width="15" height="15" />&nbsp;<a href="report_lease.php" target="_blank">เธฃเธฒเธขเธเธฒเธเธเธฒเธฃเน€เธเนเธฒ</a></td>
         </tr>
         <tr>
-          <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ออกจากระบบ</a></td>
+          <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">เธญเธญเธเธเธฒเธเธฃเธฐเธเธ</a></td>
         </tr>
     </table>
 		    
@@ -122,11 +122,11 @@ $(function(){
             </tr>
             <tr>
             <td><fieldset>
-              <legend>รายละเอียดการเช่า</legend>
+              <legend>เธฃเธฒเธขเธฅเธฐเน€เธญเธตเธขเธ”เธเธฒเธฃเน€เธเนเธฒ</legend>
 	
           <table width="100%"  border="0">
             <tr>
-              <td width="10%">สมาชิก</td>
+              <td width="10%">เธชเธกเธฒเธเธดเธ</td>
               <td width="90%" align="left">
 		  					    <select name="mem_name">
 		 <? 
@@ -142,26 +142,26 @@ $(function(){
 					</td>
             </tr>
 			 <tr>
-              <td width="15%">วัตถุประสงค์เพื่อ</td>
+              <td width="15%">เธงเธฑเธ•เธ–เธธเธเธฃเธฐเธชเธเธเนเน€เธเธทเนเธญ</td>
               <td width="90%" align="left">	<TEXTAREA NAME="purpose" ROWS="3" COLS="55"></TEXTAREA>			  </td>        
             </tr>
    <tr>
-              <td width="10%">สะถานที่</td>
+              <td width="10%">เธชเธฐเธ–เธฒเธเธ—เธตเน</td>
               <td width="90%" align="left"> <TEXTAREA NAME="area" ROWS="3" COLS="55"></TEXTAREA>		  </td>        
             </tr>
              
               <td width="10%"></td>
               <td  align="left" colspan="2">
 			  	&nbsp;&nbsp;    <button id="addRow" type="button">&nbsp; + &nbsp;</button>    
-       
-    <button id="removeRow" type="button">&nbsp; -- &nbsp;</button> <span class="style5">กด + เพื่อเชื่อมากกว่า 1 รายการ  
+    ๏ฃ  
+    <button id="removeRow" type="button">&nbsp; -- &nbsp;</button>๏ฃ<span class="style5">เธเธ” + เน€เธเธทเนเธญเน€เธเธทเนเธญเธกเธฒเธเธเธงเนเธฒ 1 เธฃเธฒเธขเธเธฒเธฃ  
     </span>
     <TABLE width="100%" border="0" cellspacing="2" cellpadding="0">
 <TR>
-	<TD width="35%">เครื่องจักรกล</TD>
-		<TD width="20%">วันที่เช่า</TD>
-			<TD width="20%">วันที่คืน</TD>
-				<TD width="20%">ระยะเวลา</TD>
+	<TD width="35%">เน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</TD>
+		<TD width="20%">เธงเธฑเธเธ—เธตเนเน€เธเนเธฒ</TD>
+			<TD width="20%">เธงเธฑเธเธ—เธตเนเธเธทเธ</TD>
+				<TD width="20%">เธฃเธฐเธขเธฐเน€เธงเธฅเธฒ</TD>
 </TR>
 </TABLE>
  <table id="myTbl" width="100%" border="0" cellspacing="2" cellpadding="0">  
@@ -185,12 +185,12 @@ $(function(){
  <td  width="20%"> <input type="text" name="ArriveDate[]"  size="10"  id="ArriveDate[]" value="<?=$ArriveDate?>" onKeyPress="CheckNum()"/><a href="javascript:NewCal('ArriveDate[]','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a></td>
 
 
-  <td  width="20%"> <input type="text" name="period1[]" size="3"  id="period1[]" value=""/>&nbsp;ชม.,วัน,เดือน</td>
+  <td  width="20%"> <input type="text" name="period1[]" size="3"  id="period1[]" value=""/>&nbsp;เธเธก.,เธงเธฑเธ,เน€เธ”เธทเธญเธ</td>
  	<SCRIPT LANGUAGE="JavaScript">
 	<!--
 	function valid(){
-	if(document.form1.StartDate[].value==""){alert("กรุณาใส่ วันเดือนปีของจากวันที่");return false;}
-		if(document.form1.ArriveDate[].value==""){alert("กรุณาใส่ วันเดือนปีของถึงวันที่");return false;}
+	if(document.form1.StartDate[].value==""){alert("เธเธฃเธธเธ“เธฒเนเธชเน เธงเธฑเธเน€เธ”เธทเธญเธเธเธตเธเธญเธเธเธฒเธเธงเธฑเธเธ—เธตเน");return false;}
+		if(document.form1.ArriveDate[].value==""){alert("เธเธฃเธธเธ“เธฒเนเธชเน เธงเธฑเธเน€เธ”เธทเธญเธเธเธตเธเธญเธเธ–เธถเธเธงเธฑเธเธ—เธตเน");return false;}
 	}
 	//-->
 	</SCRIPT>
@@ -204,7 +204,7 @@ $(function(){
               <td height="39" align="right">&nbsp;</td>
               <td align="right">&nbsp;</td>
            
-              <td ><input  type="submit" name="ค้นหา" id="ค้นหา2" value="     เพิ่ม     " /></td>
+              <td ><input  type="submit" name="เธเนเธเธซเธฒ" id="เธเนเธเธซเธฒ2" value="     เน€เธเธดเนเธก     " /></td>
             </tr>
 
     </form>
@@ -212,15 +212,15 @@ $(function(){
                 <tr>
                   <td colspan="5"><table width="100%" border="1">
                     <tr>
-                      <td width="8%" height="54" align="center" bgcolor="#0066CC"><span class="style4">รหัส<BR>
-                        การเช่า</span></td>
-                  <td width="16%"align="center" bgcolor="#0066CC"><span class="style4">สมาชิก</span></td>
-                  <td width="13%" align="center"bgcolor="#0066CC"><span class="style4">เจ้าหน้าที่</span></td>
-                  <td width="19%" align="center"bgcolor="#0066CC"><span class="style4">เครื่องจักรกล</span></td>
-                  <td width="15%" align="center"bgcolor="#0066CC"><span class="style4">วันที่เช่า</span></td>
-                  <td width="14%"align="center" bgcolor="#0066CC"><span class="style4">วันที่คืน</span></td>
-				  <td width="9%" align="center"bgcolor="#0066CC"><span class="style4">เอกสาร</span></td>
-				  <td width="6%" align="center"bgcolor="#0066CC"><span class="style4">ลบ</span></td>
+                      <td width="8%" height="54" align="center" bgcolor="#0066CC"><span class="style4">เธฃเธซเธฑเธช<BR>
+                        เธเธฒเธฃเน€เธเนเธฒ</span></td>
+                  <td width="16%"align="center" bgcolor="#0066CC"><span class="style4">เธชเธกเธฒเธเธดเธ</span></td>
+                  <td width="13%" align="center"bgcolor="#0066CC"><span class="style4">เน€เธเนเธฒเธซเธเนเธฒเธ—เธตเน</span></td>
+                  <td width="19%" align="center"bgcolor="#0066CC"><span class="style4">เน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></td>
+                  <td width="15%" align="center"bgcolor="#0066CC"><span class="style4">เธงเธฑเธเธ—เธตเนเน€เธเนเธฒ</span></td>
+                  <td width="14%"align="center" bgcolor="#0066CC"><span class="style4">เธงเธฑเธเธ—เธตเนเธเธทเธ</span></td>
+				  <td width="9%" align="center"bgcolor="#0066CC"><span class="style4">เน€เธญเธเธชเธฒเธฃ</span></td>
+				  <td width="6%" align="center"bgcolor="#0066CC"><span class="style4">เธฅเธ</span></td>
                     </tr>
   
 						   <?  
@@ -324,7 +324,7 @@ e_k=event.keyCode
 if (((e_k < 48) || (e_k > 47)) && e_k != 46 && e_k != 13) {
 //if (e_k != 13 && (e_k < 48) || (e_k > 57) || e_k == ) {
 event.returnValue = false;
-alert(" กรุณาใส่วันที่ โดยการกดปุ่ม DATE");
+alert(" เธเธฃเธธเธ“เธฒเนเธชเนเธงเธฑเธเธ—เธตเน เนเธ”เธขเธเธฒเธฃเธเธ”เธเธธเนเธก DATE");
 }
 } 
 
@@ -339,7 +339,7 @@ window.open($URL,'','toolbar=no,location=no,status=no,resizable=yes,menubar=no,s
 }//of function
 
 function kod_pum() {
-alert('การใส่วันที่ต้องทำการกดปุ่ม Date เท่านั้นครับ');
+alert('เธเธฒเธฃเนเธชเนเธงเธฑเธเธ—เธตเนเธ•เนเธญเธเธ—เธณเธเธฒเธฃเธเธ”เธเธธเนเธก Date เน€เธ—เนเธฒเธเธฑเนเธเธเธฃเธฑเธ');
 		event.returnValue = false;
 } 
 </script>

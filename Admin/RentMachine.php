@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 </head>
 
@@ -20,7 +20,7 @@
   <tr valign="top">
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
-        <td width="100%" height="45"><center>���ͼ����ҹ : <?=$_SESSION['adm_name']?></center></td>
+        <td width="100%" height="45"><center>ชื่อผู้ใช้งาน : <?=$_SESSION['adm_name']?></center></td>
       </tr>
     </table>
       <table width="100%" height="52"  border="0">
@@ -32,37 +32,37 @@
         <tr>
           <td width="100%" height="34">
             <input type="image" name="imageField3" id="imageField3" src="../images/bullet.gif" />
-            <a href="index.php">˹���á</a></td>
+            <a href="index.php">หน้าแรก</a></td>
         </tr>
     </table>
       <table width="100%" height="29"  border="0">
         <tr>
-          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;����������ͧ�ѡ�</td>
+          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;ข้อมูลเครื่องจักร</td>
         </tr>
     </table>
       <table width="100%" height="31"  border="0">
         <tr>
-          <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;��������ͧ�ѡ�</td>
+          <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;เพิ่มเครื่องจักร</td>
         </tr>
     </table>
       <table width="100%" height="28"  border="0">
         <tr>
-          <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;��䢢�����</td>
+          <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;แก้ไขข้อมูล</td>
         </tr>
     </table>
       <table width="100%" height="36"  border="0">
         <tr>
-          <td width="100%" height="32"><img src="../images/bullet.gif" />&nbsp;ź������</td>
+          <td width="100%" height="32"><img src="../images/bullet.gif" />&nbsp;ลบข้อมูล</td>
         </tr>
     </table>
       <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;�ͨͧ</td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;ขอจอง</td>
         </tr>
     </table>
       <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;�����</td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;ขอเช่า</td>
         </tr>
       </table></td>
     <td width="77%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
@@ -77,23 +77,23 @@
         <td colspan="2" rowspan="3" valign="top" bgcolor="#FFFFFF"><table width="806" border="0">
           <tr>
             <td><fieldset>
-              <legend>�����š�èͧ</legend>
+              <legend>ข้อมูลการจอง</legend>
               <table width="725" border="0">
                 <tr>
-                  <td width="193">���ʡ�èͧ</td>
+                  <td width="193">รหัสการจอง</td>
                   <td width="330"><input name="name4" type="text" id="name4" size="30" maxlength="100" />
-                    <input type="submit" name="����3" id="����3" value="����" /></td>
+                    <input type="submit" name="ค้นหา3" id="ค้นหา3" value="ค้นหา" /></td>
                   <td width="188"><form id="form" name="form2" method="post" action="">
                   </form></td>
                 </tr>
                 <tr>
                   <td colspan="3"><table width="740" border="1">
                     <tr>
-                      <td width="128" bgcolor="#00CCFF">���ʡ�èͧ</td>
-                      <td width="133" bgcolor="#00CCFF">�ѹ���ͧ</td>
-                      <td width="116" bgcolor="#00CCFF">������Ҫԡ</td>
-                      <td width="126" bgcolor="#00CCFF">���ʡ������</td>
-                      <td width="134" bgcolor="#00CCFF">��������ͧ�ѡá�</td>
+                      <td width="128" bgcolor="#00CCFF">รหัสการจอง</td>
+                      <td width="133" bgcolor="#00CCFF">วันที่จอง</td>
+                      <td width="116" bgcolor="#00CCFF">รหัสสมาชิก</td>
+                      <td width="126" bgcolor="#00CCFF">รหัสกรรมการ</td>
+                      <td width="134" bgcolor="#00CCFF">รหัสเครื่องจักรกล</td>
                     </tr>
                     <tr>
                       <td bgcolor="#CCCCCC">&nbsp;</td>
@@ -121,14 +121,14 @@
           </tr>
           <tr>
             <td><fieldset>
-              <legend>��������´������</legend>
+              <legend>รายละเอียดการเช่า</legend>
               <table width="769" border="0">
                 <tr>
-                  <td width="106">�������˹�ҷ�� </td>
-                  <td width="105">��������ͧ�ѡ�</td>
-                  <td width="86">������Ҫԡ</td>
-                  <td width="225">�ѹ������</td>
-                  <td width="225">�ѹ���׹ </td>
+                  <td width="106">รหัสเจ้าหน้าที่ </td>
+                  <td width="105">รหัสเครื่องจักร</td>
+                  <td width="86">รหัสสมาชิก</td>
+                  <td width="225">วันที่เช่า</td>
+                  <td width="225">วันที่คืน </td>
                   </tr>
                 <tr>
                   <td><input name="name" type="text" id="name5" size="15" maxlength="100" /></td>
@@ -168,18 +168,18 @@
                     <option>31</option>
                   </select>
                     <select name="select5" id="select8">
-                      <option>���Ҥ�</option>
-                      <option>����Ҿѹ��</option>
-                      <option>�չҤ�</option>
-                      <option>����¹</option>
-                      <option>����Ҥ�</option>
-                      <option>�Զع�¹</option>
-                      <option>�á�Ҥ�</option>
-                      <option>�ԧ�Ҥ�</option>
-                      <option>�ѹ��¹</option>
-                      <option>���Ҥ�</option>
-                      <option>��ɨԡ�¹</option>
-                      <option>�ѹ�Ҥ�</option>
+                      <option>มกราคม</option>
+                      <option>กุมพาพันธ์</option>
+                      <option>มีนาคม</option>
+                      <option>เมษายน</option>
+                      <option>พฤษภาคม</option>
+                      <option>มิถุนายน</option>
+                      <option>กรกฎาคม</option>
+                      <option>สิงหาคม</option>
+                      <option>กันยายน</option>
+                      <option>ตุลาคม</option>
+                      <option>พฤษจิกายน</option>
+                      <option>ธันวาคม</option>
                     </select>
                     <select name="select5" id="select9">
                       <option>2554</option>
@@ -221,18 +221,18 @@
                     <option>31</option>
                   </select>
                     <select name="select" id="select2">
-                      <option>���Ҥ�</option>
-                      <option>����Ҿѹ��</option>
-                      <option>�չҤ�</option>
-                      <option>����¹</option>
-                      <option>����Ҥ�</option>
-                      <option>�Զع�¹</option>
-                      <option>�á�Ҥ�</option>
-                      <option>�ԧ�Ҥ�</option>
-                      <option>�ѹ��¹</option>
-                      <option>���Ҥ�</option>
-                      <option>��ɨԡ�¹</option>
-                      <option>�ѹ�Ҥ�</option>
+                      <option>มกราคม</option>
+                      <option>กุมพาพันธ์</option>
+                      <option>มีนาคม</option>
+                      <option>เมษายน</option>
+                      <option>พฤษภาคม</option>
+                      <option>มิถุนายน</option>
+                      <option>กรกฎาคม</option>
+                      <option>สิงหาคม</option>
+                      <option>กันยายน</option>
+                      <option>ตุลาคม</option>
+                      <option>พฤษจิกายน</option>
+                      <option>ธันวาคม</option>
                     </select>
                     <select name="select" id="select3">
                       <option>2554</option>
@@ -244,11 +244,11 @@
                 <tr>
                   <td colspan="5"><table width="807" border="1">
                     <tr>
-                      <td width="133" bgcolor="#00CCFF">�������˹�ҷ��</td>
-                      <td width="133" bgcolor="#00CCFF">��������ͧ�ѡá�</td>
-                      <td width="159" bgcolor="#00CCFF">������Ҫԡ</td>
-                      <td width="115" bgcolor="#00CCFF">�ѹ������</td>
-                      <td width="111" bgcolor="#00CCFF">�ѹ����Ѻ</td>
+                      <td width="133" bgcolor="#00CCFF">รหัสเจ้าหน้าที่</td>
+                      <td width="133" bgcolor="#00CCFF">รหัสเครื่องจักรกล</td>
+                      <td width="159" bgcolor="#00CCFF">รหัสสมาชิก</td>
+                      <td width="115" bgcolor="#00CCFF">วันที่เช่า</td>
+                      <td width="111" bgcolor="#00CCFF">วันที่รับ</td>
                     </tr>
                     <tr>
                       <td bgcolor="#CCCCCC">&nbsp;</td>
@@ -270,8 +270,8 @@
                   <td>&nbsp;</td>
                   <td>&nbsp;</td>
                   <td>&nbsp;</td>
-                  <td><input  type="submit" name="����2" id="����" value="     �ѹ�֡     " /></td>
-                  <td><input  type="submit" name="����" id="����4" value="     �͡��§ҹ     " /></td>
+                  <td><input  type="submit" name="ค้นหา2" id="ค้นหา" value="     บันทึก     " /></td>
+                  <td><input  type="submit" name="ค้นหา" id="ค้นหา4" value="     ออกรายงาน     " /></td>
                   </tr>
               </table>
             </fieldset></td>

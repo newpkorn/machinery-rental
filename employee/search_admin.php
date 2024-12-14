@@ -6,14 +6,14 @@
 <Center>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 </head>
 
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("§ÿ≥µÈÕß°“√≈∫¢ÈÕ¡Ÿ≈ ?") == true) {
+  if (confirm("‡∏Ñ‡∏∏‡∏ì‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡∏•‡∏ö‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏• ?") == true) {
   return true;
   }
   return false;
@@ -34,7 +34,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-™◊ËÕºŸÈ„™Èß“π : <?=$_SESSION['emp_name']?>
+‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -47,22 +47,22 @@
             <table width="100%" height="38"  border="0">
               <tr>
                 <td width="100%" height="34"><input type="image" name="imageField3" id="imageField3" src="../images/bullet.gif" />
-                  <a href="Menu_Detail.php">ÀπÈ“·√°</a></td>
+                  <a href="Menu_Detail.php">‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></td>
               </tr>
             </table>
             <table width="100%" height="29"  border="0">
               <tr>
-                <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<a href="search_admin.php">¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></td>
+                <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<a href="search_admin.php">‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></td>
               </tr>
             </table>
             <table width="100%" height="31"  border="0">
               <tr>
-                <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;<a href="InsertAdmin.php">‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></td>
+                <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;<a href="InsertAdmin.php">‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></td>
               </tr>
             </table>
             <table width="100%" height="28"  border="0">
               <tr>
-                <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></td>
+                <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></td>
               </tr>
             </table>
             <table width="100%" height="36"  border="0">
@@ -85,7 +85,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%"><strong>¬‘π¥’µÈÕπ√—∫ ŸË√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ¡À“ “√§“¡ </strong></td>
+            <td width="48%"><strong>‡∏¢‡∏¥‡∏ô‡∏î‡∏µ‡∏ï‡πâ‡∏≠‡∏ô‡∏£‡∏±‡∏ö‡∏™‡∏π‡πà‡∏£‡∏∞‡∏ö‡∏ö‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏• ‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á ‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏° </strong></td>
             <td width="52%" align="right">&nbsp;</td>
           </tr>
           <tr>
@@ -97,20 +97,20 @@
               <table width="690" height="162" border="0" align="center">
                 <tr>
                   <td width="245" align="right"><img src="../images/icon_search11.gif" width="50" height="50"></td>
-                  <td width="239"><span class="style51">§ÈπÀ“‡®È“ÀπÈ“∑’Ë</span></td>
+                  <td width="239"><span class="style51">‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</span></td>
                 </tr>
                 <tr>
                   <td colspan="2"><form id="form1" name="form1" method="post" action="search_admin.php">
-      §”∑’ËµÈÕß°“√§ÈπÀ“
+      ‡∏Ñ‡∏≥‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤
       <input name="txtKeyword" type="text" id="txtKeyword" value="<?=$_POST["txtKeyword"];?>" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;®“°
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏à‡∏≤‡∏Å
 <select name="fields" >
-  <option value="1" selected="selected" <? echo $select1;?>>√À— </option>
-  <option value="2"<? echo $select2;?>>™◊ËÕ</option>
-  <option value="3" <? echo $select3;?>>«/¥/ª’ ‡°‘¥</option>
+  <option value="1" selected="selected" <? echo $select1;?>>‡∏£‡∏´‡∏±‡∏™</option>
+  <option value="2"<? echo $select2;?>>‡∏ä‡∏∑‡πà‡∏≠</option>
+  <option value="3" <? echo $select3;?>>‡∏ß/‡∏î/‡∏õ‡∏µ ‡πÄ‡∏Å‡∏¥‡∏î</option>
 </select>
 &nbsp;
-<input type="submit" name="Submit" value="§ÈπÀ“" />
+<input type="submit" name="Submit" value="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤" />
      </form></td>
                   </tr>
                 <tr>
@@ -126,14 +126,14 @@
 
                     <table width="667" border="0">
                       <tr>
-                      	<td width="50" bgcolor="#CCCCCC"><div align="center">√À— </div></td>
-                        <td width="99" bgcolor="#CCCCCC"><div align="center">™◊ËÕ</div></td>
-                        <td width="64" bgcolor="#CCCCCC"><div align="center">µ”·ÀπËß</div></td>
-          <td width="60" bgcolor="#CCCCCC"><div align="center">‡æ»</div></td>
-          <td width="68" bgcolor="#CCCCCC"><div align="center">‡∫Õ√Ï‚∑√</div></td>
-          <td width="72" bgcolor="#CCCCCC"><div align="center">∑’ËÕ¬ŸË</div></td>
-          <td width="56" bgcolor="#CCCCCC"><div align="center">·°È‰¢</div></td>
-          <td width="26" bgcolor="#CCCCCC"><div align="center">≈∫</div></td>
+                      	<td width="50" bgcolor="#CCCCCC"><div align="center">‡∏£‡∏´‡∏±‡∏™</div></td>
+                        <td width="99" bgcolor="#CCCCCC"><div align="center">‡∏ä‡∏∑‡πà‡∏≠</div></td>
+                        <td width="64" bgcolor="#CCCCCC"><div align="center">‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á</div></td>
+          <td width="60" bgcolor="#CCCCCC"><div align="center">‡πÄ‡∏û‡∏®</div></td>
+          <td width="68" bgcolor="#CCCCCC"><div align="center">‡πÄ‡∏ö‡∏≠‡∏£‡πå‡πÇ‡∏ó‡∏£</div></td>
+          <td width="72" bgcolor="#CCCCCC"><div align="center">‡∏ó‡∏µ‡πà‡∏≠‡∏¢‡∏π‡πà</div></td>
+          <td width="56" bgcolor="#CCCCCC"><div align="center">‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç</div></td>
+          <td width="26" bgcolor="#CCCCCC"><div align="center">‡∏•‡∏ö</div></td>
                       </tr>
                       
                       <?
@@ -158,8 +158,8 @@ while($row_show = mysql_fetch_array($result_show))
           <td><?=$row_show['sex']?></td>
           <td><?=$row_show['phone']?></td>
           <td><?=$row_show['address']?></td>
-          <td><div align="center"><a href="editAdmin.php?edit_id=<?=$row_show['adm_id']?>">·°È‰¢</a></div></td>
-           <td><div align="center"><a href="del_Admin.php?del_id=<?=$row_show[adm_id]?>" onClick='return Conf(this)' >≈∫</a></div></td>
+          <td><div align="center"><a href="editAdmin.php?edit_id=<?=$row_show['adm_id']?>">‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç</a></div></td>
+           <td><div align="center"><a href="del_Admin.php?del_id=<?=$row_show[adm_id]?>" onClick='return Conf(this)' >‡∏•‡∏ö</a></div></td>
         </tr>
         <?
 }

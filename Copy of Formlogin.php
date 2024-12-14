@@ -6,7 +6,7 @@
 <Center>
 <head>
 <HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/css.css" rel="stylesheet" type="text/css">
 
 <SCRIPT LANGUAGE="JavaScript">

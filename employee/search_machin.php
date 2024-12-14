@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -21,7 +21,7 @@
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
+  if (confirm("เธเธธเธ“เธ•เนเธญเธเธเธฒเธฃเธฅเธเธเนเธญเธกเธนเธฅ ?") == true) {
   	return true;
   }
   	return false;
@@ -42,7 +42,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style1">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['emp_name']?>
+<span class="style1">เธเธทเนเธญเธเธนเนเนเธเนเธเธฒเธ</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -54,16 +54,16 @@
           <td width="100%" height="48"><center>
           <table width="97%" height="173" align="center" border="0" bgcolor="#FFFFFF">
             <tr>
-              <td width="100%" height="34">&nbsp;&nbsp;<img src="../images/home.gif" alt="" width="16" height="14">                <a href="Menu_Detail.php">หน้าแรก</a></td>
+              <td width="100%" height="34">&nbsp;&nbsp;<img src="../images/home.gif" alt="" width="16" height="14">                <a href="Menu_Detail.php">เธซเธเนเธฒเนเธฃเธ</a></td>
             </tr>
             <tr>
-              <td height="34">&nbsp;&nbsp;<img src="../images/edit.gif" alt="" width="15" height="15">&nbsp;<a href="search_machin.php">ข้อมูลเครื่องจักรกล</a></td>
+              <td height="34">&nbsp;&nbsp;<img src="../images/edit.gif" alt="" width="15" height="15">&nbsp;<a href="search_machin.php">เธเนเธญเธกเธนเธฅเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></td>
             </tr>
             <tr>
-              <td height="34">&nbsp;&nbsp;<img src="../images/addg.GIF" alt="" width="15" height="15"><a href="DesignInsertMachine.php">&nbsp;เพิ่มข้อมูลเครื่องจักรกล</a></td>
+              <td height="34">&nbsp;&nbsp;<img src="../images/addg.GIF" alt="" width="15" height="15"><a href="DesignInsertMachine.php">&nbsp;เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></td>
             </tr>
             <tr>
-              <td height="37">&nbsp;&nbsp;<img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ออกจากระบบ</a></td>
+              <td height="37">&nbsp;&nbsp;<img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">เธญเธญเธเธเธฒเธเธฃเธฐเธเธ</a></td>
             </tr>
           </table>
           </center></td>
@@ -81,7 +81,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="100%" colspan="2"><strong><marquee>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม</marquee> </strong></td>
+            <td width="100%" colspan="2"><strong><marquee>เธขเธดเธเธ”เธตเธ•เนเธญเธเธฃเธฑเธเธชเธนเนเธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</marquee> </strong></td>
            
           </tr>
           <tr>
@@ -93,21 +93,21 @@
               <table width="100%" height="162" border="0" align="center">
                 <tr>
                   <td width="50%" align="right"><img src="../images/icon_search11.gif" width="50" height="50"></td>
-                  <td width="50%"><span class="style51">ค้นหาเครื่องจักรกล</span></td>
+                  <td width="50%"><span class="style51">เธเนเธเธซเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></td>
                 </tr>
                 <tr>
                   <td colspan="2" align="center" width="100%><form id="form1" name="form1" method="post" action="search_machin.php">
-      คำที่ต้องการค้นหา
+      เธเธณเธ—เธตเนเธ•เนเธญเธเธเธฒเธฃเธเนเธเธซเธฒ
       <input name="txtKeyword" type="text" id="txtKeyword" value="<?=$_POST["txtKeyword"];?>" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จาก
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เธเธฒเธ
 <select name="fields" >
-  <option value="1" selected="selected" <? echo $select1;?>>รหัสเครื่อง</option>
-  <option value="2" <? echo $select1;?>>ทะเบียน</option>
-  <option value="3"<? echo $select2;?>>ชื่อเครื่องจักรกล</option>
-  <option value="4" <? echo $select3;?>>ขื่อผู้ดูแล</option>
+  <option value="1" selected="selected" <? echo $select1;?>>เธฃเธซเธฑเธชเน€เธเธฃเธทเนเธญเธ</option>
+  <option value="2" <? echo $select1;?>>เธ—เธฐเน€เธเธตเธขเธ</option>
+  <option value="3"<? echo $select2;?>>เธเธทเนเธญเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</option>
+  <option value="4" <? echo $select3;?>>เธเธทเนเธญเธเธนเนเธ”เธนเนเธฅ</option>
 </select>
 &nbsp;
-<input type="submit" name="Submit" value="ค้นหา" />
+<input type="submit" name="Submit" value="เธเนเธเธซเธฒ" />
                   </form></td>
                   </tr>
                 <tr>
@@ -124,18 +124,18 @@
 
                     <table width="100%" border="0">
                       <tr>
-                      	<td width="8%" height="31" bgcolor="#0066CC"><div align="center" class="style2"><strong>รหัส</strong></div></td>
-                        <td width="17%" bgcolor="#0066CC"><div align="center" class="style6">ชื่อ</div></td>
-                        <td width="8%" bgcolor="#0066CC"><div align="center" class="style6">ทะเบียน</div></td>
-          <td width="13%" bgcolor="#0066CC"><div align="center" class="style6">ยี่ห้อ</div></td>
-          <td width="13%" bgcolor="#0066CC"><div align="center" class="style6">ประเภท</div></td>
-          <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">ราคา</div></td>
-		            <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">หน่วย</div></td>
-          <td width="5%" bgcolor="#0066CC"><div align="center" class="style6">สถานะ</div></td>
-		  		  <td width="5%" bgcolor="#0066CC"><div align="center" class="style6">รูปภาพ</div></td>
-          <td width="13%" bgcolor="#0066CC"><div align="center" class="style6">ผู้ดูแล</div></td>
-          <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">แก้ไข</div></td>
-          <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">ลบ</div></td>
+                      	<td width="8%" height="31" bgcolor="#0066CC"><div align="center" class="style2"><strong>เธฃเธซเธฑเธช</strong></div></td>
+                        <td width="17%" bgcolor="#0066CC"><div align="center" class="style6">เธเธทเนเธญ</div></td>
+                        <td width="8%" bgcolor="#0066CC"><div align="center" class="style6">เธ—เธฐเน€เธเธตเธขเธ</div></td>
+          <td width="13%" bgcolor="#0066CC"><div align="center" class="style6">เธขเธตเนเธซเนเธญ</div></td>
+          <td width="13%" bgcolor="#0066CC"><div align="center" class="style6">เธเธฃเธฐเน€เธ เธ—</div></td>
+          <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">เธฃเธฒเธเธฒ</div></td>
+		            <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">เธซเธเนเธงเธข</div></td>
+          <td width="5%" bgcolor="#0066CC"><div align="center" class="style6">เธชเธ–เธฒเธเธฐ</div></td>
+		  		  <td width="5%" bgcolor="#0066CC"><div align="center" class="style6">เธฃเธนเธเธ เธฒเธ</div></td>
+          <td width="13%" bgcolor="#0066CC"><div align="center" class="style6">เธเธนเนเธ”เธนเนเธฅ</div></td>
+          <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">เนเธเนเนเธ</div></td>
+          <td width="6%" bgcolor="#0066CC"><div align="center" class="style6">เธฅเธ</div></td>
                       </tr>
                       
                       <?
@@ -180,7 +180,7 @@ while($row_show = mysql_fetch_array($result_show))
           <td bgcolor="#CCFFFF"><span class="style1">
             <?=$row_show['status_name']?>
           </span></td>
-		    <td bgcolor="#CCFFFF"><A HREF="../images_machinery/<?if($row_show[mac_picture]!=""){echo"$row_show[mac_picture]";}else{echo"nopic.jpg";}?>" target="_blank" class="style7">ดูภาพ</A></td>
+		    <td bgcolor="#CCFFFF"><A HREF="../images_machinery/<?if($row_show[mac_picture]!=""){echo"$row_show[mac_picture]";}else{echo"nopic.jpg";}?>" target="_blank" class="style7">เธ”เธนเธ เธฒเธ</A></td>
           <td bgcolor="#CCFFFF"><span class="style1">
             <?=$row_show['control_name']?>
           </span></td>

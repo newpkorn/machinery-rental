@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title></title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 
 <style type="text/css">
@@ -34,7 +34,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style4">���ͼ����ҹ</span> : <?=$_SESSION['emp_name']?>
+<span class="style4">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -46,10 +46,10 @@
     </table>
 	      <table width="92%" height="70"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="35"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">˹���á</a></td>
+          <td height="35"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">หน้าแรก</a></td>
         </tr>        
         <tr>
-          <td width="100%" height="23"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></td>
+          <td width="100%" height="23"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ออกจากระบบ</a></td>
         </tr>
     </table>
     </td>
@@ -64,7 +64,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%" colspan="2"><strong><marquee>�Թ�յ�͹�Ѻ����к����������ͧ�ѡá� ����ҧ��ǧ �����ä�� </marquee></strong></td>
+            <td width="48%" colspan="2"><strong><marquee>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </marquee></strong></td>
           
           </tr>
           <tr>
@@ -79,16 +79,16 @@
 				<FORM METHOD=POST ACTION=""  enctype="multipart/form-data">
 					  <TABLE>
 				  <TR>
-					<TD>�����͡���</TD><TD><INPUT TYPE="text" NAME="docname"></TD>
+					<TD>ชื่อเอกสาร</TD><TD><INPUT TYPE="text" NAME="docname"></TD>
 				  </TR>
 				  <TR>
-					<TD>����͡���</TD><TD><INPUT TYPE="file" NAME="file_UpFile[]" id="file_UpFile[]" ></TD>
+					<TD>ไฟล์เอกสาร</TD><TD><INPUT TYPE="file" NAME="file_UpFile[]" id="file_UpFile[]" ></TD>
 				  </TR>
 				  <TR>
-					<TD align="center" colspan="2"><INPUT TYPE="submit" value="�ѹ�֡"></TD>
+					<TD align="center" colspan="2"><INPUT TYPE="submit" value="บันทึก"></TD>
 				  </TR><INPUT TYPE="hidden" NAME="add" value="1">
 				   <TR>
-					<TD align="center" colspan="2"> �ٻẺ������Ѿ��Ŵ�� .doc .pdf ��Ҵ����Թ 2 Mb</TD>
+					<TD align="center" colspan="2"> รูปแบบไฟล์ที่อัพโหลดได้ .doc .pdf ขนาดไม่เกิน 2 Mb</TD>
 				  </TR>
 				  </TABLE>
 				  </FORM>
@@ -110,19 +110,19 @@ $folder = '../document/';
 			$FileSize 		= $_FILES['file_UpFile'] ['size'] [$i];
 	 		$FileUpLoadtmp = $_FILES['file_UpFile'] ['tmp_name'] [$i];
 			if($FileUpLoadtmp){					 
-					$array_last = explode(".",$FileName); // �� array �Ҩӹǹ �ش . �ͧ���͵�����			
-							$c = count($array_last) - 1; //�Ѻ�ӹǹ �ش "." �ͧ���͵����� 
-							$lname = strtolower($array_last [$c]); // �� ���ʡ����� ����ش���¢ͧ ������
+					$array_last = explode(".",$FileName); // เป็น array หาจำนวน จุด . ของชื่อตัวแปร์			
+							$c = count($array_last) - 1; //นับจำนวน จุด "." ของชื่อตัวแปร์ 
+							$lname = strtolower($array_last [$c]); // หา นามสกุลไฟล์ ตัวสุดท้ายของ ตัวแปร์
 							$NewFileupload = date("U"); 
-						    $NewFile = $NewFileupload.$i.".$lname"; //��� ������й��ʡ�ش�����Ҵ��¡ѹ \
+						    $NewFile = $NewFileupload.$i.".$lname"; //รวม ชื่อและนามสกลุดไฟล์เข้าด้วยกัน \
 if ($FileSize > 2000000)
     {
-    echo"<SCRIPT>alert('��Ҵ����˭��Թ 2 Mb'); </SCRIPT>";
+    echo"<SCRIPT>alert('ขนาดไฟล์ใหญ่เกิน 2 Mb'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=document.php'>"; 
 		exit();
     }
 
-if($lname!="doc" and  $lname!="pdf"  ){	echo"<SCRIPT>alert('�ٻẺ������١��ͧ'); </SCRIPT>";
+if($lname!="doc" and  $lname!="pdf"  ){	echo"<SCRIPT>alert('รูปแบบไฟล์ไม่ถูกต้อง'); </SCRIPT>";
 	//echo "<meta http-equiv='refresh' content='0; url=document.php'>"; 
 	}
 						if($lname=="doc" or $lname=="pdf" ){
@@ -148,13 +148,13 @@ $resultin = mysql_query($sqlin);}
 				  			<FORM METHOD=POST ACTION=""  enctype="multipart/form-data">
 					  <TABLE>
 				  <TR>
-					<TD>�����͡���</TD><TD><INPUT TYPE="text" NAME="docname" value="<?=$rsdoc1[1]?>"></TD>
+					<TD>ชื่อเอกสาร</TD><TD><INPUT TYPE="text" NAME="docname" value="<?=$rsdoc1[1]?>"></TD>
 				  </TR>
 				  <TR>
-					<TD>����͡���</TD><TD><INPUT TYPE="file" NAME="file_UpFile[]" id="file_UpFile[]"></TD>
+					<TD>ไฟล์เอกสาร</TD><TD><INPUT TYPE="file" NAME="file_UpFile[]" id="file_UpFile[]"></TD>
 				  </TR>
 				  <TR>
-					<TD align="center" colspan="2"><INPUT TYPE="submit" value="���"></TD>
+					<TD align="center" colspan="2"><INPUT TYPE="submit" value="แก้ไข"></TD>
 				  </TR><INPUT TYPE="hidden" NAME="add" value="2">
 				  </TABLE>
 				  </FORM>
@@ -175,19 +175,19 @@ $folder = '../document/';
 			$FileSize 		= $_FILES['file_UpFile'] ['size'] [$i];
 	 		$FileUpLoadtmp = $_FILES['file_UpFile'] ['tmp_name'] [$i];
 			if($FileUpLoadtmp){					 
-					$array_last = explode(".",$FileName); // �� array �Ҩӹǹ �ش . �ͧ���͵�����			
-							$c = count($array_last) - 1; //�Ѻ�ӹǹ �ش "." �ͧ���͵����� 
-							$lname = strtolower($array_last [$c]); // �� ���ʡ����� ����ش���¢ͧ ������
+					$array_last = explode(".",$FileName); // เป็น array หาจำนวน จุด . ของชื่อตัวแปร์			
+							$c = count($array_last) - 1; //นับจำนวน จุด "." ของชื่อตัวแปร์ 
+							$lname = strtolower($array_last [$c]); // หา นามสกุลไฟล์ ตัวสุดท้ายของ ตัวแปร์
 							$NewFileupload = date("U"); 
-						    $NewFile = $NewFileupload.$i.".$lname"; //��� ������й��ʡ�ش�����Ҵ��¡ѹ \
+						    $NewFile = $NewFileupload.$i.".$lname"; //รวม ชื่อและนามสกลุดไฟล์เข้าด้วยกัน \
 if ($FileSize > 2000000)
     {
-    echo"<SCRIPT>alert('��Ҵ����˭��Թ 2 Mb'); </SCRIPT>";
+    echo"<SCRIPT>alert('ขนาดไฟล์ใหญ่เกิน 2 Mb'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=document.php'>"; 
 		exit();
     }
 
-if($lname!="doc" and  $lname!="pdf"  ){	echo"<SCRIPT>alert('�ٻẺ������١��ͧ'); </SCRIPT>";
+if($lname!="doc" and  $lname!="pdf"  ){	echo"<SCRIPT>alert('รูปแบบไฟล์ไม่ถูกต้อง'); </SCRIPT>";
 	//echo "<meta http-equiv='refresh' content='0; url=document.php'>"; 
 	}
 						if($lname=="doc" or $lname=="pdf" ){
@@ -210,10 +210,10 @@ $resultin = mysql_query($sqlin);}
 				<BR><BR>
 				  <table width="500" border="1">
             <TR>
-				<TD width="15%"  align="center" bgcolor="#0000FF"><span class="style2">�ӴѺ</span></TD>
-				<TD width="65%" align="center" bgcolor="#0000FF"><span class="style2">�͡���</span></TD>
-				<TD width="10%" align="center" bgcolor="#0000FF"><span class="style2">���</span></TD>
-				<TD width="10%" align="center" bgcolor="#0000FF"><span class="style2">ź</span></TD>
+				<TD width="15%"  align="center" bgcolor="#0000FF"><span class="style2">ลำดับ</span></TD>
+				<TD width="65%" align="center" bgcolor="#0000FF"><span class="style2">เอกสาร</span></TD>
+				<TD width="10%" align="center" bgcolor="#0000FF"><span class="style2">แก้ไข</span></TD>
+				<TD width="10%" align="center" bgcolor="#0000FF"><span class="style2">ลบ</span></TD>
             </TR>
 			<?
 			$numb=1;
@@ -275,11 +275,11 @@ $resultin = mysql_query($sqlin);}
 $sql1 = "delete from  tb_document   where document_id='$del'";
 $result1 = mysql_query($sql1);
 if($result1){
-echo"<SCRIPT>alert('ź��������������');window.navigate('?');</SCRIPT>";
+echo"<SCRIPT>alert('ลบข้อมูลเสร็จแล้ว');window.navigate('?');</SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=document.php'>";
  
 } else {
-echo"<SCRIPT>alert('�������öź��������');window.navigate('?');</SCRIPT>";
+echo"<SCRIPT>alert('ไม่สามารถลบข้อมูลได้');window.navigate('?');</SCRIPT>";
 echo "<meta http-equiv='refresh' content='0; url=document.php'>";
 }
 }?>

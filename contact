@@ -13,7 +13,7 @@
 .style56 {color: #CC9900}
 -->
 </style>
-<HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
+<HEAD><TITLE>: : √–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß¡À“ “√§“¡ : :</TITLE>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/css.css" rel="stylesheet" type="text/css">
 
@@ -22,12 +22,12 @@
 function validate(){
 	var f = document.login;
 	if (f.username.value=="") 	{
-		alert("กรุณาป้อนชื่อผู้ใช้งาน.");`
+		alert("°√ÿ≥“ªÈÕπ™◊ËÕºŸÈ„™Èß“π.");
 		f.username.focus();
 		return false;
 	}
 	if (f.password.value=="") 	{
-		alert("กรุณาป้อนรหัสผ่าน.");
+		alert("°√ÿ≥“ªÈÕπ√À— ºË“π.");
 		f.password.focus();
 		return false;
 	}
@@ -58,7 +58,7 @@ function validate(){
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
             <td><strong><marquee>
-            <span class="style53">ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </span>
+            <span class="style53">¬‘π¥’µÈÕπ√—∫ ŸË√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ¡À“ “√§“¡ </span>
             </marquee></strong></td>
             </tr>
           <tr>
@@ -69,11 +69,11 @@ function validate(){
 		$row_show = mysql_fetch_array($result_show);?>
 
 <TR>
-	<TD><span class="style55"><BR>ติดต่อสำนักงานทางหลวงมหาสารคาม </span><BR><BR>
+	<TD><span class="style55"><BR>µ‘¥µËÕ ”π—°ß“π∑“ßÀ≈«ß¡À“ “√§“¡ </span><BR><BR>
 	 &nbsp;&nbsp;&nbsp; <span class="style56"><?=$row_show['contact_add']?> </span><BR><BR>
-	 <span class="style55">โทรศัพน์</span><BR><BR>
+	 <span class="style55">‚∑√»—æπÏ</span><BR><BR>
 	&nbsp;&nbsp;&nbsp; <span class="style56"><?=$row_show['contact_tel']?></span><BR><BR>
-	<span class="style55">อีเมล์</span><BR><BR>&nbsp;&nbsp;&nbsp;<span class="style56"><?=$row_show['contact_mail']?></span><BR> </TD>
+	<span class="style55">Õ’‡¡≈Ï</span><BR><BR>&nbsp;&nbsp;&nbsp;<span class="style56"><?=$row_show['contact_mail']?></span><BR> </TD>
 </TR>
 
               </table></td>

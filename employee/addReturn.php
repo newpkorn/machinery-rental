@@ -25,8 +25,8 @@
 //}
 if($resultin){
 
-echo"<SCRIPT>alert('ทำการคืนเสร็จแล้ว');</SCRIPT>";
+echo"<SCRIPT>alert('เธ—เธณเธเธฒเธฃเธเธทเธเน€เธชเธฃเนเธเนเธฅเนเธง');</SCRIPT>";
 echo "<meta http-equiv=\"refresh\" content=\"1;url=ReturntMachine.php\"> ";
-}	else {echo"<SCRIPT>alert('ไม่สามารถคืนข้อมูลได้');</SCRIPT>";
+}	else {echo"<SCRIPT>alert('เนเธกเนเธชเธฒเธกเธฒเธฃเธ–เธเธทเธเธเนเธญเธกเธนเธฅเนเธ”เน');</SCRIPT>";
 echo "<meta http-equiv=\"refresh\" content=\"1;url=ReturntMachine.php\"> ";
 }?>

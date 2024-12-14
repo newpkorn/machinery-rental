@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 
@@ -25,7 +25,7 @@ $(function(){
         if($("#myTbl tr").size()>1){  
             $("#myTbl tr:last").remove();  
         }else{  
-            alert("��ͧ����¡�â��������ҧ���� 1 ��¡��");  
+            alert("ต้องมีรายการข้อมูลอย่างน้อย 1 รายการ");  
         }  
     });           
 });  
@@ -34,7 +34,7 @@ $(function(){
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("�س��ͧ���ź������ ?") == true) {
+  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
   return true;
   }
   return false;
@@ -56,7 +56,7 @@ $(function(){
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-            <span class="style2">���ͼ����ҹ</span> : <?=$_SESSION['emp_name']?>
+            <span class="style2">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -69,17 +69,17 @@ $(function(){
     </table>
       <table width="92%" height="182"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="34"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">˹���á</a></td>
+          <td height="34"><img src="../images/home.gif" alt="" width="16" height="14" /> <a href="Menu_Detail.php">หน้าแรก</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="RentMachine.php">�������ͧ�ѡá�</a></td>
+          <td height="34"><img src="../images/note.png" alt="" width="15" height="15" />&nbsp;<a href="RentMachine.php">เช่าเครื่องจักรกล</a></td>
         </tr>
         <tr>
-          <td height="34"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_rent.php">���Ң����š�����</a></td>
+          <td height="34"><img src="../images/icon_searchMenu.gif" alt="" width="15" height="15" />&nbsp;<a href="search_rent.php">ค้นหาข้อมูลการเช่า</a></td>
         </tr>
         
         <tr>
-          <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></td>
+          <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ออกจากระบบ</a></td>
         </tr>
     </table>
 
@@ -99,7 +99,7 @@ $(function(){
 
             <tr>
             <td><fieldset>
-              <legend>��������´������</legend>
+              <legend>รายละเอียดการเช่า</legend>
 	
           <table width="100%"  border="0">
             
@@ -107,14 +107,14 @@ $(function(){
                 <tr>
                   <td colspan="5"><table width="100%" border="1">
                     <tr>
-                      <td width="8%" height="35" align="center" bgcolor="#0000FF"><span class="style1">���ʡ�����</span></td>
-                  <td width="13%"align="center" bgcolor="#0000FF"><span class="style1">��Ҫԡ</span></td>
-                  <td width="13%" align="center"bgcolor="#0000FF"><span class="style1">��ѡ�ҹ����</span></td>
-                  <td width="30%" align="center"bgcolor="#0000FF"><span class="style1">����ͧ�ѡá�</span></td>
-                  <td width="10%" align="center"bgcolor="#0000FF"><span class="style1">�ѹ������</span></td>
-                  <td width="10%"align="center" bgcolor="#0000FF"><span class="style1">�ѹ���׹</span></td>
+                      <td width="8%" height="35" align="center" bgcolor="#0000FF"><span class="style1">รหัสการเช่า</span></td>
+                  <td width="13%"align="center" bgcolor="#0000FF"><span class="style1">สมาชิก</span></td>
+                  <td width="13%" align="center"bgcolor="#0000FF"><span class="style1">พนักงานดูแล</span></td>
+                  <td width="30%" align="center"bgcolor="#0000FF"><span class="style1">เครื่องจักรกล</span></td>
+                  <td width="10%" align="center"bgcolor="#0000FF"><span class="style1">วันที่เช่า</span></td>
+                  <td width="10%"align="center" bgcolor="#0000FF"><span class="style1">วันที่คืน</span></td>
 				  
-				  <td width="8%" align="center"bgcolor="#0000FF"><span class="style1">ź</span></td>
+				  <td width="8%" align="center"bgcolor="#0000FF"><span class="style1">ลบ</span></td>
                     </tr>
   
 						   <?  
@@ -162,7 +162,7 @@ echo thai_date1($eng_date2);?>
 				    <?}?>
 				  </span></td>
                 
-				   <td align="center"bgcolor="#CCFFFF"><div align="center" class="style2"><a href="del_Rent.php?del_id=<?=$rsreserv1[0]?>" onClick='return Conf(this)' >ź</a></div></td>
+				   <td align="center"bgcolor="#CCFFFF"><div align="center" class="style2"><a href="del_Rent.php?del_id=<?=$rsreserv1[0]?>" onClick='return Conf(this)' >ลบ</a></div></td>
                 </tr>
 
          
@@ -174,38 +174,38 @@ echo thai_date1($eng_date2);?>
                 <tr>
                   <td> <table width="100%" border="1">
 				  <TR>
-					<TD height="33" align="center" bgcolor="#FFFFCC"><span class="style3">�ӴѺ</span></TD>
-					<TD align="center" bgcolor="#FFFFCC"><span class="style3">�͡���</span></TD>
-					<TD align="center" bgcolor="#FFFFCC"><span class="style3">�����</span></TD>
+					<TD height="33" align="center" bgcolor="#FFFFCC"><span class="style3">ลำดับ</span></TD>
+					<TD align="center" bgcolor="#FFFFCC"><span class="style3">เอกสาร</span></TD>
+					<TD align="center" bgcolor="#FFFFCC"><span class="style3">พิมพ์</span></TD>
 				  </TR>
 				  <TR>
 					<TD align="center">1</TD>
-					<TD><A HREF="form/form_Bookcontract.php?type_id=<?=$idl?>" target="_blank">˹ѧ����ѭ�����</A></TD>
+					<TD><A HREF="form/form_Bookcontract.php?type_id=<?=$idl?>" target="_blank">หนังสือสัญญาเช่า</A></TD>
 					<TD align="center"><a href="form/form_Bookcontract.php?type_id=<?=$idl?>&print=1 "  target="_blank"><IMG SRC="../images/printblack_wrtht.png" WIDTH="32" HEIGHT="32" BORDER="0" ALT=""></A></TD>
 				  </TR>
 				  <TR>
 					<TD align="center">2</TD>
-					<TD><A HREF="form/form_Booklease.php?type_id=<?=$idl?>" target="_blank">˹ѧ��͢����</A></TD>
+					<TD><A HREF="form/form_Booklease.php?type_id=<?=$idl?>" target="_blank">หนังสือขอเช่า</A></TD>
 					<TD align="center"><a href="form/form_Booklease.php?type_id=<?=$idl?> &print=1 "  target="_blank"><IMG SRC="../images/printblack_wrtht.png" WIDTH="32" HEIGHT="32" BORDER="0" ALT=""></A></TD>
 				  </TR>
 				  <TR>
 					<TD align="center">3</TD>
-					<TD><A HREF="form/form_charter.php?type_id=<?=$idl?>" target="_blank">�ѭ���������ͧ�ѡá�</A></TD>
+					<TD><A HREF="form/form_charter.php?type_id=<?=$idl?>" target="_blank">สัญญาเช่าเครื่องจักรกล</A></TD>
 						<TD align="center"><a href="form/form_charter.php?type_id=<?=$idl?>&print=1" target="_blank"><IMG SRC="../images/printblack_wrtht.png" WIDTH="32" HEIGHT="32" BORDER="0" ALT=""></A></TD>
 				  </TR>
 				    <TR>
 					<TD align="center">4</TD>
-					<TD><A HREF="form/form_rented.php?type_id=<?=$idl?>" target="_blank">㺢��������ͧ�ѡá�</A></TD>
+					<TD><A HREF="form/form_rented.php?type_id=<?=$idl?>" target="_blank">ใบขอเช่าเครื่องจักรกล</A></TD>
 						<TD align="center"><a href="form/form_rented.php?type_id=<?=$idl?>&print=1" target="_blank"><IMG SRC="../images/printblack_wrtht.png" WIDTH="32" HEIGHT="32" BORDER="0" ALT=""></A></TD>
 				  </TR>
 				    <TR>
 					<TD align="center">5</TD>
-					<TD><A HREF="form/form_BookRentbill.php?type_id=<?=$idl?>" target="_blank">˹ѧ�����˹�����������ͧ�ѡá�</A></TD>
+					<TD><A HREF="form/form_BookRentbill.php?type_id=<?=$idl?>" target="_blank">หนังสือแจ้งหนี้ค่าเช่าเครื่องจักรกล</A></TD>
 						<TD align="center"><a href="form/form_BookRentbill.php?type_id=<?=$idl?>&print=1" target="_blank"><IMG SRC="../images/printblack_wrtht.png" WIDTH="32" HEIGHT="32" BORDER="0" ALT=""></A></TD>
 				  </TR>
 				    <TR>
 					<TD align="center">6</TD>
-					<TD><A HREF="form/form_Rentbill.php?type_id=<?=$idl?>" target="_blank">���˹�������</A></TD>
+					<TD><A HREF="form/form_Rentbill.php?type_id=<?=$idl?>" target="_blank">ใบแจ้งหนี้ค่าเช่า</A></TD>
 						<TD align="center"><a href="form/form_Rentbill.php?type_id=<?=$idl?>&print=1" target="_blank"><IMG SRC="../images/printblack_wrtht.png" WIDTH="32" HEIGHT="32" BORDER="0" ALT=""></A></TD>
 				  </TR>
 				  </TABLE></td>
@@ -254,7 +254,7 @@ e_k=event.keyCode
 if (((e_k < 48) || (e_k > 47)) && e_k != 46 && e_k != 13) {
 //if (e_k != 13 && (e_k < 48) || (e_k > 57) || e_k == ) {
 event.returnValue = false;
-alert(" ��س�����ѹ��� �¡�á����� DATE");
+alert(" กรุณาใส่วันที่ โดยการกดปุ่ม DATE");
 }
 } 
 
@@ -269,7 +269,7 @@ window.open($URL,'','toolbar=no,location=no,status=no,resizable=yes,menubar=no,s
 }//of function
 
 function kod_pum() {
-alert('�������ѹ����ͧ�ӡ�á����� Date ��ҹ�鹤�Ѻ');
+alert('การใส่วันที่ต้องทำการกดปุ่ม Date เท่านั้นครับ');
 		event.returnValue = false;
 } 
 </script>

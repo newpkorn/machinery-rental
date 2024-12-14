@@ -3,8 +3,8 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>�к����������ͧ�ѡá� ����ҧ��ǧ �����ä��</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<title>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -31,19 +31,19 @@
 	
 	$id = $_REQUEST['edit_id'];
 	if($action == "update"){
-	// ��䢢�����
+	// แก้ไขข้อมูล
 	//$id = $_REQUEST['edit_id'];
 	$sql_edit = "update tb_machinery_status set 
 	status_id = '$idStatus' , status_name = 'name'
 	where status_id = '$id'"; 
 	mysql_query($sql_edit) or die(mysql_error());
-	echo "��䢢����Ţͧ $name  ���������";}
+	echo "แก้ไขข้อมูลของ $name  สำเร็จแล้ว";}
 	//-->
 }
 
 ?>
 <? 
-//���¡�����Ũҡ ���� ���ʴ�� textbox
+//เรียกข้อมูลจาก รหัส มาแสดงใน textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
@@ -68,7 +68,7 @@
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style1">���ͼ����ҹ</span> : <?=$_SESSION['adm_name']?>
+              <span class="style1">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -81,16 +81,16 @@
           </table>
           <table width="92%" height="38"  border="0" align="center" bgcolor="#FFFFFF">
             <tr>
-              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ˹���á</a></strong></td>
+              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
             </tr>
               <tr>
-                <td height="34"><strong><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_status.php">������ʶҹ�����ͧ�ѡá�</a></strong></td>
+                <td height="34"><strong><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_status.php">ข้อมูลสถานะเครื่องจักรกล</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addStatus.php">����������ʶҹ�����ͧ�ѡá�</a></strong></td>
+                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addStatus.php">เพิ่มข้อมูลสถานะเครื่องจักรกล</a></strong></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> �͡�ҡ�к�</a></strong></td>
+                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> ออกจากระบบ</a></strong></td>
               </tr>
           </table>
         </td>
@@ -105,7 +105,7 @@
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>�к����������ͧ�ѡá� ����ҧ��ǧ �ѧ��Ѵ�����ä��</strong></td>
+                <td width="47%"><strong>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง จังหวัดมหาสารคาม</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -114,14 +114,14 @@
               <tr>
                 <td colspan="2"><table width="74%"  border="0" align="center" bgcolor="#CCFFFF">
                   <tr>
-                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style3">��䢢�����ʶҹ�</span></td>
+                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style3">แก้ไขข้อมูลสถานะ</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;����ʶҹ� : </span><strong>&nbsp;</strong></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;ชื่อสถานะ : </span><strong>&nbsp;</strong></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="txtName" id="txtName" value="<?=$row_show['status_name']?>"/></td>
                   </tr>
                   <tr>
@@ -133,7 +133,7 @@
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
                         <td width="55">
-                        <input type="submit" name="Update" id="Update" value="��䢢�����" /> <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" />                        </td>
+                        <input type="submit" name="Update" id="Update" value="แก้ไขข้อมูล" /> <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" />                        </td>
                         <td width="140">&nbsp;</td>
                       </tr>
                     </table></td>

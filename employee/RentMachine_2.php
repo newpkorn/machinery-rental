@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
  <form action="addlease.php" method="post" name="form1" id="form1" onsubmit="return valid()">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
@@ -35,7 +35,7 @@ $(function(){
         if($("#myTbl tr").size()>1){  
             $("#myTbl tr:last").remove();  
         }else{  
-            alert("µÈÕß¡’√“¬°“√¢ÈÕ¡Ÿ≈Õ¬Ë“ßπÈÕ¬ 1 √“¬°“√");  
+            alert("‡∏ï‡πâ‡∏≠‡∏á‡∏°‡∏µ‡∏£‡∏≤‡∏¢‡∏Å‡∏≤‡∏£‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏≠‡∏¢‡πà‡∏≤‡∏á‡∏ô‡πâ‡∏≠‡∏¢ 1 ‡∏£‡∏≤‡∏¢‡∏Å‡∏≤‡∏£");  
         }  
     });           
 });  
@@ -44,7 +44,7 @@ $(function(){
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("§ÿ≥µÈÕß°“√≈∫¢ÈÕ¡Ÿ≈ ?") == true) {
+  if (confirm("‡∏Ñ‡∏∏‡∏ì‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡∏•‡∏ö‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏• ?") == true) {
   return true;
   }
   return false;
@@ -65,7 +65,7 @@ $(function(){
   <tr valign="top">
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
-        <td width="100%" height="45"><center>™◊ËÕºŸÈ„™Èß“π : <?=$_SESSION['emp_name']?></center></td>
+        <td width="100%" height="45"><center>‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : <?=$_SESSION['emp_name']?></center></td>
       </tr>
     </table>
       <table width="100%" height="52"  border="0">
@@ -77,27 +77,27 @@ $(function(){
         <tr>
           <td width="100%" height="34">
             <input type="image" name="imageField3" id="imageField3" src="../images/bullet.gif" />
-            <a href="Menu_Detail.php">ÀπÈ“·√°</a></td>
+            <a href="Menu_Detail.php">‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></td>
         </tr>
     </table>
 		    <table width="100%" height="29"  border="0">
         <tr>
-          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<A HREF="RentMachine.php">‡™Ë“‡§√◊ËÕß®—°√°≈</A></td>
+          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<A HREF="RentMachine.php">‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</A></td>
         </tr>
     </table> 
     <table width="100%" height="29"  border="0">
         <tr>
-          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<A HREF="search_rent.php">§ÈπÀ“¢ÈÕ¡Ÿ≈°“√‡™Ë“</A></td>
+          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<A HREF="search_rent.php">‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</A></td>
         </tr>
     </table> 
 		    <table width="100%" height="29"  border="0">
         <tr>
-          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<A HREF="report_lease.php" target="_blank">√“¬ß“π°“√‡™Ë“</A></td>
+          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<A HREF="report_lease.php" target="_blank">‡∏£‡∏≤‡∏¢‡∏á‡∏≤‡∏ô‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</A></td>
         </tr>
     </table> 
        <table width="100%" height="27"  border="0">
           <tr>
-              <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></td>
+              <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></td>
             </tr>
       </table>
 
@@ -117,11 +117,11 @@ $(function(){
 
             <tr>
             <td><fieldset>
-              <legend>√“¬≈–‡Õ’¬¥°“√‡™Ë“</legend>
+              <legend>‡∏£‡∏≤‡∏¢‡∏•‡∏∞‡πÄ‡∏≠‡∏µ‡∏¢‡∏î‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</legend>
 	
           <table width="100%"  border="0">
             <tr>
-              <td width="10%"> ¡“™‘°</td>
+              <td width="10%">‡∏™‡∏°‡∏≤‡∏ä‡∏¥‡∏Å</td>
               <td width="90%" align="left">
 			  					    <select name="mem_name">
 		 <? 
@@ -137,12 +137,12 @@ $(function(){
           
             </tr>
 			 <tr>
-              <td width="15%">«—µ∂ÿª√– ß§Ï‡æ◊ËÕ</td>
+              <td width="15%">‡∏ß‡∏±‡∏ï‡∏ñ‡∏∏‡∏õ‡∏£‡∏∞‡∏™‡∏á‡∏Ñ‡πå‡πÄ‡∏û‡∏∑‡πà‡∏≠</td>
               <td width="90%" align="left"><input type="text" name="purpose" size="45"  id="purpose" value=""/>
 			  </td>        
             </tr>
    <tr>
-              <td width="10%"> –∂“π∑’Ë</td>
+              <td width="10%">‡∏™‡∏∞‡∏ñ‡∏≤‡∏ô‡∏ó‡∏µ‡πà</td>
               <td width="90%" align="left"><input type="text" name="area" size="45"  id="area" value=""/>
 			  </td>        
             </tr>
@@ -154,10 +154,10 @@ $(function(){
     <button id="removeRow" type="button">&nbsp; -- &nbsp;</button>  
 <TABLE width="100%" border="0" cellspacing="2" cellpadding="0">
 <TR>
-	<TD width="35%">‡§√◊ËÕß®—°√°≈</TD>
-		<TD width="20%">«—π∑’Ë‡™Ë“</TD>
-			<TD width="20%">«—π∑’Ë§◊π</TD>
-				<TD width="20%">√–¬–‡«≈“</TD>
+	<TD width="35%">‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</TD>
+		<TD width="20%">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡πÄ‡∏ä‡πà‡∏≤</TD>
+			<TD width="20%">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏Ñ‡∏∑‡∏ô</TD>
+				<TD width="20%">‡∏£‡∏∞‡∏¢‡∏∞‡πÄ‡∏ß‡∏•‡∏≤</TD>
 </TR>
 </TABLE>
  <table id="myTbl" width="100%" border="0" cellspacing="2" cellpadding="0">  
@@ -182,12 +182,12 @@ $(function(){
  <td  width="20%"> <input type="text" name="ArriveDate[]"  size="10"  id="ArriveDate[]" value="<?=$ArriveDate?>" onKeyPress="CheckNum()"/><a href="javascript:NewCal('ArriveDate[]','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a></td>
 
 
-  <td  width="20%"> <input type="text" name="period1[]" size="3"  id="period1[]" value=""/>&nbsp;™¡.,«—π,‡¥◊Õπ</td>
+  <td  width="20%"> <input type="text" name="period1[]" size="3"  id="period1[]" value=""/>&nbsp;‡∏ä‡∏°.,‡∏ß‡∏±‡∏ô,‡πÄ‡∏î‡∏∑‡∏≠‡∏ô</td>
  	<SCRIPT LANGUAGE="JavaScript">
 	<!--
 	function valid(){
-	if(document.form1.StartDate[].value==""){alert("°√ÿ≥“„ Ë «—π‡¥◊Õπª’¢Õß®“°«—π∑’Ë");return false;}
-		if(document.form1.ArriveDate[].value==""){alert("°√ÿ≥“„ Ë «—π‡¥◊Õπª’¢Õß∂÷ß«—π∑’Ë");return false;}
+	if(document.form1.StartDate[].value==""){alert("‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡πÉ‡∏™‡πà ‡∏ß‡∏±‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏õ‡∏µ‡∏Ç‡∏≠‡∏á‡∏à‡∏≤‡∏Å‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà");return false;}
+		if(document.form1.ArriveDate[].value==""){alert("‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡πÉ‡∏™‡πà ‡∏ß‡∏±‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏õ‡∏µ‡∏Ç‡∏≠‡∏á‡∏ñ‡∏∂‡∏á‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà");return false;}
 	}
 	//-->
 	</SCRIPT>
@@ -202,7 +202,7 @@ $(function(){
               <td height="39" align="right">&nbsp;</td>
               <td align="right">&nbsp;</td>
            
-              <td ><input  type="submit" name="§ÈπÀ“" id="§ÈπÀ“2" value="     ‡æ‘Ë¡     " /></td>
+              <td ><input  type="submit" name="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤" id="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤2" value="     ‡πÄ‡∏û‡∏¥‡πà‡∏°     " /></td>
             </tr>
 
     </form>
@@ -210,14 +210,14 @@ $(function(){
                 <tr>
                   <td colspan="5"><table width="100%" border="1">
                     <tr>
-                      <td width="8%" align="center" bgcolor="#00CCFF">√À— °“√‡™Ë“</td>
-                  <td width="13%"align="center" bgcolor="#00CCFF"> ¡“™‘°</td>
-                  <td width="13%" align="center"bgcolor="#00CCFF">æπ—°ß“π¥Ÿ·≈</td>
-                  <td width="30%" align="center"bgcolor="#00CCFF">‡§√◊ËÕß®—°√°≈</td>
-                  <td width="11%" align="center"bgcolor="#00CCFF">«—π∑’Ë‡™Ë“</td>
-                  <td width="11%"align="center" bgcolor="#00CCFF">«—π∑’Ë§◊π</td>
-				  <td width="10%" align="center"bgcolor="#00CCFF">‡Õ° “√</td>
-				  <td width="8%" align="center"bgcolor="#00CCFF">≈∫</td>
+                      <td width="8%" align="center" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</td>
+                  <td width="13%"align="center" bgcolor="#00CCFF">‡∏™‡∏°‡∏≤‡∏ä‡∏¥‡∏Å</td>
+                  <td width="13%" align="center"bgcolor="#00CCFF">‡∏û‡∏ô‡∏±‡∏Å‡∏á‡∏≤‡∏ô‡∏î‡∏π‡πÅ‡∏•</td>
+                  <td width="30%" align="center"bgcolor="#00CCFF">‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</td>
+                  <td width="11%" align="center"bgcolor="#00CCFF">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡πÄ‡∏ä‡πà‡∏≤</td>
+                  <td width="11%"align="center" bgcolor="#00CCFF">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏Ñ‡∏∑‡∏ô</td>
+				  <td width="10%" align="center"bgcolor="#00CCFF">‡πÄ‡∏≠‡∏Å‡∏™‡∏≤‡∏£</td>
+				  <td width="8%" align="center"bgcolor="#00CCFF">‡∏•‡∏ö</td>
                     </tr>
   
 						   <?  
@@ -254,8 +254,8 @@ echo thai_date1($eng_date1);?>
 echo thai_date1($eng_date2);?> 
 				 <BR>
 				  <?}?></td>
-                  <td align="center" bgcolor="#CCCCCC"><A HREF="form_print.php?idl=<?=$rsreserv1[0];?>" target="_blank">æ‘¡æÏ</A></td>
-				   <td align="center"bgcolor="#CCCCCC"><div align="center"><a href="del_Rent.php?del_id=<?=$rsreserv1[0]?>" onClick='return Conf(this)' >≈∫</a></div></td>
+                  <td align="center" bgcolor="#CCCCCC"><A HREF="form_print.php?idl=<?=$rsreserv1[0];?>" target="_blank">‡∏û‡∏¥‡∏°‡∏û‡πå</A></td>
+				   <td align="center"bgcolor="#CCCCCC"><div align="center"><a href="del_Rent.php?del_id=<?=$rsreserv1[0]?>" onClick='return Conf(this)' >‡∏•‡∏ö</a></div></td>
                 </tr>
 <?}?>
          
@@ -310,7 +310,7 @@ e_k=event.keyCode
 if (((e_k < 48) || (e_k > 47)) && e_k != 46 && e_k != 13) {
 //if (e_k != 13 && (e_k < 48) || (e_k > 57) || e_k == ) {
 event.returnValue = false;
-alert(" °√ÿ≥“„ Ë«—π∑’Ë ‚¥¬°“√°¥ªÿË¡ DATE");
+alert(" ‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡πÉ‡∏™‡πà‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà ‡πÇ‡∏î‡∏¢‡∏Å‡∏≤‡∏£‡∏Å‡∏î‡∏õ‡∏∏‡πà‡∏° DATE");
 }
 } 
 
@@ -325,7 +325,7 @@ window.open($URL,'','toolbar=no,location=no,status=no,resizable=yes,menubar=no,s
 }//of function
 
 function kod_pum() {
-alert('°“√„ Ë«—π∑’ËµÈÕß∑”°“√°¥ªÿË¡ Date ‡∑Ë“π—Èπ§√—∫');
+alert('‡∏Å‡∏≤‡∏£‡πÉ‡∏™‡πà‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏ó‡∏≥‡∏Å‡∏≤‡∏£‡∏Å‡∏î‡∏õ‡∏∏‡πà‡∏° Date ‡πÄ‡∏ó‡πà‡∏≤‡∏ô‡∏±‡πâ‡∏ô‡∏Ñ‡∏£‡∏±‡∏ö');
 		event.returnValue = false;
 } 
 </script>

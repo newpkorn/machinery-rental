@@ -18,14 +18,14 @@
               <td colspan="2" rowspan="2" bgcolor="#FFFFFF"><table width="100%"  border="0">
 			  <form name="login" action="index.php" method="post" onsubmit="return validate();">
                   <tr align="center">
-                    <td colspan="2"><strong>���˹�ҷ�� Login </strong></td>
+                    <td colspan="2"><strong>เจ้าหน้าที่ Login </strong></td>
                   </tr>
                   <tr>
-                    <td>���ͼ����ҹ</td>
+                    <td>ชื่อผู้ใช้งาน</td>
                     <td><input name="username" type="text" id="username" size="15"></td>
                   </tr>
                   <tr>
-                    <td>���ʼ�ҹ</td>
+                    <td>รหัสผ่าน</td>
                     <td><input name="password" type="password" id="password" size="15"></td>
                   </tr>
                   <tr align="center">
@@ -33,7 +33,7 @@
                         <input type="reset" name="Submit2" value="Reset"></td>
                   </tr>
                   <tr align="center">
-                    <td colspan="2"><a href="formRegister.php">ŧ����¹</a> | <a href="forget.php">������ʼ�ҹ</a>? </td>
+                    <td colspan="2"><a href="formRegister.php">ลงทะเบียน</a> | <a href="forget.php">ลืมรหัสผ่าน</a>? </td>
                   </tr>
 				  </form>
               </table></td>

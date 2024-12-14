@@ -2,13 +2,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 		<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '��͡��੾�е���Ţ 0-9 ' );
+			  alert( 'กรอกได้เฉพาะตัวเลข 0-9 ' );
 	    	}
 	}
 </script>
@@ -35,7 +35,7 @@ function CheckNum(){
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-            <span class="style2">���ͼ����ҹ</span> : <?=$_SESSION['emp_name']?>
+            <span class="style2">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -48,32 +48,32 @@ function CheckNum(){
     </table>
       <table width="95%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="34">&nbsp;&nbsp;<img src="../images/home.gif" alt="" width="16" height="14" />            <a href="Menu_Detail.php">˹���á</a></td>
+          <td height="34">&nbsp;&nbsp;<img src="../images/home.gif" alt="" width="16" height="14" />            <a href="Menu_Detail.php">หน้าแรก</a></td>
         </tr>
         <tr>
-          <td height="34">&nbsp;&nbsp;<img src="../images/edit.gif" alt="" width="15" height="15" />&nbsp;<a href="search_machin.php">����������ͧ�ѡá�</a></td>
+          <td height="34">&nbsp;&nbsp;<img src="../images/edit.gif" alt="" width="15" height="15" />&nbsp;<a href="search_machin.php">ข้อมูลเครื่องจักรกล</a></td>
         </tr>
         <tr>
-          <td height="34">&nbsp;&nbsp;<img src="../images/addg.GIF" alt="" width="15" height="15" />&nbsp;<a href="DesignInsertMachine.php">��������ͧ�ѡá�</a></td>
+          <td height="34">&nbsp;&nbsp;<img src="../images/addg.GIF" alt="" width="15" height="15" />&nbsp;<a href="DesignInsertMachine.php">เพิ่มเครื่องจักรกล</a></td>
         </tr>
         <tr>
-          <td width="100%" height="34">&nbsp;&nbsp;<img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></td>
+          <td width="100%" height="34">&nbsp;&nbsp;<img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ออกจากระบบ</a></td>
         </tr>
     </table>
      
 <!-- <table width="100%" height="27"  border="0">
   <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReservationsMachine.php">�ͨͧ����ͧ�ѡá�</a></td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReservationsMachine.php">ขอจองเครื่องจักรกล</a></td>
         </tr>
   </table>
       <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="RentMachine.php">���������ͧ�ѡá�</a></td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="RentMachine.php">ขอเช่าเครื่องจักรกล</a></td>
         </tr>
       </table>
        <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReturntMachine.php">�Ѻ��׹����ͧ�ѡá�</a></td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReturntMachine.php">รับบคืนเครื่องจักรกล</a></td>
         </tr>
       </table> -->
               <table width="100%" height="28"  border="0">
@@ -108,19 +108,19 @@ function CheckNum(){
                 <table width="111%"  border="0">
                   <tr>
                     <td width="10%" height="39" ><span class="style2">
-                      <label>��������ͧ�ѡ�</label>
+                      <label>รหัสเครื่องจักร</label>
                     </span></td>
                     <td width="30%" ><input name="mach_id" type="text" id="mach_id" size="20" maxlength="12" />
                       <span class="style1">*</span></td>
-                    <td width="9%" ><span class="style2">��������ͧ�ѡ�</span></td>
+                    <td width="9%" ><span class="style2">ชื่อเครื่องจักร</span></td>
                     <td width="30%" ><input name="name" type="text" id="name" size="20" maxlength="100" />
                       <span class="style1">*</span></td>
                     </tr>
                   <tr>
-                    <td height="41" ><span class="style2">����¹</span></td>
+                    <td height="41" ><span class="style2">ทะเบียน</span></td>
                     <td ><input name="licen" type="text" id="licen" size="20" maxlength="100" />
                       <span class="style1">*</span></td>
-                    <td ><span class="style2">������</span></td>
+                    <td ><span class="style2">ยี่ห้อ</span></td>
                     <td ><label for="iiii"></label>
                       <label for="brand"></label>
 
@@ -137,7 +137,7 @@ function CheckNum(){
                       <span class="style1">*</span>					  </td>
                     </tr>
                   <tr>
-                    <td height="103" ><span class="style2">������</span></td>
+                    <td height="103" ><span class="style2">ประเภท</span></td>
                     <td ><label for="type"></label>
                       <select name="type" id="type">
            
@@ -150,7 +150,7 @@ function CheckNum(){
 						<?}?>
                     </select>
                       <span class="style1">*</span></td>
-                    <td ><span class="style2">�Ҥ�</span></td>
+                    <td ><span class="style2">ราคา</span></td>
                     
                         <td><input name="price" type="text" id="price" size="20" maxlength="7"  onKeyPress="CheckNum()"//><select name="mach_unit">
 		 <? 
@@ -164,7 +164,7 @@ function CheckNum(){
                     </select></td>
                     </tr>
                   <tr>
-                    <td   height="38" ><span class="style2">����ʶҹ�</span></td>
+                    <td   height="38" ><span class="style2">รหัสสถานะ</span></td>
                     <td   ><label for="status"></label>
                       <select name="status" id="status">
                     		 <? 
@@ -176,7 +176,7 @@ function CheckNum(){
 						<?}?>
                     </select>
                       <span class="style1">*</span></td>
-                    <td ><span class="style2">���ʼ�����</span></td>
+                    <td ><span class="style2">รหัสผู้ดูแล</span></td>
                     <td   ><label for="control"></label>
                       <select name="control" id="control">
                  	 <? 
@@ -191,7 +191,7 @@ function CheckNum(){
                     </tr>
                            <tr>
                              <td width="8%"  height="39" ><span class="style2">
-                               <label>�ٻ�Ҿ</label>
+                               <label>รูปภาพ</label>
                              </span></td>
                              <td width="25%"><input name="pic" type="file" id="pic" size="30"  value="" /></td>
                     <td width="8%"></td>
@@ -205,8 +205,8 @@ function CheckNum(){
               </tr>
             <tr>
               <td >&nbsp;</td>
-              <td><input type="submit" name="Submit3" value="����������" />
-                <input type="reset" name="Submit4" value="��ҧ������Reset" /></td>
+              <td><input type="submit" name="Submit3" value="เพิ่มข้อมูล" />
+                <input type="reset" name="Submit4" value="ล้างข้อมูลReset" /></td>
               </tr>
             <tr background="images/dot1.gif">
               <td colspan="2" height="10"></td>

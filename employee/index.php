@@ -5,8 +5,8 @@
 <html>
 <Center>
 <head>
-<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>: : เธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธเธกเธซเธฒเธชเธฒเธฃเธเธฒเธก : :</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/css.css" rel="stylesheet" type="text/css">
 
 
@@ -33,7 +33,7 @@
         <td background="images/rim_05.gif"> <img src="images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td><strong><marquee>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </marquee></strong></td>
+            <td><strong><marquee>เธขเธดเธเธ”เธตเธ•เนเธญเธเธฃเธฑเธเธชเธนเนเธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก </marquee></strong></td>
             </tr>
           <tr>
             <td bgcolor="#FFFFFF">
@@ -59,7 +59,7 @@ $sql="select * from tb_machin order by mac_id desc";
 $result=mysql_query($sql);
 $num=mysql_num_rows($result);
 if($num==0){
-	echo"ไม่มีข้อมูล";
+	echo"เนเธกเนเธกเธตเธเนเธญเธกเธนเธฅ";
 exit();
 }
 
@@ -102,7 +102,7 @@ if($count%3==1){
 <?
 }
 ?>
-<!--คำสั่งนี้คือส่งค่าอยู่หน้าเดิม$PHP_SELF -->
+<!--เธเธณเธชเธฑเนเธเธเธตเนเธเธทเธญเธชเนเธเธเนเธฒเธญเธขเธนเนเธซเธเนเธฒเน€เธ”เธดเธก$PHP_SELF -->
   <td width="33%" height="" align="center" valign='top' bordercolor='back' border='1'>
     <?
 	if($data[mac_picture]!=""){
@@ -145,7 +145,7 @@ $count++;
             </tr>
             <tr>
               <td align="left"><?
-echo"หน้า >> ";
+echo"เธซเธเนเธฒ >> ";
 		for($i=1;$i<=$num_page;$i++){
 if($i<>$page){
 echo"[<a href='$PHP_SELF?page=$i'>$i</a>]";

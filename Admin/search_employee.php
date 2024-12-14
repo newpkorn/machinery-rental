@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -22,7 +22,7 @@
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
+  if (confirm("เธเธธเธ“เธ•เนเธญเธเธเธฒเธฃเธฅเธเธเนเธญเธกเธนเธฅ ?") == true) {
   return true;
   }
   return false;
@@ -43,7 +43,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style1">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['adm_name']?>
+<span class="style1">เธเธทเนเธญเธเธนเนเนเธเนเธเธฒเธ</span> : <?=$_SESSION['adm_name']?>
         </center></td>
       </tr>
     </table>
@@ -55,16 +55,16 @@
           <td width="100%" height="48"><center>
             <table width="93%" height="146"  border="0" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
+                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> เธซเธเนเธฒเนเธฃเธ</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/impersonal.gif" alt="" width="16" height="16">&nbsp;<a href="search_employee.php">ข้อมูลเจ้าหน้าที่</a></strong></td>
+                <td height="34"><strong><img src="../images/impersonal.gif" alt="" width="16" height="16">&nbsp;<a href="search_employee.php">เธเนเธญเธกเธนเธฅเน€เธเนเธฒเธซเธเนเธฒเธ—เธตเน</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15">&nbsp;<a href="Insertemployee.php">เพิ่มข้อมูลเจ้าหน้าที่</a></strong></td>
+                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15">&nbsp;<a href="Insertemployee.php">เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเน€เธเนเธฒเธซเธเนเธฒเธ—เธตเน</a></strong></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ออกจากระบบ</a></strong></td>
+                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">เธญเธญเธเธเธฒเธเธฃเธฐเธเธ</a></strong></td>
               </tr>
             </table>
             
@@ -83,7 +83,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%" colspan="2" ><strong>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </strong></td>
+            <td width="48%" colspan="2" ><strong>เธขเธดเธเธ”เธตเธ•เนเธญเธเธฃเธฑเธเธชเธนเนเธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก </strong></td>
   
           </tr>
           <tr>
@@ -95,20 +95,20 @@
               <table width="690" height="162" border="0" align="center">
                 <tr>
                   <td width="330" align="right"><img src="../images/icon_search11.gif" width="50" height="50"></td>
-                  <td width="350"><span class="style51">ค้นหาเจ้าหน้าที่</span></td>
+                  <td width="350"><span class="style51">เธเนเธเธซเธฒเน€เธเนเธฒเธซเธเนเธฒเธ—เธตเน</span></td>
                 </tr>
                 <tr>
                   <td colspan="2" align="center"><form id="form1" name="form1" method="post" action="search_employee.php">
-      คำที่ต้องการค้นหา
+      เธเธณเธ—เธตเนเธ•เนเธญเธเธเธฒเธฃเธเนเธเธซเธฒ
       <input name="txtKeyword" type="text" id="txtKeyword" value="<?=$_POST["txtKeyword"];?>" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จาก
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เธเธฒเธ
 <select name="fields" >
-  <option value="1" selected="selected" <? echo $select1;?>>รหัส</option>
-  <option value="2"<? echo $select2;?>>ชื่อ</option>
-  <option value="3" <? echo $select3;?>>ว/ด/ปี เกิด</option>
+  <option value="1" selected="selected" <? echo $select1;?>>เธฃเธซเธฑเธช</option>
+  <option value="2"<? echo $select2;?>>เธเธทเนเธญ</option>
+  <option value="3" <? echo $select3;?>>เธง/เธ”/เธเธต เน€เธเธดเธ”</option>
 </select>
 &nbsp;
-<input type="submit" name="Submit" value="ค้นหา" />
+<input type="submit" name="Submit" value="เธเนเธเธซเธฒ" />
                   </form></td>
                   </tr>
                 <tr>
@@ -124,14 +124,14 @@
 
                     <table width="667" border="0" align="center">
                       <tr>
-                      	<td width="54" height="30" bgcolor="#0066CC"><div align="center" class="style3">รหัส</div></td>
-                        <td width="133" bgcolor="#0066CC"><div align="center" class="style3">ชื่อ</div></td>
-                        <td width="81" bgcolor="#0066CC"><div align="center" class="style3">ตำแหน่ง</div></td>
-          <td width="81" bgcolor="#0066CC"><div align="center" class="style3">ชื่อเข้าใช้งาน</div></td>
-          <td width="86" bgcolor="#0066CC"><div align="center" class="style3">เบอร์โทร</div></td>
-          <td width="123" bgcolor="#0066CC"><div align="center" class="style3">ที่อยู่</div></td>
-          <td width="39" bgcolor="#0066CC"><div align="center" class="style3">แก้ไข</div></td>
-          <td width="36" bgcolor="#0066CC"><div align="center" class="style3">ลบ</div></td>
+                      	<td width="54" height="30" bgcolor="#0066CC"><div align="center" class="style3">เธฃเธซเธฑเธช</div></td>
+                        <td width="133" bgcolor="#0066CC"><div align="center" class="style3">เธเธทเนเธญ</div></td>
+                        <td width="81" bgcolor="#0066CC"><div align="center" class="style3">เธ•เธณเนเธซเธเนเธ</div></td>
+          <td width="81" bgcolor="#0066CC"><div align="center" class="style3">เธเธทเนเธญเน€เธเนเธฒเนเธเนเธเธฒเธ</div></td>
+          <td width="86" bgcolor="#0066CC"><div align="center" class="style3">เน€เธเธญเธฃเนเนเธ—เธฃ</div></td>
+          <td width="123" bgcolor="#0066CC"><div align="center" class="style3">เธ—เธตเนเธญเธขเธนเน</div></td>
+          <td width="39" bgcolor="#0066CC"><div align="center" class="style3">เนเธเนเนเธ</div></td>
+          <td width="36" bgcolor="#0066CC"><div align="center" class="style3">เธฅเธ</div></td>
                       </tr>
                       
                       <?

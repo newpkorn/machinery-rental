@@ -3,8 +3,8 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<title>เธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -32,19 +32,19 @@
 	
 	$id = $_REQUEST['edit_id'];
 	if($action == "update"){
-	// แก้ไขข้อมูล
+	// เนเธเนเนเธเธเนเธญเธกเธนเธฅ
 	//$id = $_REQUEST['edit_id'];
 	$sql_edit = "update tb_position set 
 	pos_id = '$idPos' , name = 'name'
 	where pos_id = '$id'"; 
 	mysql_query($sql_edit) or die(mysql_error());
-	echo "แก้ไขข้อมูลของ $name  สำเร็จแล้ว";}
+	echo "เนเธเนเนเธเธเนเธญเธกเธนเธฅเธเธญเธ $name  เธชเธณเน€เธฃเนเธเนเธฅเนเธง";}
 	//-->
 }
 
 ?>
 <? 
-//เรียกข้อมูลจาก รหัส มาแสดงใน textbox
+//เน€เธฃเธตเธขเธเธเนเธญเธกเธนเธฅเธเธฒเธ เธฃเธซเธฑเธช เธกเธฒเนเธชเธ”เธเนเธ textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
@@ -69,7 +69,7 @@
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style1">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['adm_name']?>
+              <span class="style1">เธเธทเนเธญเธเธนเนเนเธเนเธเธฒเธ</span> : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -82,16 +82,16 @@
           </table>
           <table width="94%" height="38"  border="0" align="center" bgcolor="#FFFFFF">
             <tr>
-              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
+              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> เธซเธเนเธฒเนเธฃเธ</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_position.php">ข้อมูลตำแหน่ง</a></strong></td>
+              <td height="34"><strong><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_position.php">เธเนเธญเธกเธนเธฅเธ•เธณเนเธซเธเนเธ</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addPosition.php">เพิ่มข้อมูลตำแหน่ง</a></strong></td>
+              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addPosition.php">เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธ•เธณเนเธซเธเนเธ</a></strong></td>
             </tr>
             <tr>
-              <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> ออกจากระบบ</a></strong></td>
+              <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> เธญเธญเธเธเธฒเธเธฃเธฐเธเธ</a></strong></td>
             </tr>
           </table>
         </td>
@@ -106,7 +106,7 @@
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง จังหวัดมหาสารคาม</strong></td>
+                <td width="47%"><strong>เธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธเธฑเธเธซเธงเธฑเธ”เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -115,14 +115,14 @@
               <tr>
                 <td colspan="2"><table width="76%"  border="0" align="center" bgcolor="#CCFFFF">
                   <tr>
-                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style3">แก้ไขข้อมูลตำแหน่ง</span></td>
+                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style3">เนเธเนเนเธเธเนเธญเธกเธนเธฅเธ•เธณเนเธซเธเนเธ</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;ชื่อสถานะ : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;เธเธทเนเธญเธชเธ–เธฒเธเธฐ : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="txtName" id="txtName" value="<?=$row_show['name']?>"/></td>
                   </tr>
                   <tr>
@@ -134,7 +134,7 @@
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
                         <td width="55">
-                        <input type="submit" name="Update" id="Update" value="แก้ไขข้อมูล" /> <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" />                        </td>
+                        <input type="submit" name="Update" id="Update" value="เนเธเนเนเธเธเนเธญเธกเธนเธฅ" /> <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" />                        </td>
                         <td width="140">&nbsp;</td>
                       </tr>
                     </table></td>

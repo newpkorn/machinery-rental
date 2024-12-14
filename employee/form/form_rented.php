@@ -16,7 +16,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -98,63 +98,63 @@ div.Section1
 <div class=Section1>
 
 <p class=MsoNormal><b><span lang=TH
-style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;㺢��������ͧ�ѡá�</span></b><b><span
+style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ใบขอเช่าเครื่องจักรกล</span></b><b><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>
   <o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=TH style='font-size:
 14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><span
-style='mso-tab-count:9'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>�������
+style='mso-tab-count:9'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ที่อยู่
  &nbsp;<?=$row_show['address']?></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>�͡����Ţ���.....................<span style='mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>�ѹ��� <span class="MsoNormal" style="text-align:justify">
+font-family:"TH SarabunPSK","sans-serif"'>เอกสารเลขที่.....................<span style='mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>วันที่ <span class="MsoNormal" style="text-align:justify">
  <?php
 function ThaiDate()
 {
-$ThDay = array ( "�ҷԵ��", "�ѹ���", "�ѧ���", "�ظ", "�����", "�ء��", "�����" );
-$ThMonth = array ( "������", "����Ҿѹ��", "�չҤ�", "����¹",
-"����Ҥ�", "�Զع�¹", "�á�Ҥ�", "�ԧ�Ҥ�",
-"�ѹ��¹", "���Ҥ�", "��Ȩԡ�¹", "�ѹ�Ҥ�" );
+$ThDay = array ( "อาทิตย์", "จันทร์", "อังคาร", "พุธ", "พฤหัส", "ศุกร์", "เสาร์" );
+$ThMonth = array ( "มกรามก", "กุมภาพันธ์", "มีนาคม", "เมษายน",
+"พฤษภาคม", "มิถุนายน", "กรกฏาคม", "สิงหาคม",
+"กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม" );
 
-$a = date( "w" ); // ����ѹ��ѻ���� (0-6)
-$b = date( "n" )-1; // �����͹ (1-12)
-$c = date( "j" ); // ����ѹ���(1-31)
-$d = date( "Y" )+543; // ��� �.�.�ǡ 543 ������� �.�.
+$a = date( "w" ); // ค่าวันในสัปดาห์ (0-6)
+$b = date( "n" )-1; // ค่าเดือน (1-12)
+$c = date( "j" ); // ค่าวันที่(1-31)
+$d = date( "Y" )+543; // ค่า ค.ศ.บวก 543 ทำให้เป็น ค.ศ.
 
 return " $c  $ThMonth[$b]  $d";
 }
 
-echo ThaiDate(); // ������ѹ���
+echo ThaiDate(); // พิมพ์วันที่
 
 ?>
 </span></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>����ͧ
-���������ͧ�ѡá��Թ��ع���¹</span><span style='font-size:14.0pt;
+font-family:"TH SarabunPSK","sans-serif"'>เรื่อง
+ขอเช่าเครื่องจักรกลเงินหมุนเวียน</span><span style='font-size:14.0pt;
 line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>���¹
-����ӹ�¡���ӹѡ�ҹ�ҧ��ǧ�����ä��</span><span style='font-size:14.0pt;
+font-family:"TH SarabunPSK","sans-serif"'>เรียน
+ผู้อำนวยการสำนักงานทางหลวงมหาสารคาม</span><span style='font-size:14.0pt;
 line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>��Ҿ���
-(������, �ԵԺؤ��) 
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ข้าพเจ้า
+(ผู้เช่า, นิติบุคคล) 
   <?=$row_show['mem_name']?>
-&nbsp;�դ������ʧ������������ͧ�ѡá��Թ�ع��ع���¹
-�������ѡ�ҹ�Ѻ ����任�Ժѵԧҹ 
+&nbsp;มีความประสงค์ขอเช่าใช้เครื่องจักรกลเงินทุนหมุนเวียน
+พร้อมพนักงานขับ เพื่อไปปฏิบัติงาน 
   <?=$row_show['purpose']?>
 </span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>
   <o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>�. ʶҹ���
+font-family:"TH SarabunPSK","sans-serif"'>ณ. สถานที่
   <?=$row_show['area']?>
-  ������äǺ����ͧ˹��§ҹ �ͧ����ҧ��ǧ�ѧ���</span><span
+  ภายใต้การควบคุมของหน่อยงาน ของกรมทางหลวงดังนี้</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>
   <o:p></o:p></span></p>
 
@@ -167,18 +167,18 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>�ӴѺ���<o:p></o:p></span></p>
+  font-family:"TH SarabunPSK","sans-serif"'>ลำดับที่<o:p></o:p></span></p>
   </td>
   <td width=114 rowspan=2 valign=top style='width:85.35pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>��¡��</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>รายการ</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(��������ͧ�ѡá�)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(รหัสเครื่องจักรกล)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 rowspan=2 valign=top style='width:57.15pt;border:solid windowtext 1.0pt;
@@ -186,11 +186,11 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>�ӹǹ</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>จำนวน</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(�ѹ/����ͧ)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(คัน/เครื่อง)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=169 colspan=2 valign=top style='width:126.85pt;border:solid windowtext 1.0pt;
@@ -198,35 +198,35 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>��ǧ�������<o:p></o:p></span></p>
+  font-family:"TH SarabunPSK","sans-serif"'>ช่วงเวลาเช่า<o:p></o:p></span></p>
   </td>
   <td width=85 rowspan=2 valign=top style='width:63.8pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>��������ҷ�����</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>รวมเป็นเวลาทั้งสิ้น</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 rowspan=2 valign=top style='width:2.0cm;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>��.
-  ��/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>ชม.
+  ละ/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>�ѹ
-  ��/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>วัน
+  ละ/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>��͹
-  ��</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เดือน
+  ละ</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 rowspan=2 valign=top style='width:70.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>������
-  (�ҷ)</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>ค่าเช่า
+  (บาท)</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
@@ -236,11 +236,11 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>������ѹ���</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>ตั้งแต่วันที่</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(�ѹ/��͹/��)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(วัน/เดือน/ปี)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p>
   </span></p></td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
@@ -249,11 +249,11 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>�֧�ѹ���</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>ถึงวันที่</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(�ѹ/��͹/��)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(วัน/เดือน/ปี)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -344,7 +344,7 @@ echo thai_date1($eng_date2);?> </span><span style='font-size:14.0pt;font-family:
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=right style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>���������</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>รวมค่าเช่า</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 valign=top style='width:70.85pt;border-top:none;border-left:
@@ -363,27 +363,27 @@ echo thai_date1($eng_date2);?> </span><span style='font-size:14.0pt;font-family:
 
 <p class=MsoNormal><span style='font-size:14.0pt;line-height:115%;font-family:
 "TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-lang=TH>��駹����ӹ�¤����дǡ㹡�û�Ժѵԧҹ����������ó�
-����Թ�շ��Ш����Թ ���������ش�����Ңͧ���Фѹ
-���ҡ��������<br>
-����������ͧ�ѡáŤѹ��Թ �� �ѹ����
-�Ш����繧Ǵ���������¡��ͧ�� �§Ǵ�� �� �ѹ
-������Ѻ���Ф�������㹡�â�������ͧ�ѡá�<BR> �� ��ҹ���ѹ������ԧ
-�����������§��ѡ�ҹ<span style='mso-spacerun:yes'>&nbsp;
-</span>�����駤�ҹ���ѹ������ԧ㹡�û�Ժѵԧҹ
-�����ҧ���������ͧ�ѡáŷ�����
-������ͧ�Ѻ���Ф�����<BR>����ͧ�ѡ÷����㹡�������§����</span>
+lang=TH>ทั้งนี้จะอำนวยความสะดวกในการปฏิบัติงานตามสมควรแก่กรณี
+และยินดีที่จะจ่ายเงิน เมื่อสิ้นสุดการเช่าของแต่ละคัน
+แต่หากระยะเวลา<br>
+การเช่าเครื่องจักรกลคันใดเกิน ๑๕ วันขึ้นไป
+จะจ่ายเป็นงวดตามที่เรียกร้องเก็บ โดยงวดละ ๑๕ วัน
+พร้อมรับภาระค่าใช้จ่ายในการขนส่งเครื่องจักรกล<BR> เช่น ค่าน้ำมันเชื่อเพลิง
+ค่าเบี้ยเลี้ยงพนักงาน<span style='mso-spacerun:yes'>&nbsp;
+</span>รวมทั้งค่าน้ำมันเชื่อเพลิงในการปฏิบัติงาน
+ระหว่างเช่าใช้เครื่องจักรกลทั้งหมด
+แต่ไม่ต้องรับภาระค่าเช่า<BR>เครื่องจักรที่ใช้ในการลำเลียงขนส่ง</span>
     <o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>�֧���¹�����ͷ�Һ</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>จึงเรียนมาเพื่อทราบ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>ŧ����.........................................<span style='mso-tab-count:
-1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>��һ�зѺ...............................................</span><span
+</span>ลงชื่อ.........................................<span style='mso-tab-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>ตราประทับ...............................................</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
@@ -391,24 +391,24 @@ font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&n
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(<?=$row_show['mem_name']?>)  </span><span style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p>
 </span><span
-style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p>(�ԵԺؤ��)</o:p></span></p>
+style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p>(นิติบุคคล)</o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>�����ӹ�¡�����Ἱ</span><span
+font-family:"TH SarabunPSK","sans-serif"'>ฝ่ายอำนวยการและแผน</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>���ͷ�Һ ���Թ���</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เพื่อทราบ ดำเนินการ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ŧ����..................................................</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ลงชื่อ..................................................</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>(������ പ��Թ����)</span><span style='font-size:14.0pt;line-height:
+</span>(นายโกมล เดชกวินเลิศ)</span><span style='font-size:14.0pt;line-height:
 115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
@@ -416,7 +416,7 @@ font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&n
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>PS.<span
-lang=TH> ʧ�.�����ä��<o:p></o:p></span></span></p>
+lang=TH> สงล.มหาสารคาม<o:p></o:p></span></span></p>
 
 </div>
 

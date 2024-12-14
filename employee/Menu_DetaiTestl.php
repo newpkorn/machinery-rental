@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title></title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 
 <style type="text/css">
@@ -29,7 +29,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style1">���ͼ����ҹ</span> :: <?=$_SESSION['emp_name']?>
+<span class="style1">ชื่อผู้ใช้งาน</span> :: <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -39,7 +39,7 @@
         </tr>
         <tr>
           <td width="100%" height="48" valign="middle"><center>
-            <a href="../logout.php"><img src="../images/logout.gif" alt="" width="16" height="16"> �͡�ҡ�к� </a>
+            <a href="../logout.php"><img src="../images/logout.gif" alt="" width="16" height="16"> ออกจากระบบ </a>
           </center></td>
         </tr>
     </table>
@@ -55,7 +55,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%" colspan="2"><strong>�Թ�յ�͹�Ѻ����к����������ͧ�ѡá� ����ҧ��ǧ �����ä�� </strong></td>
+            <td width="48%" colspan="2"><strong>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </strong></td>
           
           </tr>
           <tr>
@@ -68,19 +68,19 @@
                   <td width="100%"><table width="471" height="288" border="0">
                     <tr>
                       <td width="161" height="103" align="center"><a href="InsertMember.php"><img src="../images/admin.jpg" alt="" width="128" height="99"><br>
-                        ��������Ҫԡ</a></td>
-                      <td width="139" align="center"><a href="search_machin.php"><img src="../images/9201ö¹���� �� ���.gif" alt="" width="128" height="99"><br>
-                            ����������ͧ�ѡá�</a></td>
+                        ข้อมูลสมาชิก</a></td>
+                      <td width="139" align="center"><a href="search_machin.php"><img src="../images/9201รถยนต์นั่ง เก๋ง ตู้.gif" alt="" width="128" height="99"><br>
+                            ข้อมูลเครื่องจักรกล</a></td>
                       <td width="149" align="center"><a href="ReservationsMachine.php"><img src="../images/20090401144610_pic.gif" alt="" width="128" height="99"><br>
-                        �����š�èͧ����ͧ�ѡá�</a></td>
+                        ข้อมูลการจองเครื่องจักรกล</a></td>
                     </tr>
                     <tr>
                       <td height="92" align="center"><a href="RentMachine.php"><img src="../images/20090401163201_pic.gif" alt="" width="128" height="99"><BR>
-                        �����š���������ͧ�ѡá�</a></td>
+                        ข้อมูลการเช่าเครื่องจักรกล</a></td>
                       <td align="center"><a href="ReturntMachine.php"><img src="../images/fileopen.png" alt="" width="128" height="99"><BR>
-                        �����š���Ѻ�׹</a></td>
+                        ข้อมูลการรับคืน</a></td>
                       <td align="center"><a href="document.php"><img src="../images/icon_report.png" alt="" width="130" height="97"99"><BR>
-                        �͡��ô�ǹ���Ŵ</a></td>
+                        เอกสารดาวน์โหลด</a></td>
                     </tr>
 
                   </table>

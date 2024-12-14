@@ -16,7 +16,7 @@
 
 <head>
 
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 
@@ -26,7 +26,7 @@
 
 <div class=Section1>
 
-<div align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span class="style1" >  ���¡�èͧ 
+<div align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span class="style1" >  ใบรายการจอง 
   
 </span></div>
 <table width=924 border=1 cellpadding=0 cellspacing=0 class=MsoNormalTable
@@ -37,41 +37,41 @@
   <td width=76 valign=top style='width:2.0cm;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>���ʡ�èͧ<o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>รหัสการจอง<o:p></o:p></span></p>
   </td>
   <td width=142 valign=top style='width:106.35pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>���ͼ��ͧ</span><span
+  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>ชื่อผู้จอง</span><span
   style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>���˹�ҷ�����¡��</span><span
+  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>เจ้าหน้าที่ทำรายการ</span><span
   style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=189 valign=top style='width:5.0cm;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>��¡������ͧ�ѡáŷ��ͧ</span><span
+  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>รายการเครื่องจักรกลที่จอง</span><span
   style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>�ѹ���ͧ</span><span
+  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>วันที่จอง</span><span
   style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=104 valign=top style='width:77.95pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>�ѹ����Ѻ</span><span
+  normal'><span lang=TH style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'>วันที่รับ</span><span
   style='font-size:16.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -143,17 +143,17 @@ echo thai_date1($eng_date2);?></p>
 
 <p class=MsoNormal style='margin-left:-2.0cm;text-indent:92.15pt;line-height:
 normal;tab-stops:50.25pt'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:
-11.0pt;font-family:"Angsana New","serif"'>�ӹѡ�ҹ�ҧ��ǧ�����ä��</span><a
+11.0pt;font-family:"Angsana New","serif"'>สำนักงานทางหลวงมหาสารคาม</span><a
 name="_GoBack"></a><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:-2.0cm;text-indent:92.15pt;line-height:
 normal;tab-stops:50.25pt'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:
-11.0pt;font-family:"Angsana New","serif"'>��.���-������</span><span
+11.0pt;font-family:"Angsana New","serif"'>โทร.๐๔๓-๗๑๑๒๗๘</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:-2.0cm;text-indent:92.15pt;line-height:
 normal;tab-stops:50.25pt'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:
-11.0pt;font-family:"Angsana New","serif"'>����� ���-������<o:p></o:p></span></p>
+11.0pt;font-family:"Angsana New","serif"'>โทรสาร ๐๔๓-๗๒๓๓๑๗<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:16.0pt;line-height:115%;font-family:
 "TH SarabunPSK","sans-serif"'><o:p>&nbsp;</o:p></span></p>

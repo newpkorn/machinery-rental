@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
-<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>: : �к����������ͧ�ѡá� ����ҧ��ǧ�����ä�� : :</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="css/css.css" rel="stylesheet" type="text/css">
 <META content="MSHTML 6.00.2900.5626" name=GENERATOR>
 </HEAD>
@@ -39,23 +39,23 @@
             <table width="100%" height="411" border="0">
               <tr>
                 <td><p><img src="images/13292131700.png" width="105" height="108"></p>
-                  <p>ö���͹��</p></td>
+                  <p>รถบดไอน้ำ</p></td>
                 <td><p><img src="images/13292131700.png" alt="" width="105" height="108"></p>
-                  <p>ö¹���Ҵ�ҧ</p></td>
+                  <p>รถยนต์ลาดยาง</p></td>
                 <td><p><img src="images/13292131700.png" alt="" width="105" height="108"></p>
-                  <p>ö¡</p></td>
+                  <p>รถยก</p></td>
               </tr>
               <tr>
                 <td><p><img src="images/13292131700.png" alt="" width="105" height="108"></p>
-                  <p>ö�ش�Թ</p></td>
+                  <p>รถขุดดิน</p></td>
                 <td><p><img src="images/13292131880.png" width="114" height="93"></p>
-                  <p>ö�Ѵ�մ</p></td>
+                  <p>รถอัดฉีด</p></td>
                 <td><p><img src="images/13292131880.png" alt="" width="114" height="93"></p>
-                  <p>ö��ǧ</p></td>
+                  <p>รถพ่วง</p></td>
               </tr>
               <tr>
                 <td><p><img src="images/13292131880.png" alt="" width="114" height="93"></p>
-                  <p>ö�ش�Թ</p></td>
+                  <p>รถขุดดิน</p></td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
               </tr>

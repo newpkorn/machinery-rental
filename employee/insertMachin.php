@@ -1,4 +1,4 @@
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 <? @session_start(); include("../inc_connect.php"); ?>
 <?php
@@ -18,31 +18,31 @@
 		$result_show = mysql_query($sql_show);
 $num_show=mysql_num_rows($result_show);
 	if ($num_show!=0) {
-			echo"<SCRIPT>alert('��������ͧ�ѡë�ӡѹ��Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('รหัสเครื่องจักรซ้ำกันครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=DesignInsertMachine.php'>";
 		exit();
 	}
 
 	if($id==""){
 	 
-			echo"<SCRIPT>alert('��سҡ�͡��������ͧ�ѡáŴ��¤�Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('กรุณากรอกรหัสเครื่องจักรกลด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=DesignInsertMachine.php'>";
 		exit();
 	}
 	else if($licen==""){
-					echo"<SCRIPT>alert('��سҡ�͡����¹����ͧ�ѡáŴ��¤�Ѻ');history.back();</SCRIPT>";
+					echo"<SCRIPT>alert('กรุณากรอกทะเบียนเครื่องจักรกลด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=DesignInsertMachine.php'>";
  
 		exit();
 	}
 		else if($price==""){
-					echo"<SCRIPT>alert('��سҡ�͡�ҤҴ��¤�Ѻ');history.back();</SCRIPT>";
+					echo"<SCRIPT>alert('กรุณากรอกราคาด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=DesignInsertMachine.php'>";
  
 		exit();
 	}
 		else if($control==""){
-							echo"<SCRIPT>alert('��سҡ�͡����������ͧ�ѡáŴ��¤�Ѻ');history.back();</SCRIPT>";
+							echo"<SCRIPT>alert('กรุณากรอกผู้ดูแลเครื่องจักรกลด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=DesignInsertMachine.php'>";
 
 		exit();
@@ -58,11 +58,11 @@ $pic = $_FILES['pic'];
 	$query = mysql_query($insert);
 	if($query)
 	{
-					echo"<SCRIPT>alert('��������������ͧ�ѡá����º��������');</SCRIPT>";
+					echo"<SCRIPT>alert('เพิ่มข้อมูลเครื่องจักรกลเรียบร้อยแล้ว');</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_machin.php'>";
 	}
 	else if(!$query){
-							echo"<SCRIPT>alert('��������������ͧ�ѡá������');</SCRIPT>";
+							echo"<SCRIPT>alert('เพิ่มข้อมูลเครื่องจักรกลไม่ได้');</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_machin.php'>";
 	 
 	}

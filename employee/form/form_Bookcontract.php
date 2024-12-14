@@ -16,7 +16,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -104,105 +104,105 @@ div.Section1
 style='font-size:16.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=TH
-style='font-size:16.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>หนังสือสัญญาเช่า</span></b><b><span
+style='font-size:16.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>เธซเธเธฑเธเธชเธทเธญเธชเธฑเธเธเธฒเน€เธเนเธฒ</span></b><b><span
 style='font-size:16.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal><b><span lang=TH style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span
 lang=TH style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เขียนที่&nbsp;&nbsp;&nbsp;สำนักงานทางหลวงมหาสารคาม</span><span style='font-size:14.0pt;line-height:115%;
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เน€เธเธตเธขเธเธ—เธตเน&nbsp;&nbsp;&nbsp;เธชเธณเธเธฑเธเธเธฒเธเธ—เธฒเธเธซเธฅเธงเธเธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</span><span style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span lang=TH>
 <o:p></o:p></span></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>เมื่อวันที่&nbsp;&nbsp;
-<?echo date('d');?>&nbsp;&nbsp;เดือน&nbsp;&nbsp; <?$mmm=date('m');?><?$eng_date4=strtotime("$mmm");    
-echo thai_date4($eng_date4);?> &nbsp;&nbsp; <span class=SpellE>พ.ศ</span>&nbsp;&nbsp;
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>เน€เธกเธทเนเธญเธงเธฑเธเธ—เธตเน&nbsp;&nbsp;
+<?echo date('d');?>&nbsp;&nbsp;เน€เธ”เธทเธญเธ&nbsp;&nbsp; <?$mmm=date('m');?><?$eng_date4=strtotime("$mmm");    
+echo thai_date4($eng_date4);?> &nbsp;&nbsp; <span class=SpellE>เธ.เธจ</span>&nbsp;&nbsp;
 <? $aaa=date('Y'); echo $aaa+543; ?></span><span style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>&nbsp;&nbsp;
 <o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>โดยหนังสือฉบับนี้
-ข้าพเจ้า สำนักงานทางหลวงมหาสารคาม
-อายุ&nbsp;&nbsp;-&nbsp;&nbsp;บ้านเลขที่&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;หมู่ที่&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ถนน&nbsp;&nbsp;&nbsp;ถีนานนท์&nbsp;&nbsp;&nbsp;ตรอก/ซอย&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;ตำบล&nbsp;&nbsp;&nbsp;ตลาด&nbsp;&nbsp;&nbsp;อำเภอ&nbsp;&nbsp;&nbsp;เมือง&nbsp;&nbsp;&nbsp;จังหวัด&nbsp;&nbsp;&nbsp;มหาสารคาม&nbsp;&nbsp;&nbsp;</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เนเธ”เธขเธซเธเธฑเธเธชเธทเธญเธเธเธฑเธเธเธตเน
+เธเนเธฒเธเน€เธเนเธฒ เธชเธณเธเธฑเธเธเธฒเธเธ—เธฒเธเธซเธฅเธงเธเธกเธซเธฒเธชเธฒเธฃเธเธฒเธก
+เธญเธฒเธขเธธ&nbsp;&nbsp;-&nbsp;&nbsp;เธเนเธฒเธเน€เธฅเธเธ—เธตเน&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;เธซเธกเธนเนเธ—เธตเน&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;เธ–เธเธ&nbsp;&nbsp;&nbsp;เธ–เธตเธเธฒเธเธเธ—เน&nbsp;&nbsp;&nbsp;เธ•เธฃเธญเธ/เธเธญเธข&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;เธ•เธณเธเธฅ&nbsp;&nbsp;&nbsp;เธ•เธฅเธฒเธ”&nbsp;&nbsp;&nbsp;เธญเธณเน€เธ เธญ&nbsp;&nbsp;&nbsp;เน€เธกเธทเธญเธ&nbsp;&nbsp;&nbsp;เธเธฑเธเธซเธงเธฑเธ”&nbsp;&nbsp;&nbsp;เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก&nbsp;&nbsp;&nbsp;</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>ซึ่งต่อไปในสัญญานี้เรียกว่า
-“ผู้ให้เช่า” ฝ่ายหนึ่ง กับข้าพเจ้า&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['mem_name']?>&nbsp;&nbsp;&nbsp;&nbsp;อายุ 
+font-family:"TH SarabunPSK","sans-serif"'>เธเธถเนเธเธ•เนเธญเนเธเนเธเธชเธฑเธเธเธฒเธเธตเนเน€เธฃเธตเธขเธเธงเนเธฒ
+๏ฃเธเธนเนเนเธซเนเน€เธเนเธฒ๏ฃ เธเนเธฒเธขเธซเธเธถเนเธ เธเธฑเธเธเนเธฒเธเน€เธเนเธฒ&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['mem_name']?>&nbsp;&nbsp;&nbsp;&nbsp;เธญเธฒเธขเธธ 
 <?=$row_show['mem_age']?>
 <span
-lang=TH>ปี ที่อยู่&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['address']?>&nbsp;&nbsp;&nbsp;&nbsp;ถือบัตรประชาชนเลขที่&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['reg_card']?>&nbsp;&nbsp;&nbsp;&nbsp;ออกให้โดย&nbsp;&nbsp;&nbsp;&nbsp;กรมการปกครองเมื่อวันที่&nbsp;&nbsp;
+lang=TH>เธเธต เธ—เธตเนเธญเธขเธนเน&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['address']?>&nbsp;&nbsp;&nbsp;&nbsp;เธ–เธทเธญเธเธฑเธ•เธฃเธเธฃเธฐเธเธฒเธเธเน€เธฅเธเธ—เธตเน&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['reg_card']?>&nbsp;&nbsp;&nbsp;&nbsp;เธญเธญเธเนเธซเนเนเธ”เธข&nbsp;&nbsp;&nbsp;&nbsp;เธเธฃเธกเธเธฒเธฃเธเธเธเธฃเธญเธเน€เธกเธทเนเธญเธงเธฑเธเธ—เธตเน&nbsp;&nbsp;
 <?=$row_show['date_issue']?>
-&nbsp;&nbsp;ซึ่งต่อไปนี้สัญญานี้เรียกว่า
-“ผู้เช่า” อีกฝ่ายหนึ่งทั้งสองฝ่ายทำสัญญากันดังนี้</span>
+&nbsp;&nbsp;เธเธถเนเธเธ•เนเธญเนเธเธเธตเนเธชเธฑเธเธเธฒเธเธตเนเน€เธฃเธตเธขเธเธงเนเธฒ
+๏ฃเธเธนเนเน€เธเนเธฒ๏ฃ เธญเธตเธเธเนเธฒเธขเธซเธเธถเนเธเธ—เธฑเนเธเธชเธญเธเธเนเธฒเธขเธ—เธณเธชเธฑเธเธเธฒเธเธฑเธเธ”เธฑเธเธเธตเน</span>
 <o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ข้อ
-๑. ผู้ให้เช่าตกลงให้เช่า และผู้เช่าตกลงเช่า &nbsp;&nbsp;&nbsp;&nbsp;เครื่องจักรกลหมายเลข
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเนเธญ
+เน‘. เธเธนเนเนเธซเนเน€เธเนเธฒเธ•เธเธฅเธเนเธซเนเน€เธเนเธฒ เนเธฅเธฐเธเธนเนเน€เธเนเธฒเธ•เธเธฅเธเน€เธเนเธฒ &nbsp;&nbsp;&nbsp;&nbsp;เน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅเธซเธกเธฒเธขเน€เธฅเธ
 
 <?		    $sqltype1=mysql_query("select * from   tb_lease_detail ,tb_machin  where  tb_machin.mac_id=tb_lease_detail.mac_id and leas_id='$row_show[leas_id]' ");
 $num_rows = mysql_num_rows($sqltype1);
 						  while($rstype1= mysql_fetch_array($sqltype1)){?>
 				  
 				  <?=$rstype1[mac_id];?>&nbsp;&nbsp;
-				  <?}?>  จำนวน <?=$num_rows?>&nbsp;
-คัน&nbsp;&nbsp;&nbsp;&nbsp;โดยมีวัตถุประสงค์เพื่อ&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['purpose']?> &nbsp;&nbsp;<?=$row_show['area']?>&nbsp;&nbsp;&nbsp;&nbsp;มีกำหนด<span class=SpellE>เวลาเช่า&nbsp;&nbsp;&nbsp;&nbsp;<? $sqltype1=mysql_query("select * from   tb_lease_detail ,tb_machin  where  tb_machin.mac_id=tb_lease_detail.mac_id and leas_id='$row_show[leas_id]' ");
+				  <?}?>  เธเธณเธเธงเธ <?=$num_rows?>&nbsp;
+เธเธฑเธ&nbsp;&nbsp;&nbsp;&nbsp;เนเธ”เธขเธกเธตเธงเธฑเธ•เธ–เธธเธเธฃเธฐเธชเธเธเนเน€เธเธทเนเธญ&nbsp;&nbsp;&nbsp;&nbsp;<?=$row_show['purpose']?> &nbsp;&nbsp;<?=$row_show['area']?>&nbsp;&nbsp;&nbsp;&nbsp;เธกเธตเธเธณเธซเธเธ”<span class=SpellE>เน€เธงเธฅเธฒเน€เธเนเธฒ&nbsp;&nbsp;&nbsp;&nbsp;<? $sqltype1=mysql_query("select * from   tb_lease_detail ,tb_machin  where  tb_machin.mac_id=tb_lease_detail.mac_id and leas_id='$row_show[leas_id]' ");
 $num_rows = mysql_num_rows($sqltype1);
 						  while($rstype1= mysql_fetch_array($sqltype1)){?>
 				  
 				  <?=$rstype1[period];?>&nbsp;&nbsp;
-				  <?}?>&nbsp;&nbsp;&nbsp;&nbsp;(วัน/ชม.)
-เริ่มตั้งแต่วันที่&nbsp;&nbsp;&nbsp;&nbsp;<? $sqltype1=mysql_query("select * from   tb_lease_detail ,tb_machin  where  tb_machin.mac_id=tb_lease_detail.mac_id and leas_id='$row_show[leas_id]' ");
+				  <?}?>&nbsp;&nbsp;&nbsp;&nbsp;(เธงเธฑเธ/เธเธก.)
+เน€เธฃเธดเนเธกเธ•เธฑเนเธเนเธ•เนเธงเธฑเธเธ—เธตเน&nbsp;&nbsp;&nbsp;&nbsp;<? $sqltype1=mysql_query("select * from   tb_lease_detail ,tb_machin  where  tb_machin.mac_id=tb_lease_detail.mac_id and leas_id='$row_show[leas_id]' ");
 $num_rows = mysql_num_rows($sqltype1);
 						  while($rstype1= mysql_fetch_array($sqltype1)){?>
 				  <? $sump=$sump+$rstype1[mec_price];?>
 				  <?=$rstype1[leas_date];?>&nbsp;&nbsp;
 				  <? }?>&nbsp;&nbsp;&nbsp;&nbsp;
- โดยผู้เช่าตกลงให้ค่าเช่าแก่ผู้ให้เช่าเป็นราย (วัน/ชม.)&nbsp;&nbsp;&nbsp;&nbsp;วัน,ชม&nbsp;&nbsp;&nbsp;&nbsp;รวม&nbsp;&nbsp;&nbsp;&nbsp;<?=$sump?>&nbsp;</span><span
+ เนเธ”เธขเธเธนเนเน€เธเนเธฒเธ•เธเธฅเธเนเธซเนเธเนเธฒเน€เธเนเธฒเนเธเนเธเธนเนเนเธซเนเน€เธเนเธฒเน€เธเนเธเธฃเธฒเธข (เธงเธฑเธ/เธเธก.)&nbsp;&nbsp;&nbsp;&nbsp;เธงเธฑเธ,เธเธก&nbsp;&nbsp;&nbsp;&nbsp;เธฃเธงเธก&nbsp;&nbsp;&nbsp;&nbsp;<?=$sump?>&nbsp;</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><span
-lang=TH>.-บาท&nbsp;&nbsp;&nbsp;&nbsp;(<?echo  convert($sump);?>) มีกำหนดชำระภายใน ๓
-วันทำการ นับจากวันที่ได้รับใบแจ้งหนี้ หรือของทุก ๑๕ วัน
-ส่วนเงินค่าภาษีอันเกิดจากทรัพย์สินที่เช่านี้ ให้&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นผู้เสีย</span><o:p></o:p></span></p>
+lang=TH>.-เธเธฒเธ—&nbsp;&nbsp;&nbsp;&nbsp;(<?echo  convert($sump);?>) เธกเธตเธเธณเธซเธเธ”เธเธณเธฃเธฐเธ เธฒเธขเนเธ เน“
+เธงเธฑเธเธ—เธณเธเธฒเธฃ เธเธฑเธเธเธฒเธเธงเธฑเธเธ—เธตเนเนเธ”เนเธฃเธฑเธเนเธเนเธเนเธเธซเธเธตเน เธซเธฃเธทเธญเธเธญเธเธ—เธธเธ เน‘เน• เธงเธฑเธ
+เธชเนเธงเธเน€เธเธดเธเธเนเธฒเธ เธฒเธฉเธตเธญเธฑเธเน€เธเธดเธ”เธเธฒเธเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒเธเธตเน เนเธซเน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เน€เธเนเธเธเธนเนเน€เธชเธตเธข</span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ข้อ
-๒. ผู้เช่าได้ตรวจดูทรัพย์สินที่เช่าแล้ว เห็นว่าทุกสิ่งอยู่ในสภาพเรียบร้อยใช้การได้อย่างสมบูรณ์ จะดูแลทรับย์สินที่เช่าไม่ให้สูญหาย
-และบำรุงรักษาให้อยู่ในสภาพดีอยู่เสมอ พร้อมที่จะส่งมองคืนตามสภาพเดิมทุกประการ และตกลงให้ผู้ให้เช่าหรือตัวแทน เข้าตรวจดูทรับย์สินที่เช่าได้ทุกเวลา
- ภายหลังที่ได้แจ้งความประสงค์ให้ผู้เช่าทราบแล้ว และหากเกิดความเสียหายใดๆ แก่ทรัพย์สินที่เช่าหรือความเสียหายต่อบุคคลและทรัพย์สิน อันเนื่องจากการทำงานของทรัพย์สินที่เช่า  ผู้เช่าจะต้องรับผิดชอบทั้งสิ้น ยกเว้นการชำรุดจากการใช้งานปกติ</span><span style='font-size:14.0pt;line-height:
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเนเธญ
+เน’. เธเธนเนเน€เธเนเธฒเนเธ”เนเธ•เธฃเธงเธเธ”เธนเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒเนเธฅเนเธง เน€เธซเนเธเธงเนเธฒเธ—เธธเธเธชเธดเนเธเธญเธขเธนเนเนเธเธชเธ เธฒเธเน€เธฃเธตเธขเธเธฃเนเธญเธขเนเธเนเธเธฒเธฃเนเธ”เนเธญเธขเนเธฒเธเธชเธกเธเธนเธฃเธ“เน เธเธฐเธ”เธนเนเธฅเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒเนเธกเนเนเธซเนเธชเธนเธเธซเธฒเธข
+เนเธฅเธฐเธเธณเธฃเธธเธเธฃเธฑเธเธฉเธฒเนเธซเนเธญเธขเธนเนเนเธเธชเธ เธฒเธเธ”เธตเธญเธขเธนเนเน€เธชเธกเธญ เธเธฃเนเธญเธกเธ—เธตเนเธเธฐเธชเนเธเธกเธญเธเธเธทเธเธ•เธฒเธกเธชเธ เธฒเธเน€เธ”เธดเธกเธ—เธธเธเธเธฃเธฐเธเธฒเธฃ เนเธฅเธฐเธ•เธเธฅเธเนเธซเนเธเธนเนเนเธซเนเน€เธเนเธฒเธซเธฃเธทเธญเธ•เธฑเธงเนเธ—เธ เน€เธเนเธฒเธ•เธฃเธงเธเธ”เธนเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒเนเธ”เนเธ—เธธเธเน€เธงเธฅเธฒ
+ เธ เธฒเธขเธซเธฅเธฑเธเธ—เธตเนเนเธ”เนเนเธเนเธเธเธงเธฒเธกเธเธฃเธฐเธชเธเธเนเนเธซเนเธเธนเนเน€เธเนเธฒเธ—เธฃเธฒเธเนเธฅเนเธง เนเธฅเธฐเธซเธฒเธเน€เธเธดเธ”เธเธงเธฒเธกเน€เธชเธตเธขเธซเธฒเธขเนเธ”เน เนเธเนเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒเธซเธฃเธทเธญเธเธงเธฒเธกเน€เธชเธตเธขเธซเธฒเธขเธ•เนเธญเธเธธเธเธเธฅเนเธฅเธฐเธ—เธฃเธฑเธเธขเนเธชเธดเธ เธญเธฑเธเน€เธเธทเนเธญเธเธเธฒเธเธเธฒเธฃเธ—เธณเธเธฒเธเธเธญเธเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒ  เธเธนเนเน€เธเนเธฒเธเธฐเธ•เนเธญเธเธฃเธฑเธเธเธดเธ”เธเธญเธเธ—เธฑเนเธเธชเธดเนเธ เธขเธเน€เธงเนเธเธเธฒเธฃเธเธณเธฃเธธเธ”เธเธฒเธเธเธฒเธฃเนเธเนเธเธฒเธเธเธเธ•เธด</span><span style='font-size:14.0pt;line-height:
 115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ข้อ
-๓. ผู้เช่าไม่มีสิทธิ์นำทรับย์สินที่เช่า ออกให้ผู้อื่นเช่าช่วง หรือทำนิติกรรมใดๆกับผู้อื่น ในอันที่จะเป็นผลก่อให้เกิดความผูกพันในทรัพย์สินที่เช่า
-ไม่ว่าโดยตรงหรือโดยปริยาย และจะไม่ทำการดัดแปลงหรือต่อเติมทรัพย์สินที่เช่า ไม่ว่าทั้งหมดหรือบางส่วน เว้นแต่จะได้รับความยินยอมเป็นหนังสือจากผู้ให้เช่าและหากผู้เช่าได้ทำการดัดแปลง หรือต่อเติมสิ่งใดตามที่ได้รับความยินยอมเมื่อใดแล้ว
-ผู้เช่ายอมยกกรรมสิทธิ์ในทรัพย์สินสิ่งนั้นให้ตกเป็นของผู้ให้เช่านับแต่เมื่อนั้นด้วยทั้งสิ้น
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเนเธญ
+เน“. เธเธนเนเน€เธเนเธฒเนเธกเนเธกเธตเธชเธดเธ—เธเธดเนเธเธณเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒ เธญเธญเธเนเธซเนเธเธนเนเธญเธทเนเธเน€เธเนเธฒเธเนเธงเธ เธซเธฃเธทเธญเธ—เธณเธเธดเธ•เธดเธเธฃเธฃเธกเนเธ”เนเธเธฑเธเธเธนเนเธญเธทเนเธ เนเธเธญเธฑเธเธ—เธตเนเธเธฐเน€เธเนเธเธเธฅเธเนเธญเนเธซเนเน€เธเธดเธ”เธเธงเธฒเธกเธเธนเธเธเธฑเธเนเธเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒ
+เนเธกเนเธงเนเธฒเนเธ”เธขเธ•เธฃเธเธซเธฃเธทเธญเนเธ”เธขเธเธฃเธดเธขเธฒเธข เนเธฅเธฐเธเธฐเนเธกเนเธ—เธณเธเธฒเธฃเธ”เธฑเธ”เนเธเธฅเธเธซเธฃเธทเธญเธ•เนเธญเน€เธ•เธดเธกเธ—เธฃเธฑเธเธขเนเธชเธดเธเธ—เธตเนเน€เธเนเธฒ เนเธกเนเธงเนเธฒเธ—เธฑเนเธเธซเธกเธ”เธซเธฃเธทเธญเธเธฒเธเธชเนเธงเธ เน€เธงเนเธเนเธ•เนเธเธฐเนเธ”เนเธฃเธฑเธเธเธงเธฒเธกเธขเธดเธเธขเธญเธกเน€เธเนเธเธซเธเธฑเธเธชเธทเธญเธเธฒเธเธเธนเนเนเธซเนเน€เธเนเธฒเนเธฅเธฐเธซเธฒเธเธเธนเนเน€เธเนเธฒเนเธ”เนเธ—เธณเธเธฒเธฃเธ”เธฑเธ”เนเธเธฅเธ เธซเธฃเธทเธญเธ•เนเธญเน€เธ•เธดเธกเธชเธดเนเธเนเธ”เธ•เธฒเธกเธ—เธตเนเนเธ”เนเธฃเธฑเธเธเธงเธฒเธกเธขเธดเธเธขเธญเธกเน€เธกเธทเนเธญเนเธ”เนเธฅเนเธง
+เธเธนเนเน€เธเนเธฒเธขเธญเธกเธขเธเธเธฃเธฃเธกเธชเธดเธ—เธเธดเนเนเธเธ—เธฃเธฑเธเธขเนเธชเธดเธเธชเธดเนเธเธเธฑเนเธเนเธซเนเธ•เธเน€เธเนเธเธเธญเธเธเธนเนเนเธซเนเน€เธเนเธฒเธเธฑเธเนเธ•เนเน€เธกเธทเนเธญเธเธฑเนเธเธ”เนเธงเธขเธ—เธฑเนเธเธชเธดเนเธ
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ข้อ
-๔. เมื่อผู้เช่าทำการผิดสัญญาข้อใดข้อหนึ่ง ผู้ให้เช่ามีสิทธิบอกเลิกสัญญาได้ทันที และผู้เช่ายอมชดใช้ค่าฤชาธรรมเนียมกับค่าทนายความตลอดจนค่าพาหนะ
-และค่าใช้จ่ายในการคิดต่อทวงถามให้แก่ผู้ให้เช่าจนครบถ้วน</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเนเธญ
+เน”. เน€เธกเธทเนเธญเธเธนเนเน€เธเนเธฒเธ—เธณเธเธฒเธฃเธเธดเธ”เธชเธฑเธเธเธฒเธเนเธญเนเธ”เธเนเธญเธซเธเธถเนเธ เธเธนเนเนเธซเนเน€เธเนเธฒเธกเธตเธชเธดเธ—เธเธดเธเธญเธเน€เธฅเธดเธเธชเธฑเธเธเธฒเนเธ”เนเธ—เธฑเธเธ—เธต เนเธฅเธฐเธเธนเนเน€เธเนเธฒเธขเธญเธกเธเธ”เนเธเนเธเนเธฒเธคเธเธฒเธเธฃเธฃเธกเน€เธเธตเธขเธกเธเธฑเธเธเนเธฒเธ—เธเธฒเธขเธเธงเธฒเธกเธ•เธฅเธญเธ”เธเธเธเนเธฒเธเธฒเธซเธเธฐ
+เนเธฅเธฐเธเนเธฒเนเธเนเธเนเธฒเธขเนเธเธเธฒเธฃเธเธดเธ”เธ•เนเธญเธ—เธงเธเธ–เธฒเธกเนเธซเนเนเธเนเธเธนเนเนเธซเนเน€เธเนเธฒเธเธเธเธฃเธเธ–เนเธงเธ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>คู่สัญญาได้อ่านและเข้าใจข้อความดีแล้ว
-จึงลงลายมือชื่อไว้เป็นสำคัญต่อหน้าพยาน</span><span style='font-size:14.0pt;
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเธนเนเธชเธฑเธเธเธฒเนเธ”เนเธญเนเธฒเธเนเธฅเธฐเน€เธเนเธฒเนเธเธเนเธญเธเธงเธฒเธกเธ”เธตเนเธฅเนเธง
+เธเธถเธเธฅเธเธฅเธฒเธขเธกเธทเธญเธเธทเนเธญเนเธงเนเน€เธเนเธเธชเธณเธเธฑเธเธ•เนเธญเธซเธเนเธฒเธเธขเธฒเธ</span><span style='font-size:14.0pt;
 line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>ลงชื่อ...............................................ผู้เช่า<span
-style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ลงชื่อ...............................................ผู้ให้เช่า</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เธฅเธเธเธทเนเธญ...............................................เธเธนเนเน€เธเนเธฒ<span
+style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธฅเธเธเธทเนเธญ...............................................เธเธนเนเนเธซเนเน€เธเนเธฒ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(<?=$row_show['mem_name']?>)<span style='mso-tab-count:7'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(นายโกมล
-เดชกวินเลิศ)</span><span style='font-size:14.0pt;line-height:115%;font-family:
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(<?=$row_show['mem_name']?>)<span style='mso-tab-count:7'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(เธเธฒเธขเนเธเธกเธฅ
+เน€เธ”เธเธเธงเธดเธเน€เธฅเธดเธจ)</span><span style='font-size:14.0pt;line-height:115%;font-family:
 "TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>ลงชื่อ.............................................พยาน<span
-style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ลงชื่อ..............................................พยาน</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เธฅเธเธเธทเนเธญ.............................................เธเธขเธฒเธ<span
+style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธฅเธเธเธทเนเธญ..............................................เธเธขเธฒเธ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;

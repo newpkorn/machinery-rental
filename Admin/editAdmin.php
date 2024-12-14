@@ -3,14 +3,14 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ¡À“ “√§“¡</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<title>‡∏£‡∏∞‡∏ö‡∏ö‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏• ‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á ‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏°</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 		<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '°√Õ°‰¥È‡©æ“–µ—«‡≈¢ 0-9 ' );
+			  alert( '‡∏Å‡∏£‡∏≠‡∏Å‡πÑ‡∏î‡πâ‡πÄ‡∏â‡∏û‡∏≤‡∏∞‡∏ï‡∏±‡∏ß‡πÄ‡∏•‡∏Ç 0-9 ' );
 	    	}
 	}
 </script>
@@ -23,7 +23,7 @@ function CheckNum(){
 </head>
 <? include("../inc_connect.php"); ?>
 <? 
-//‡√’¬°¢ÈÕ¡Ÿ≈®“° √À—  ¡“· ¥ß„π textbox
+//‡πÄ‡∏£‡∏µ‡∏¢‡∏Å‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏à‡∏≤‡∏Å ‡∏£‡∏´‡∏±‡∏™ ‡∏°‡∏≤‡πÅ‡∏™‡∏î‡∏á‡πÉ‡∏ô textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
@@ -48,7 +48,7 @@ function CheckNum(){
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style2"><strong>™◊ËÕºŸÈ„™Èß“π</strong></span> : <?=$_SESSION['adm_name']?>
+              <span class="style2"><strong>‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô</strong></span> : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -61,16 +61,16 @@ function CheckNum(){
           </table>
           <table width="92%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
             <tr>
-              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ÀπÈ“·√°</a></strong></td>
+              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/impersonal.gif" alt="" width="16" height="16"><a href="search_admin.php">&nbsp;¢ÈÕ¡Ÿ≈ºŸÈ¥Ÿ·≈√–∫∫</a></strong></td>
+              <td height="34"><strong><img src="../images/impersonal.gif" alt="" width="16" height="16"><a href="search_admin.php">&nbsp;‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏ú‡∏π‡πâ‡∏î‡∏π‡πÅ‡∏•‡∏£‡∏∞‡∏ö‡∏ö</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"><a href="InsertAdmin.php">&nbsp;‡æ‘Ë¡¢ÈÕ¡Ÿ≈ºŸÈ¥Ÿ·≈√–∫∫</a></strong></td>
+              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"><a href="InsertAdmin.php">&nbsp;‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏ú‡∏π‡πâ‡∏î‡∏π‡πÅ‡∏•‡∏£‡∏∞‡∏ö‡∏ö</a></strong></td>
             </tr>
             <tr>
-              <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></strong></td>
+              <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></strong></td>
             </tr>
           </table></td>
         <td width="77%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
@@ -84,7 +84,7 @@ function CheckNum(){
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ®—ßÀ«—¥¡À“ “√§“¡</strong></td>
+                <td width="47%"><strong>‡∏£‡∏∞‡∏ö‡∏ö‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏• ‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á ‡∏à‡∏±‡∏á‡∏´‡∏ß‡∏±‡∏î‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏°</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -93,7 +93,7 @@ function CheckNum(){
               <tr>
                 <td colspan="2"><table width="100%"  border="0" bgcolor="#99FFFF">
                   <tr>
-                    <td colspan="2"><strong>·°È‰¢¢ÈÕ¡Ÿ≈ºŸÈ¥Ÿ·≈√–∫∫</strong></td>
+                    <td colspan="2"><strong>‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏ú‡∏π‡πâ‡∏î‡∏π‡πÅ‡∏•‡∏£‡∏∞‡∏ö‡∏ö</strong></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
@@ -101,7 +101,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;√À— ºŸÈ¥Ÿ·≈√–∫∫ : </label>&nbsp;
+                      <label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡∏ú‡∏π‡πâ‡∏î‡∏π‡πÅ‡∏•‡∏£‡∏∞‡∏ö‡∏ö : </label>&nbsp;
                     </span></td>
                     <td bgcolor="#CCFFFF"><label for="txtID"></label>
                       <input type="text" name="txtID" id="txtID" value="<?=$row_show['adm_id']?>" />                      
@@ -109,7 +109,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;™◊ËÕ- °ÿ≈ : </label>
+                      <label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠-‡∏™‡∏Å‡∏∏‡∏• : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtName"></label>
                       <label for="txtName2"></label>
@@ -118,7 +118,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;µ”·ÀπËß : </label>
+                      <label>&nbsp;‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtPos"></label>
 			<select name="txtPos" id="txtPos">
@@ -133,14 +133,14 @@ function CheckNum(){
                     </select>                      </td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">&nbsp;«—π‡¥◊Õπª’‡°‘¥ : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">&nbsp;‡∏ß‡∏±‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏õ‡∏µ‡πÄ‡∏Å‡∏¥‡∏î : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="txtBirth" size="10"  id="StartDate[]" value="<?=$row_show['brithday']?>" onKeyPress="CheckNum()"/>
                       <a href="javascript:NewCal('StartDate[]','ddmmyyyy')"> <img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"> <span class="style1">* </span></a></td>
                   </tr>
                   
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;‡∫Õ√Ï‚∑√ : </label>
+                      <label>&nbsp;‡πÄ‡∏ö‡∏≠‡∏£‡πå‡πÇ‡∏ó‡∏£ : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="Phone"></label>
                       <input name="Phone" type="text" id="Phone" maxlength="10"  value="<?=$row_show['phone']?>" onKeyPress="CheckNum()" />
@@ -148,21 +148,21 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="40" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;∑’ËÕ¬ŸË : </label>
+                      <label>&nbsp;‡∏ó‡∏µ‡πà‡∏≠‡∏¢‡∏π‡πà : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtAdd"></label>
                       <textarea name="txtAdd" id="txtAdd" cols="45" rows="5"> <?=$row_show['address']?> </textarea></td>
                   </tr>
                   <tr>
                     <td height="44" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;™◊ËÕ‡¢È“„™Èß“π : </label>
+                      <label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠‡πÄ‡∏Ç‡πâ‡∏≤‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : </label>
 &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><input name="txtUser" type="text" id="txtUser" maxlength="15" value="<?=$row_show['adm_user']?>" />
                       <span class="style1">*</span></td>
                   </tr>
                   <tr>
                     <td height="44" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;√À— ºË“π : </label>
+                      <label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡∏ú‡πà‡∏≤‡∏ô : </label>
 &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><input name="txtPass" type="text" id="txtPass" maxlength="15" value="<?=$row_show['adm_pass']?>" />
                       <span class="style1">*</span></td>

@@ -1,4 +1,4 @@
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 <? @session_start(); include("../inc_connect.php"); ?>
 <?php
@@ -8,13 +8,13 @@
 	
 		/*if($id==""){
 	 
-		echo"<SCRIPT>alert('กรุณากรอกรหัสรุ่นเครื่องจักรกลด้วยครับ');history.back();</SCRIPT>";
+		echo"<SCRIPT>alert('เธเธฃเธธเธ“เธฒเธเธฃเธญเธเธฃเธซเธฑเธชเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅเธ”เนเธงเธขเธเธฃเธฑเธ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=insertMachinType.php'>";
 		exit();
 	}*/
 	if($name==""){
 	 
-		echo"<SCRIPT>alert('กรุณากรอกชื่อรุ่นด้วยครับ');history.back();</SCRIPT>";
+		echo"<SCRIPT>alert('เธเธฃเธธเธ“เธฒเธเธฃเธญเธเธเธทเนเธญเธฃเธธเนเธเธ”เนเธงเธขเธเธฃเธฑเธ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=insertMachinType.php'>";
 		exit();
 	}
@@ -24,11 +24,11 @@
 	if($query)
 	{
  
-			echo"<SCRIPT>alert('เพิ่มข้อมูลรุ่นเรียบร้อยแล้ว'); </SCRIPT>";
+			echo"<SCRIPT>alert('เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธฃเธตเธขเธเธฃเนเธญเธขเนเธฅเนเธง'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_type.php'>";
 	}
 	else if(!$query){
-				echo"<SCRIPT>alert('ไม่สามารถเพิ่มข้อมูลได้'); </SCRIPT>";
+				echo"<SCRIPT>alert('เนเธกเนเธชเธฒเธกเธฒเธฃเธ–เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเนเธ”เน'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_type.php'>";
 	}
 

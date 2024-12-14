@@ -3,7 +3,7 @@
 <? @session_start(); include("../inc_connect.php"); ?>
 	<?php 
 
-	if($_REQUEST['del_id'] != "") //ถ้า ค่า del_id ไม่เท่ากับค่าว่างเปล่า
+	if($_REQUEST['del_id'] != "") //เธ–เนเธฒ เธเนเธฒ del_id เนเธกเนเน€เธ—เนเธฒเธเธฑเธเธเนเธฒเธงเนเธฒเธเน€เธเธฅเนเธฒ
 {
 $del_id = $_REQUEST['del_id'];
 $sql_del = "delete from tb_lease where leas_id = '$del_id';";
@@ -16,7 +16,7 @@ mysql_query($sql_del) or die(mysql_error());
 $sql_del2 = "delete from tb_lease_detail where leas_id = '$del_id';";
 mysql_query($sql_del2) or die(mysql_error());
  
-			echo"<SCRIPT>alert('ลบข้อมูลเรียบร้อยแล้ว'); </SCRIPT>";
+			echo"<SCRIPT>alert('เธฅเธเธเนเธญเธกเธนเธฅเน€เธฃเธตเธขเธเธฃเนเธญเธขเนเธฅเนเธง'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=RentMachine.php'>";
 }
 ?>

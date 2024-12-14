@@ -26,7 +26,7 @@ for ($u=0; $u<count($chkType); $u++){
 }
 $numa;
 if($numa>3){
-		echo"<SCRIPT>alert('®Õß‰¥È‰¡Ë‡°‘π 3 ‡§√◊ËÕß'); </SCRIPT>";
+		echo"<SCRIPT>alert('‡∏à‡∏≠‡∏á‡πÑ‡∏î‡πâ‡πÑ‡∏°‡πà‡πÄ‡∏Å‡∏¥‡∏ô 3 ‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=ReservationsMachine.php'>";
 			exit();
 }if($numa<=3){
@@ -43,9 +43,9 @@ $result2=mysql_query($sql2)or die("no $sql2");
 	}
 if($result2){
 
-echo"<SCRIPT>alert('∑”°“√‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡ √Á®·≈È«');</SCRIPT>";
+echo"<SCRIPT>alert('‡∏ó‡∏≥‡∏Å‡∏≤‡∏£‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏™‡∏£‡πá‡∏à‡πÅ‡∏•‡πâ‡∏ß');</SCRIPT>";
 echo "<meta http-equiv=\"refresh\" content=\"0;url=ReservationsMachine.php\"> ";
-}	else {echo"<SCRIPT>alert('‰¡Ë “¡“√∂‡æ‘Ë¡¢ÈÕ¡Ÿ≈‰¥È');</SCRIPT>";
+}	else {echo"<SCRIPT>alert('‡πÑ‡∏°‡πà‡∏™‡∏≤‡∏°‡∏≤‡∏£‡∏ñ‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÑ‡∏î‡πâ');</SCRIPT>";
 echo "<meta http-equiv=\"refresh\" content=\"0;url=ReservationsMachine.php\"> ";
 }
 }

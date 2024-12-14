@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -21,7 +21,7 @@
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("�س��ͧ���ź������ ?") == true) {
+  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
   return true;
   }
   return false;
@@ -43,7 +43,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style6">���ͼ����ҹ</span>: : <?=$_SESSION['emp_name']?>
+<span class="style6">ชื่อผู้ใช้งาน</span>: : <?=$_SESSION['emp_name']?>
         </center></td>
       </tr>
     </table>
@@ -54,16 +54,16 @@
         <tr>
           <td width="100%" height="48"><table width="91%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
             <tr>
-              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ˹���á</a></strong></td>
+              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/users.png" alt="" width="16" height="16">&nbsp;<a href="search_member.php">��������Ҫԡ</a></strong></td>
+              <td height="34"><strong><img src="../images/users.png" alt="" width="16" height="16">&nbsp;<a href="search_member.php">ข้อมูลสมาชิก</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> <a href="InsertMember.php">������������Ҫԡ</a></strong></td>
+              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> <a href="InsertMember.php">เพิ่มข้อมูลสมาชิก</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></strong></td>
+              <td height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ออกจากระบบ</a></strong></td>
             </tr>
             
           </table></td>
@@ -81,7 +81,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%" colspan="2"><strong><marquee>�Թ�յ�͹�Ѻ����к����������ͧ�ѡá� ����ҧ��ǧ �����ä�� </marquee></strong></td>
+            <td width="48%" colspan="2"><strong><marquee>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </marquee></strong></td>
      
           </tr>
           <tr>
@@ -93,20 +93,20 @@
               <table width="663" height="162" border="0" align="center">
                 <tr>
                   <td width="245" align="right"><img src="../images/icon_search11.gif" width="50" height="50"></td>
-                  <td width="239"><span class="style51">������Ҫԡ</span></td>
+                  <td width="239"><span class="style51">ค้นหาสมาชิก</span></td>
                 </tr>
                 <tr>
                   <td colspan="2" align="center"><form id="form1" name="form1" method="post" action="search_member.php">
-      �ӷ���ͧ��ä���
+      คำที่ต้องการค้นหา
       <input name="txtKeyword" type="text" id="txtKeyword" value="<?=$_POST["txtKeyword"];?>" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;�ҡ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จาก
 <select name="fields" >
-  <option value="1" selected="selected" <? echo $select1;?>>�Ţ�ѵû�Шӵ�ǻ�ЪҪ�</option>
-  <option value="2"<? echo $select2;?>>����</option>
-  <option value="3" <? echo $select3;?>>�/�/�� �Դ</option>
+  <option value="1" selected="selected" <? echo $select1;?>>เลขบัตรประจำตัวประชาชน</option>
+  <option value="2"<? echo $select2;?>>ชื่อ</option>
+  <option value="3" <? echo $select3;?>>ว/ด/ปี เกิด</option>
 </select>
 &nbsp;
-<input type="submit" name="Submit" value="����" /> 
+<input type="submit" name="Submit" value="ค้นหา" /> 
                    </form> </td>
                   </tr>
                 <tr>
@@ -120,13 +120,13 @@
 
                     <table width="624" border="0">
                       <tr>
-                        <td width="111" height="28" bgcolor="#0066FF"><div align="center" class="style2"><strong>����</strong></div></td>
-          <td width="135" bgcolor="#0066FF"><div align="center" class="style4">���ʻ�Шӵ�ǻ�ЪҪ�</div></td>
-		  <td width="32" bgcolor="#0066FF"><div align="center" class="style4">����</div></td>
-          <td width="84" bgcolor="#0066FF"><div align="center" class="style4">������</div></td>
-          <td width="138" bgcolor="#0066FF"><div align="center" class="style4">�������</div></td>
-          <td width="58" bgcolor="#0066FF"><div align="center" class="style4">���</div></td>
-          <td width="36" bgcolor="#0066FF"><div align="center" class="style4">ź</div></td>
+                        <td width="111" height="28" bgcolor="#0066FF"><div align="center" class="style2"><strong>ชื่อ</strong></div></td>
+          <td width="135" bgcolor="#0066FF"><div align="center" class="style4">รหัสประจำตัวประชาชน</div></td>
+		  <td width="32" bgcolor="#0066FF"><div align="center" class="style4">อายุ</div></td>
+          <td width="84" bgcolor="#0066FF"><div align="center" class="style4">เบอร์โทร</div></td>
+          <td width="138" bgcolor="#0066FF"><div align="center" class="style4">ที่อยู่</div></td>
+          <td width="58" bgcolor="#0066FF"><div align="center" class="style4">แก้ไข</div></td>
+          <td width="36" bgcolor="#0066FF"><div align="center" class="style4">ลบ</div></td>
                       </tr>
                       
                       <?

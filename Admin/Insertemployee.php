@@ -4,12 +4,12 @@
 <html>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '°√Õ°‰¥È‡©æ“–µ—«‡≈¢ 0-9 ' );
+			  alert( '‡∏Å‡∏£‡∏≠‡∏Å‡πÑ‡∏î‡πâ‡πÄ‡∏â‡∏û‡∏≤‡∏∞‡∏ï‡∏±‡∏ß‡πÄ‡∏•‡∏Ç 0-9 ' );
 	    	}
 	}
 </script>
@@ -78,7 +78,7 @@ a:active {
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style4">™◊ËÕºŸÈ„™Èß“π</span> : <?=$_SESSION['adm_name']?>
+              <span class="style4">‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô</span> : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -91,16 +91,16 @@ a:active {
           </table>
 		  <table width="93%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ÀπÈ“·√°</a></td>
+                <td height="34"><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></td>
               </tr>
               <tr>
-                <td height="34"><img src="../images/impersonal.gif" alt="" width="16" height="16">&nbsp;<a href="search_employee.php">¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></td>
+                <td height="34"><img src="../images/impersonal.gif" alt="" width="16" height="16">&nbsp;<a href="search_employee.php">‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></td>
               </tr>
               <tr>
-                <td height="34"><img src="../images/addg.GIF" alt="" width="15" height="15">&nbsp;<a href="Insertemployee.php">‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></td>
+                <td height="34"><img src="../images/addg.GIF" alt="" width="15" height="15">&nbsp;<a href="Insertemployee.php">‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></td>
+                <td width="100%" height="34"><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></td>
               </tr>
           </table>
         </td>
@@ -115,7 +115,7 @@ a:active {
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ®—ßÀ«—¥¡À“ “√§“¡</strong></td>
+                <td width="47%"><strong>‡∏£‡∏∞‡∏ö‡∏ö‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏• ‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á ‡∏à‡∏±‡∏á‡∏´‡∏ß‡∏±‡∏î‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏°</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -124,7 +124,7 @@ a:active {
               <tr>
                 <td colspan="2" bgcolor="#99FFFF"><table width="100%"  border="0" bordercolor="#CCFFFF">
                   <tr>
-                    <td colspan="2" align="center"><span class="style5">‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</span></td>
+                    <td colspan="2" align="center"><span class="style5">‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
@@ -132,7 +132,7 @@ a:active {
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;√À— ‡®È“ÀπÈ“∑’Ë : </label>
+                      <label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà : </label>
                     </span></td>
                     <td bgcolor="#CCFFFF"><label for="txtID"></label>
                       <input type="text" name="txtID" id="txtID">                      
@@ -140,7 +140,7 @@ a:active {
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;™◊ËÕ- °ÿ≈ : </label>
+                      <label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠-‡∏™‡∏Å‡∏∏‡∏• : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtName"></label>
                       <label for="txtName2"></label>
@@ -149,7 +149,7 @@ a:active {
                   </tr>
                   <tr>
                     <td height="43" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;µ”·ÀπËß : </label>
+                      <label>&nbsp;‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtPos"></label>
 					  
@@ -166,33 +166,33 @@ a:active {
                   </tr>
                   <tr>
                     <td height="70" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;‡æ» : </label>
+                      <label>&nbsp;‡πÄ‡∏û‡∏® : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><table width="168" border="0">
                       <tr>
                         <td width="37">&nbsp;
                           <input type="radio" name="sex" id="sex" value="male"  checked="checked"/>
                           <label for="sex"></label></td>
-                        <td width="121"><label>™“¬</label>
+                        <td width="121"><label>‡∏ä‡∏≤‡∏¢</label>
                           &nbsp;</td>
                       </tr>
                       <tr>
                         <td>&nbsp;
                           <input type="radio" name="sex" id="sex1" value="female" />
                           <label for="sex1"></label></td>
-                        <td><label>À≠‘ß</label>
+                        <td><label>‡∏´‡∏ç‡∏¥‡∏á</label>
                           &nbsp;</td>
                       </tr>
                     </table></td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style4">&nbsp;«—π‡¥◊Õπª’‡°‘¥ : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style4">&nbsp;‡∏ß‡∏±‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏õ‡∏µ‡πÄ‡∏Å‡∏¥‡∏î : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="txtBirth"  size="10"  id="txtBirth" value="<?=$txtBirth?>" onKeyPress="CheckNum()"/><a href="javascript:NewCal('txtBirth','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>
                       <span class="style3">*</span></td>
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;‡∫Õ√Ï‚∑√ : </label>
+                      <label>&nbsp;‡πÄ‡∏ö‡∏≠‡∏£‡πå‡πÇ‡∏ó‡∏£ : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="Phone"></label>
                       <input name="Phone" type="text" id="Phone" maxlength="10" onKeyPress="CheckNum()" />
@@ -200,21 +200,21 @@ a:active {
                   </tr>
                   <tr>
                     <td height="40" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;∑’ËÕ¬ŸË : </label>
+                      <label>&nbsp;‡∏ó‡∏µ‡πà‡∏≠‡∏¢‡∏π‡πà : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtAdd"></label>
                       <textarea name="txtAdd" id="txtAdd" cols="45" rows="5"></textarea></td>
                   </tr>
                   <tr>
                     <td height="44" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;™◊ËÕ‡¢È“„™Èß“π : </label>
+                      <label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠‡πÄ‡∏Ç‡πâ‡∏≤‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : </label>
 &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><input name="txtUser" type="text" id="txtUser" maxlength="15" />
                       <span class="style3">                      *</span></td>
                   </tr>
                   <tr>
                     <td height="44" align="right" bgcolor="#CCFFFF"><span class="style4">
-                      <label>&nbsp;√À— ºË“π : </label>
+                      <label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡∏ú‡πà‡∏≤‡∏ô : </label>
 &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><input name="txtPass" type="password" id="txtPass" maxlength="15" />
                       <span class="style3">*</span></td>
@@ -227,8 +227,8 @@ a:active {
                     <td height="44" bgcolor="#CCFFFF">&nbsp;</td>
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
-                        <td width="55"><input type="submit" name="submit" id="submit" value="‡æ‘Ë¡¢ÈÕ¡Ÿ≈" /></td>
-                        <td width="140"><input type="reset" name="Reset" id="Reset" value="≈È“ß¢ÈÕ¡Ÿ≈" /></td>
+                        <td width="55"><input type="submit" name="submit" id="submit" value="‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•" /></td>
+                        <td width="140"><input type="reset" name="Reset" id="Reset" value="‡∏•‡πâ‡∏≤‡∏á‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•" /></td>
                       </tr>
                     </table></td>
                   </tr>

@@ -4,13 +4,13 @@
 <html>
 <Center>
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 	<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '��͡��੾�е���Ţ 0-9 ' );
+			  alert( 'กรอกได้เฉพาะตัวเลข 0-9 ' );
 	    	}
 	}
 </script>
@@ -25,7 +25,7 @@ function CheckNum(){
 
 
 <? 
-//���¡�����Ũҡ ���� ���ʴ�� textbox
+//เรียกข้อมูลจาก รหัส มาแสดงใน textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
@@ -51,7 +51,7 @@ function CheckNum(){
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-            <span class="style4">���ͼ����ҹ </span>: <?=$_SESSION['adm_name']?>
+            <span class="style4">ชื่อผู้ใช้งาน </span>: <?=$_SESSION['adm_name']?>
         </center></td>
       </tr>
     </table>
@@ -64,31 +64,31 @@ function CheckNum(){
     </table>
       <table width="95%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
         <tr>
-          <td height="34"><strong>&nbsp;&nbsp;<img src="../images/home.gif" alt="" width="16" height="14" />            <a href="Menu_Detail.php">˹���á</a></strong></td>
+          <td height="34"><strong>&nbsp;&nbsp;<img src="../images/home.gif" alt="" width="16" height="14" />            <a href="Menu_Detail.php">หน้าแรก</a></strong></td>
         </tr>
         <tr>
-          <td height="34"><strong>&nbsp;&nbsp;<img src="../images/edit.gif" alt="" width="15" height="15" />&nbsp;<a href="search_machin.php">����������ͧ�ѡá�</a></strong></td>
+          <td height="34"><strong>&nbsp;&nbsp;<img src="../images/edit.gif" alt="" width="15" height="15" />&nbsp;<a href="search_machin.php">ข้อมูลเครื่องจักรกล</a></strong></td>
         </tr>
         <tr>
-          <td height="34"><strong>&nbsp;&nbsp;<img src="../images/addg.GIF" alt="" width="15" height="15" />&nbsp;<a href="DesignInsertMachine.php">��������ͧ�ѡá�</a></strong></td>
+          <td height="34"><strong>&nbsp;&nbsp;<img src="../images/addg.GIF" alt="" width="15" height="15" />&nbsp;<a href="DesignInsertMachine.php">เพิ่มเครื่องจักรกล</a></strong></td>
         </tr>
         <tr>
-          <td width="100%" height="34"><strong>&nbsp;&nbsp;<img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></strong></td>
+          <td width="100%" height="34"><strong>&nbsp;&nbsp;<img src="../images/logout.gif" alt="" width="16" height="16" />&nbsp;<a href="../logout.php">ออกจากระบบ</a></strong></td>
         </tr>
     </table>
 <!-- <table width="100%" height="27"  border="0">
   <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReservationsMachine.php">�ͨͧ����ͧ�ѡá�</a></td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReservationsMachine.php">ขอจองเครื่องจักรกล</a></td>
         </tr>
   </table>
       <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="RentMachine.php">���������ͧ�ѡá�</a></td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="RentMachine.php">ขอเช่าเครื่องจักรกล</a></td>
         </tr>
       </table>
        <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReturntMachine.php">�Ѻ��׹����ͧ�ѡá�</a></td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;<a href="ReturntMachine.php">รับบคืนเครื่องจักรกล</a></td>
         </tr>
       </table> -->
       
@@ -107,23 +107,23 @@ function CheckNum(){
           <table width="101%" height="515"  border="0">
             <tr>
               <td colspan="2"><fieldset>
-                <legend class="style2"><strong>��䢢���������ͧ�ѡá�</strong></legend>
+                <legend class="style2"><strong>แก้ไขข้อมูลเครื่องจักรกล</strong></legend>
                 <table width="115%"  border="0">
                   <tr>
                     <td width="8%"  height="39" ><span class="style2">
-                      <label>��������ͧ�ѡ�</label>
+                      <label>รหัสเครื่องจักร</label>
                     </span></td>
                     <td width="25%"><input name="mach_id" type="text" id="mach_id" size="30" maxlength="9" value="<?=$row_show['mac_id']?>" />
                       <span class="style1">*</span></td>
-                    <td width="8%"><span class="style2">��������ͧ�ѡ�</span></td>
+                    <td width="8%"><span class="style2">ชื่อเครื่องจักร</span></td>
                     <td width="30%"><input name="name" type="text" id="name" size="30" maxlength="100" value="<?=$row_show['mac_name']?>" />
                       <span class="style1">*</span></td>
                     </tr>
                   <tr>
-                    <td height="41" ><span class="style2">����¹</span></td>
+                    <td height="41" ><span class="style2">ทะเบียน</span></td>
                     <td ><input name="licen" type="text" id="licen" size="30" maxlength="100" value="<?=$row_show['mac_licen']?>" />
                       <span class="style1">*</span></td>
-                    <td ><span class="style2">������</span></td>
+                    <td ><span class="style2">ยี่ห้อ</span></td>
                     <td > 
 					    <select name="brand">
 		 <? 
@@ -136,7 +136,7 @@ function CheckNum(){
                     </select>					</td>
                     </tr>
                   <tr>
-                    <td height="103" ><span class="style2">������</span></td>
+                    <td height="103" ><span class="style2">ประเภท</span></td>
                     <td > 
 					
 							    <select name="mach_type">
@@ -148,7 +148,7 @@ function CheckNum(){
                         <option value="<? echo $rstype[0];?>" <? if($row_show["mac_type"]===$rstype[0]) echo " selected ";?>><? echo $rstype[1];?></option>
 						<?}?>
                     </select>					</td>
-                    <td ><span class="style2">�Ҥ�</span></td>
+                    <td ><span class="style2">ราคา</span></td>
                     <td ><input name="price" type="text" id="price" size="20" maxlength="7"  onKeyPress="CheckNum()" value="<?=$row_show['mec_price']?>" />&nbsp;&nbsp;	<select name="mach_unit">
 		 <? 
 						  $sqlunit=mysql_query("select * from  tb_machinery_unit");
@@ -161,7 +161,7 @@ function CheckNum(){
                     </select></td>
                     </tr>
                   <tr>
-                    <td  height="38" ><span class="style2">ʶҹ�</span></td>
+                    <td  height="38" ><span class="style2">สถานะ</span></td>
                     <td  > 
 					<select name="mach_status">
 		 <? 
@@ -172,7 +172,7 @@ function CheckNum(){
                         <option value="<? echo $rsstatus[0];?>" <? if($row_show["mac_status"]===$rsstatus[0]) echo " selected ";?>><? echo $rsstatus[1];?></option>
 						<?}?>
                     </select>					</td>
-                    <td  ><span class="style2">������</span></td>
+                    <td  ><span class="style2">ผู้ดูแล</span></td>
                     <td > 
 								<select name="control">
 		 <? 
@@ -187,10 +187,10 @@ function CheckNum(){
                     </tr>
                     <tr>
                       <td width="8%"  height="39" ><span class="style2">
-                        <label>�ٻ�Ҿ</label>
+                        <label>รูปภาพ</label>
                       </span></td>
                       <td width="25%"><input name="pic" type="file" id="pic" size="30"  value="" /></td>
-                    <td width="8%"><input type="submit" name="Update" id="Update" value="���" />
+                    <td width="8%"><input type="submit" name="Update" id="Update" value="แก้ไข" />
                       <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" /></td>
                     <td width="30%"></td>
                     </tr>

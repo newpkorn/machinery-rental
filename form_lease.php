@@ -5,7 +5,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -402,7 +402,7 @@ div.Section1
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:ตารางปกติ;
+	{mso-style-name:เธ•เธฒเธฃเธฒเธเธเธเธ•เธด;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -415,7 +415,7 @@ div.Section1
 	font-size:10.0pt;
 	font-family:"Calibri","sans-serif";}
 table.MsoTableGrid
-	{mso-style-name:เส้นตาราง;
+	{mso-style-name:เน€เธชเนเธเธ•เธฒเธฃเธฒเธ;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-priority:59;
@@ -444,48 +444,48 @@ table.MsoTableGrid
 <div class=Section1>
 
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=TH
-style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>ใบขอเช่าเครื่องจักรกล</span></b><b><span
+style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>เนเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></b><b><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=TH style='font-size:
 14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><span
-style='mso-tab-count:9'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ที่อยู่
-๗๔ หมู่ที่ ๕ ต.ชุมแพ </span><span style='font-size:14.0pt;line-height:115%;
+style='mso-tab-count:9'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธ—เธตเนเธญเธขเธนเน
+เน—เน” เธซเธกเธนเนเธ—เธตเน เน• เธ•.เธเธธเธกเนเธ </span><span style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:324.0pt;text-align:justify'><span
 lang=TH style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>อ.ชุมแพ
-จ.ขอนแก่น</span><span style='font-size:14.0pt;line-height:115%;font-family:
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธญ.เธเธธเธกเนเธ
+เธ.เธเธญเธเนเธเนเธ</span><span style='font-size:14.0pt;line-height:115%;font-family:
 "TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>เอกสารเลขที่.....๑๕๕/๕๔/</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เน€เธญเธเธชเธฒเธฃเน€เธฅเธเธ—เธตเน.....เน‘เน•เน•/เน•เน”/</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>O<span
-lang=TH>/๕๗..........<span style='mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>วันที่.......๔
-เมษายน....๒๕๕๔.....</span><o:p></o:p></span></p>
+lang=TH>/เน•เน—..........<span style='mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธงเธฑเธเธ—เธตเน.......เน”
+เน€เธกเธฉเธฒเธขเธ....เน’เน•เน•เน”.....</span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>เรื่อง
-ขอเช่าเครื่องจักรกลเงินหมุนเวียน</span><span style='font-size:14.0pt;
+font-family:"TH SarabunPSK","sans-serif"'>เน€เธฃเธทเนเธญเธ
+เธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅเน€เธเธดเธเธซเธกเธธเธเน€เธงเธตเธขเธ</span><span style='font-size:14.0pt;
 line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>เรียน
-ผู้อำนวยการสำนักงานทางหลวงมหาสารคาม</span><span style='font-size:14.0pt;
+font-family:"TH SarabunPSK","sans-serif"'>เน€เธฃเธตเธขเธ
+เธเธนเนเธญเธณเธเธงเธขเธเธฒเธฃเธชเธณเธเธฑเธเธเธฒเธเธ—เธฒเธเธซเธฅเธงเธเธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</span><span style='font-size:14.0pt;
 line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ข้าพเจ้า
-(ผู้เช่า, นิติบุคคล)............นางอัจฉรา
-งามดี...................มีความประสงค์ขอเช่าใช้เครื่องจักรกลเงินทุนหมุนเวียน
-พร้อมพนักงานขับ เพื่อไปปฏิบัติงาน.............เพื่อปรับปรุงพื้นที่การเกษตร<span
-style='mso-spacerun:yes'>&nbsp; </span>ต.เขวา...................................</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเนเธฒเธเน€เธเนเธฒ
+(เธเธนเนเน€เธเนเธฒ, เธเธดเธ•เธดเธเธธเธเธเธฅ)............เธเธฒเธเธญเธฑเธเธเธฃเธฒ
+เธเธฒเธกเธ”เธต...................เธกเธตเธเธงเธฒเธกเธเธฃเธฐเธชเธเธเนเธเธญเน€เธเนเธฒเนเธเนเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅเน€เธเธดเธเธ—เธธเธเธซเธกเธธเธเน€เธงเธตเธขเธ
+เธเธฃเนเธญเธกเธเธเธฑเธเธเธฒเธเธเธฑเธ เน€เธเธทเนเธญเนเธเธเธเธดเธเธฑเธ•เธดเธเธฒเธ.............เน€เธเธทเนเธญเธเธฃเธฑเธเธเธฃเธธเธเธเธทเนเธเธ—เธตเนเธเธฒเธฃเน€เธเธฉเธ•เธฃ<span
+style='mso-spacerun:yes'>&nbsp; </span>เธ•.เน€เธเธงเธฒ...................................</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>ณ. สถานที่........................อ.เมือง
-จ.มหาสารคาม......................ภายใต้การควบคุมของหน่อยงาน ของกรมทางหลวงดังนี้</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เธ“. เธชเธ–เธฒเธเธ—เธตเน........................เธญ.เน€เธกเธทเธญเธ
+เธ.เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก......................เธ เธฒเธขเนเธ•เนเธเธฒเธฃเธเธงเธเธเธธเธกเธเธญเธเธซเธเนเธญเธขเธเธฒเธ เธเธญเธเธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธเธ”เธฑเธเธเธตเน</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=659
@@ -497,18 +497,18 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>ลำดับที่<o:p></o:p></span></p>
+  font-family:"TH SarabunPSK","sans-serif"'>เธฅเธณเธ”เธฑเธเธ—เธตเน<o:p></o:p></span></p>
   </td>
   <td width=114 rowspan=2 valign=top style='width:85.35pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>รายการ</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>เธฃเธฒเธขเธเธฒเธฃ</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(รหัสเครื่องจักรกล)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(เธฃเธซเธฑเธชเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 rowspan=2 valign=top style='width:57.15pt;border:solid windowtext 1.0pt;
@@ -516,11 +516,11 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>จำนวน</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เธเธณเธเธงเธ</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(คัน/เครื่อง)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(เธเธฑเธ/เน€เธเธฃเธทเนเธญเธ)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=169 colspan=2 valign=top style='width:126.85pt;border:solid windowtext 1.0pt;
@@ -528,35 +528,35 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>ช่วงเวลาเช่า<o:p></o:p></span></p>
+  font-family:"TH SarabunPSK","sans-serif"'>เธเนเธงเธเน€เธงเธฅเธฒเน€เธเนเธฒ<o:p></o:p></span></p>
   </td>
   <td width=85 rowspan=2 valign=top style='width:63.8pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>รวมเป็นเวลาทั้งสิ้น</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>เธฃเธงเธกเน€เธเนเธเน€เธงเธฅเธฒเธ—เธฑเนเธเธชเธดเนเธ</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 rowspan=2 valign=top style='width:2.0cm;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>ชม.
-  ละ/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เธเธก.
+  เธฅเธฐ/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>วัน
-  ละ/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เธงเธฑเธ
+  เธฅเธฐ/</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เดือน
-  ละ</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน€เธ”เธทเธญเธ
+  เธฅเธฐ</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 rowspan=2 valign=top style='width:70.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>ค่าเช่า
-  (บาท)</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เธเนเธฒเน€เธเนเธฒ
+  (เธเธฒเธ—)</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
@@ -566,7 +566,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(วัน/เดือน/ปี)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(เธงเธฑเธ/เน€เธ”เธทเธญเธ/เธเธต)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
@@ -575,11 +575,11 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>ถึงวันที่</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>เธ–เธถเธเธงเธฑเธเธ—เธตเน</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>(วัน/เดือน/ปี)</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>(เธงเธฑเธ/เน€เธ”เธทเธญเธ/เธเธต)</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -589,7 +589,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๑</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน‘</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.35pt;border-top:none;border-left:
@@ -597,7 +597,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๒๕-๖๖๑๓-๙๗-๑</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน’เน•-เน–เน–เน‘เน“-เนเน—-เน‘</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:57.15pt;border-top:none;border-left:
@@ -606,7 +606,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๑</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน‘</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
@@ -614,16 +614,16 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๕
-  เมษายน ๕๔</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน•
+  เน€เธกเธฉเธฒเธขเธ เน•เน”</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๗
-  เมษายน ๕๔</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน—
+  เน€เธกเธฉเธฒเธขเธ เน•เน”</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -631,7 +631,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๒ วัน</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน’ เธงเธฑเธ</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:2.0cm;border-top:none;border-left:none;
@@ -639,7 +639,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๑,๓๒๒</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน‘,เน“เน’เน’</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>.-<o:p></o:p></span></p>
   </td>
   <td width=94 valign=top style='width:70.85pt;border-top:none;border-left:
@@ -647,7 +647,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๒,๖๔๔.-</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน’,เน–เน”เน”.-</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -657,7 +657,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๒</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน’</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.35pt;border-top:none;border-left:
@@ -665,7 +665,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๓๑-๖๒๘๖-๙๗-๓<o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน“เน‘-เน–เน’เนเน–-เนเน—-เน“<o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:57.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -673,7 +673,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๑</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน‘</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
@@ -681,16 +681,16 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๕
-  เมษายน ๕๔</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน•
+  เน€เธกเธฉเธฒเธขเธ เน•เน”</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๗
-  เมษายน ๕๔</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน—
+  เน€เธกเธฉเธฒเธขเธ เน•เน”</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -698,7 +698,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๒ วัน</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน’ เธงเธฑเธ</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:2.0cm;border-top:none;border-left:none;
@@ -706,7 +706,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๒,๑๓๔.-</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน’,เน‘เน“เน”.-</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 valign=top style='width:70.85pt;border-top:none;border-left:
@@ -714,7 +714,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๔,๒๖๘</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน”,เน’เน–เน</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -724,7 +724,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๓</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน“</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.35pt;border-top:none;border-left:
@@ -732,9 +732,9 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๔๑-๖</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน”เน‘-เน–</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>o<span
-  lang=TH>๖๒-๙๕-๘</span><o:p></o:p></span></p>
+  lang=TH>เน–เน’-เนเน•-เน</span><o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:57.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -742,7 +742,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๑</span><span style='font-size:
+  font-family:"TH SarabunPSK","sans-serif"'>เน‘</span><span style='font-size:
   14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
@@ -750,16 +750,16 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๕
-  เมษายน ๕๔</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน•
+  เน€เธกเธฉเธฒเธขเธ เน•เน”</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๗
-  เมษายน ๕๔</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน—
+  เน€เธกเธฉเธฒเธขเธ เน•เน”</span><span style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -767,14 +767,14 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>๑๔ ชม.<o:p></o:p></span></p>
+  font-family:"TH SarabunPSK","sans-serif"'>เน‘เน” เธเธก.<o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:2.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๔๒๒.-</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน”เน’เน’.-</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 valign=top style='width:70.85pt;border-top:none;border-left:
@@ -782,9 +782,9 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:32.15pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๕,๙</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน•,เน</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>o<span
-  lang=TH>๘<o:p></o:p></span></span></p>
+  lang=TH>เน<o:p></o:p></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
@@ -793,7 +793,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=right style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"TH SarabunPSK","sans-serif"'>รวมค่าเช่า</span><span
+  font-family:"TH SarabunPSK","sans-serif"'>เธฃเธงเธกเธเนเธฒเน€เธเนเธฒ</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 valign=top style='width:70.85pt;border-top:none;border-left:
@@ -801,7 +801,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>๑๒,๘๒</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>เน‘เน’,เนเน’</span><span
   style='font-size:14.0pt;font-family:"TH SarabunPSK","sans-serif"'>o.-<o:p></o:p></span></p>
   </td>
  </tr>
@@ -812,49 +812,49 @@ style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif
 
 <p class=MsoNormal><span style='font-size:14.0pt;line-height:115%;font-family:
 "TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-lang=TH>ทั้งนี้จะอำนวยความสะดวกในการปฏิบัติงานตามสมควรแก่กรณี
-และยินดีที่จะจ่ายเงิน เมื่อสิ้นสุดการเช่าของแต่ละคัน
-แต่หากระยะเวลาการเช่าเครื่องจักรกลคันใดเกิน ๑๕ วันขึ้นไป
-จะจ่ายเป็นงวดตามที่เรียกร้องเก็บ โดยงวดละ ๑๕ วัน
-พร้อมรับภาระค่าใช้จ่ายในการขนส่งเครื่องจักรกล เช่น ค่าน้ำมันเชื่อเพลิง
-ค่าเบี้ยเลี้ยงพนักงาน<span style='mso-spacerun:yes'>&nbsp;
-</span>รวมทั้งค่าน้ำมันเชื่อเพลิงในการปฏิบัติงาน
-ระหว่างเช่าใช้เครื่องจักรกลทั้งหมด
-แต่ไม่ต้องรับภาระค่าเช่าเครื่องจักรที่ใช้ในการลำเลียงขนส่ง</span><o:p></o:p></span></p>
+lang=TH>เธ—เธฑเนเธเธเธตเนเธเธฐเธญเธณเธเธงเธขเธเธงเธฒเธกเธชเธฐเธ”เธงเธเนเธเธเธฒเธฃเธเธเธดเธเธฑเธ•เธดเธเธฒเธเธ•เธฒเธกเธชเธกเธเธงเธฃเนเธเนเธเธฃเธ“เธต
+เนเธฅเธฐเธขเธดเธเธ”เธตเธ—เธตเนเธเธฐเธเนเธฒเธขเน€เธเธดเธ เน€เธกเธทเนเธญเธชเธดเนเธเธชเธธเธ”เธเธฒเธฃเน€เธเนเธฒเธเธญเธเนเธ•เนเธฅเธฐเธเธฑเธ
+เนเธ•เนเธซเธฒเธเธฃเธฐเธขเธฐเน€เธงเธฅเธฒเธเธฒเธฃเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅเธเธฑเธเนเธ”เน€เธเธดเธ เน‘เน• เธงเธฑเธเธเธถเนเธเนเธ
+เธเธฐเธเนเธฒเธขเน€เธเนเธเธเธงเธ”เธ•เธฒเธกเธ—เธตเนเน€เธฃเธตเธขเธเธฃเนเธญเธเน€เธเนเธ เนเธ”เธขเธเธงเธ”เธฅเธฐ เน‘เน• เธงเธฑเธ
+เธเธฃเนเธญเธกเธฃเธฑเธเธ เธฒเธฃเธฐเธเนเธฒเนเธเนเธเนเธฒเธขเนเธเธเธฒเธฃเธเธเธชเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เน€เธเนเธ เธเนเธฒเธเนเธณเธกเธฑเธเน€เธเธทเนเธญเน€เธเธฅเธดเธ
+เธเนเธฒเน€เธเธตเนเธขเน€เธฅเธตเนเธขเธเธเธเธฑเธเธเธฒเธ<span style='mso-spacerun:yes'>&nbsp;
+</span>เธฃเธงเธกเธ—เธฑเนเธเธเนเธฒเธเนเธณเธกเธฑเธเน€เธเธทเนเธญเน€เธเธฅเธดเธเนเธเธเธฒเธฃเธเธเธดเธเธฑเธ•เธดเธเธฒเธ
+เธฃเธฐเธซเธงเนเธฒเธเน€เธเนเธฒเนเธเนเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅเธ—เธฑเนเธเธซเธกเธ”
+เนเธ•เนเนเธกเนเธ•เนเธญเธเธฃเธฑเธเธ เธฒเธฃเธฐเธเนเธฒเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธ—เธตเนเนเธเนเนเธเธเธฒเธฃเธฅเธณเน€เธฅเธตเธขเธเธเธเธชเนเธ</span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>จึงเรียนมาเพื่อทราบ</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธเธถเธเน€เธฃเธตเธขเธเธกเธฒเน€เธเธทเนเธญเธ—เธฃเธฒเธ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>ลงชื่อ.........................................<span style='mso-tab-count:
-1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>ตราประทับ...............................................</span><span
+</span>เธฅเธเธเธทเนเธญ.........................................<span style='mso-tab-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>เธ•เธฃเธฒเธเธฃเธฐเธ—เธฑเธ...............................................</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(นางอัจฉรา
-งามดี) (นืตืบุคคล)</span><span style='font-size:14.0pt;line-height:115%;
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(เธเธฒเธเธญเธฑเธเธเธฃเธฒ
+เธเธฒเธกเธ”เธต) (เธเธทเธ•เธทเธเธธเธเธเธฅ)</span><span style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>ฝ่ายอำนวยการและแผน</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เธเนเธฒเธขเธญเธณเธเธงเธขเธเธฒเธฃเนเธฅเธฐเนเธเธ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'>เพื่อทราบ ดำเนินการ</span><span
+font-family:"TH SarabunPSK","sans-serif"'>เน€เธเธทเนเธญเธ—เธฃเธฒเธ เธ”เธณเน€เธเธดเธเธเธฒเธฃ</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ลงชื่อ..................................................</span><span
+font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>เธฅเธเธเธทเนเธญ..................................................</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
 font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>(นายโกมล เดชกวินเลิศ)</span><span style='font-size:14.0pt;line-height:
+</span>(เธเธฒเธขเนเธเธกเธฅ เน€เธ”เธเธเธงเธดเธเน€เธฅเธดเธจ)</span><span style='font-size:14.0pt;line-height:
 115%;font-family:"TH SarabunPSK","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=TH style='font-size:14.0pt;line-height:115%;
@@ -862,7 +862,7 @@ font-family:"TH SarabunPSK","sans-serif"'><span style='mso-tab-count:4'>&nbsp;&n
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
 style='font-size:14.0pt;line-height:115%;font-family:"TH SarabunPSK","sans-serif"'>PS.<span
-lang=TH> สงล.มหาสารคาม<o:p></o:p></span></span></p>
+lang=TH> เธชเธเธฅ.เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก<o:p></o:p></span></span></p>
 
 </div>
 

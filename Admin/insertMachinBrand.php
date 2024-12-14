@@ -1,4 +1,4 @@
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 <? @session_start(); include("../inc_connect.php"); ?>
 <?php
@@ -8,13 +8,13 @@
 	
 		/*if($id==""){
 	 
-		echo"<SCRIPT>alert('กรุณากรอกรหัสยี่ห้อเครื่องจักรกล ');history.back();</SCRIPT>";
+		echo"<SCRIPT>alert('เธเธฃเธธเธ“เธฒเธเธฃเธญเธเธฃเธซเธฑเธชเธขเธตเนเธซเนเธญเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=addMachinBrand.php'>";
 		exit();
 	}*/
 	if($name==""){
 	 
-		echo"<SCRIPT>alert('กรุณากรอกชื่อยี่ห้อด้วยครับ');history.back();</SCRIPT>";
+		echo"<SCRIPT>alert('เธเธฃเธธเธ“เธฒเธเธฃเธญเธเธเธทเนเธญเธขเธตเนเธซเนเธญเธ”เนเธงเธขเธเธฃเธฑเธ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=addMachinBrand.php'>";
 		exit();
 	}
@@ -23,13 +23,13 @@
 	$query = mysql_query($insert);
 	if($query)
 	{
-			echo"<SCRIPT>alert('เพิ่มข้อมูลยี่ห้อเรียบร้อยแล้ว'); </SCRIPT>";
+			echo"<SCRIPT>alert('เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธขเธตเนเธซเนเธญเน€เธฃเธตเธขเธเธฃเนเธญเธขเนเธฅเนเธง'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_brand.php'>";
  
 	}
 	else if(!$query){
 		 
-			echo"<SCRIPT>alert('ไม่สามารถเพิ่มข้อมูลได้'); </SCRIPT>";
+			echo"<SCRIPT>alert('เนเธกเนเธชเธฒเธกเธฒเธฃเธ–เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเนเธ”เน'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_brand.php'>";
 	}
 

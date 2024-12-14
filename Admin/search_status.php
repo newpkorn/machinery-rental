@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title></title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -21,7 +21,7 @@
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("�س��ͧ���ź������ ?") == true) {
+  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
   return true;
   }
   return false;
@@ -42,7 +42,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style1">���ͼ����ҹ</span> : <?=$_SESSION['adm_name']?>
+<span class="style1">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['adm_name']?>
         </center></td>
       </tr>
     </table>
@@ -54,16 +54,16 @@
           <td width="100%" height="48"><center>
             <table width="94%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ˹���á</a></strong></td>
+                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_status.php">������ʶҹ�����ͧ�ѡá�</a></strong></td>
+                <td height="34"><strong><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_status.php">ข้อมูลสถานะเครื่องจักรกล</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addStatus.php">����������ʶҹ�����ͧ�ѡá�</a></strong></td>
+                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addStatus.php">เพิ่มข้อมูลสถานะเครื่องจักรกล</a></strong></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> �͡�ҡ�к�</a></strong></td>
+                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> ออกจากระบบ</a></strong></td>
               </tr>
             </table>
             
@@ -82,7 +82,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%" colspan="2" ><strong>�Թ�յ�͹�Ѻ����к����������ͧ�ѡá� ����ҧ��ǧ �����ä�� </strong></td>
+            <td width="48%" colspan="2" ><strong>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </strong></td>
   
           </tr>
           <tr>
@@ -94,14 +94,14 @@
               <table width="690" height="162" border="0" align="center">
                 <tr>
                   <td width="287" align="right"><img src="../images/icon_search11.gif" width="50" height="50" align="right"></td>
-                  <td width="393"><span class="style51">���Ң�����ʶҹ�����ͧ�ѡá�</span></td>
+                  <td width="393"><span class="style51">ค้นหาข้อมูลสถานะเครื่องจักรกล</span></td>
                 </tr>
                 <tr>
                   <td colspan="2" align="center"><form id="form1" name="form1" method="post" action="search_status.php">
-      ���Ҩҡ����
+      ค้นหาจากชื่อ
       <input name="txtKeyword" type="text" id="txtKeyword" value="<?=$_POST["txtKeyword"];?>" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input type="submit" name="Submit" value="����" />
+<input type="submit" name="Submit" value="ค้นหา" />
                   </form></td>
                   </tr>
                 <tr>
@@ -113,9 +113,9 @@
 
                     <table width="440" border="0" align="center">
                       <tr>
-                      	<td width="229" height="26" bgcolor="#99FFFF"><div align="center" class="style1">����</div></td>
-          <td width="105" bgcolor="#99FFFF"><div align="center" class="style1">���</div></td>
-          <td width="92" bgcolor="#99FFFF"><div align="center" class="style1">ź</div></td>
+                      	<td width="229" height="26" bgcolor="#99FFFF"><div align="center" class="style1">ชื่อ</div></td>
+          <td width="105" bgcolor="#99FFFF"><div align="center" class="style1">แก้ไข</div></td>
+          <td width="92" bgcolor="#99FFFF"><div align="center" class="style1">ลบ</div></td>
                       </tr>
                       
                       <?
@@ -129,8 +129,8 @@ while($row_show = mysql_fetch_array($result_show))
 ?>
         <tr>
         <td bgcolor="#CCFFFF"><?=$row_show['status_name']?></td>
-          <td bgcolor="#CCFFFF"><div align="center"><a href="editStatus.php?edit_id=<?=$row_show['status_id']?>">���</a></div></td>
-           <td bgcolor="#CCFFFF"><div align="center"><a href="del_status.php?del_id=<?=$row_show[status_id]?>" onClick='return Conf(this)' >ź</a></div></td>
+          <td bgcolor="#CCFFFF"><div align="center"><a href="editStatus.php?edit_id=<?=$row_show['status_id']?>">แก้ไข</a></div></td>
+           <td bgcolor="#CCFFFF"><div align="center"><a href="del_status.php?del_id=<?=$row_show[status_id]?>" onClick='return Conf(this)' >ลบ</a></div></td>
         </tr>
         <?
 }

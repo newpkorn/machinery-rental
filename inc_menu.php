@@ -1,54 +1,89 @@
-<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-      <tr>
-        <td><table width="100%"  border="0">
-          <tr>
-
-          </tr>
-        </table>
-          <table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
-            <tr>
-              <td width="20"> <img src="images/rim_01.gif" width="20" height="22" alt=""></td>
-              <td background="images/rim_02.gif"> <img src="images/rim_02.gif" width="8" height="22" alt=""></td>
-              <td background="images/rim_02.gif">&nbsp; </td>
-              <td width="23"> <img src="images/rim_04.gif" width="23" height="22" alt=""></td>
-            </tr>
-            <tr>
-              <td background="images/rim_05.gif"> <img src="images/rim_05.gif" width="20" height="11" alt=""></td>
-              <td colspan="2" rowspan="2" bgcolor="#FFFFFF"><table width="100%"  border="0">
-			  <form name="login" action="index.php" method="post" onsubmit="return validate();">
-                  <tr align="center">
-                    <td colspan="2"><strong>���˹�ҷ�� Login </strong></td>
-                  </tr>
-                  <tr>
-                    <td>���ͼ����ҹ</td>
-                    <td><input name="username" type="text" id="username" size="15"></td>
-                  </tr>
-                  <tr>
-                    <td>���ʼ�ҹ</td>
-                    <td><input name="password" type="password" id="password" size="15"></td>
-                  </tr>
-                  <tr align="center">
-                    <td colspan="2"><input type="submit" name="Submit" value="Submit">
-                        <input type="reset" name="Submit2" value="Reset"></td>
-                  </tr>
-                  <tr align="center">
-                    <td colspan="2"><a href="formRegister.php">ŧ����¹</a> | <a href="forget.php">������ʼ�ҹ</a>? </td>
-                  </tr>
-				  </form>
-              </table></td>
-              <td background="images/rim_07.gif"> <img src="images/rim_07.gif" width="23" height="11" alt=""></td>
-            </tr>
-            <tr>
-              <td background="images/rim_05.gif">&nbsp; </td>
-              <td background="images/rim_07.gif">&nbsp; </td>
-            </tr>
-            <tr>
-              <td> <img src="images/rim_10.gif" width="20" height="25" alt=""></td>
-              <td background="images/rim_11.gif"> <img src="images/rim_11.gif" width="8" height="25" alt=""></td>
-              <td background="images/rim_11.gif">&nbsp; </td>
-              <td> <img src="images/rim_13.gif" width="23" height="25" alt=""></td>
-            </tr>
-          </table></td>
-      </tr>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Menu</title>
+    <link rel="stylesheet" href="styles.css"> <!-- ไฟล์ CSS แยก -->
+</head>
+<body>
+    <table style="width: 26%; border-collapse: collapse;">
+        <tr>
+            <td style="text-align: left; padding: 10px;"></td>
+        </tr>
+        <tr>
+            <td><img src="images/menu/menu_0001.jpg" width="171" height="25" alt="Menu Header"></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="index.php" class="link-blue">Home</a><br>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="Formlogin.php" class="link-blue">Login</a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/menu/menu_Machin.jpg" width="171" height="25" alt="Menu Machin"></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="search_machin.php" class="link-blue">Search Machin</a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/menu/menu_download.jpg" width="171" height="25" alt="Menu Download"></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/5_81.gif" width="14" height="14" alt="Icon">
+                For user
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="document.php" class="link-blue">Document forms</a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/menu/menu_contrac.jpg" width="171" height="25" alt="Menu Contract"></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="contact.php" class="link-blue">กรมทางหลวงมหาสารคาม</a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/menu/menu_03.jpg" width="171" height="25" alt="Menu"></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="http://mkrcc.dyndns.org/web/index.php" class="link-blue">สำนักงานกรมทางหลวงมหาสารคาม</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/arrow.png" width="9" height="9" alt="Arrow">
+                <a href="http://www.erfund.go.th/home.php" class="link-blue">เงินทุนหมุนเวียนค่าเครื่องจักรกล</a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/picLink.png" width="177" height="28" alt="Picture Link"></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://map-server.doh.go.th/" target="_blank">
+                    <img src="images/picLink.gif" width="176" height="247" alt="Map Server" border="0">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/picLink1.png" width="177" height="28" alt="Picture Link 1"></td>
+        </tr>
     </table>
+</body>
+</html>

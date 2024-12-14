@@ -16,7 +16,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -284,21 +284,21 @@ p.MsoNormal1 {mso-style-unhide:no;
 <br style='mso-ignore:vglayout' clear=ALL>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>���
-�� </span><span style='font-family:"Angsana New","serif"'>O</span><span
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>ที่
+คค </span><span style='font-family:"Angsana New","serif"'>O</span><span
 lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;
-font-family:"Angsana New","serif"'>���/�.�/...............</span><span lang=TH style='font-size:14.0pt;
+font-family:"Angsana New","serif"'>๖๔๖/๑.๔/...............</span><span lang=TH style='font-size:14.0pt;
 mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>�ӹѡ�ҹ�ҧ��ǧ�����ä�� �.�չҹ���</span><span style='font-family:"Angsana New","serif"'>
+</span>สำนักงานทางหลวงมหาสารคาม ถ.ถีนานนท์</span><span style='font-family:"Angsana New","serif"'>
 <o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>�.��Ҵ
-�.���ͧ �.�����ä�� ��</span><span style='font-family:"Angsana New","serif"'>OOO<o:p></o:p></span></p>
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ต.ตลาด
+อ.เมือง จ.มหาสารคาม ๔๔</span><span style='font-family:"Angsana New","serif"'>OOO<o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
@@ -319,37 +319,37 @@ font-family:&quot;TH SarabunPSK&quot;,&quot;sans-serif&quot;">
 <?php
 function ThaiDate()
 {
-$ThDay = array ( "�ҷԵ��", "�ѹ���", "�ѧ���", "�ظ", "�����", "�ء��", "�����" );
-$ThMonth = array ( "������", "����Ҿѹ��", "�չҤ�", "����¹",
-"����Ҥ�", "�Զع�¹", "�á�Ҥ�", "�ԧ�Ҥ�",
-"�ѹ��¹", "���Ҥ�", "��Ȩԡ�¹", "�ѹ�Ҥ�" );
+$ThDay = array ( "อาทิตย์", "จันทร์", "อังคาร", "พุธ", "พฤหัส", "ศุกร์", "เสาร์" );
+$ThMonth = array ( "มกรามก", "กุมภาพันธ์", "มีนาคม", "เมษายน",
+"พฤษภาคม", "มิถุนายน", "กรกฏาคม", "สิงหาคม",
+"กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม" );
 
-$a = date( "w" ); // ����ѹ��ѻ���� (0-6)
-$b = date( "n" )-1; // �����͹ (1-12)
-$c = date( "j" ); // ����ѹ���(1-31)
-$d = date( "Y" )+543; // ��� �.�.�ǡ 543 ������� �.�.
+$a = date( "w" ); // ค่าวันในสัปดาห์ (0-6)
+$b = date( "n" )-1; // ค่าเดือน (1-12)
+$c = date( "j" ); // ค่าวันที่(1-31)
+$d = date( "Y" )+543; // ค่า ค.ศ.บวก 543 ทำให้เป็น ค.ศ.
 
 return " $c  $ThMonth[$b]  $d";
 }
 
-echo ThaiDate(); // ������ѹ���
+echo ThaiDate(); // พิมพ์วันที่
 
 ?>
 </span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>����ͧ<span
-style='mso-spacerun:yes'>&nbsp; </span>���������ͧ�ѡá�</span><span
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>เรื่อง<span
+style='mso-spacerun:yes'>&nbsp; </span>ขอเช่าเครื่องจักรกล</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>���¹<span
-style='mso-spacerun:yes'>&nbsp; </span>�ҧ�Ѩ��� �����</span><span
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>เรียน<span
+style='mso-spacerun:yes'>&nbsp; </span>นางอัจฉรา งามดี</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>��ҧ�֧<span
-style='mso-spacerun:yes'>&nbsp; </span>�ѭ���������ͧ�ѡá� �Ţ���..................................ŧ�ѹ���</span><span lang=TH style='font-size:14.0pt;
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>อ้างถึง<span
+style='mso-spacerun:yes'>&nbsp; </span>สัญญาเช่าเครื่องจักรกล เลขที่..................................ลงวันที่</span><span lang=TH style='font-size:14.0pt;
 mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
 style='mso-spacerun:yes'>&nbsp;  <span
 style='font-family:"Angsana New","serif"'>
@@ -372,14 +372,14 @@ font-family:&quot;TH SarabunPSK&quot;,&quot;sans-serif&quot;">
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>������
-��ҹ�դ������ʧ����������ͧ�ѡáž������ѡ�ҹ�Ѻ
-�ͧ�ӹѡ�ҹ�ҧ��ǧ�����ä�����ҹ���� <br><?=$row_show['purpose']?> &nbsp;&nbsp; <?=$row_show['area']?>&nbsp; ���</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ตามที่
+ท่านมีความประสงค์ขอเช่าเครื่องจักรกลพร้อมพนักงานขับ
+ของสำนักงานทางหลวงมหาสารคามไปใช้งานเพื่อ <br><?=$row_show['purpose']?> &nbsp;&nbsp; <?=$row_show['area']?>&nbsp; นั้น</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>�ӹѡ�ҹ
-���Ѵ��ͧ��Т�������ͧ�ѡþ������ѡ�ҹ�Ѻ ��һ�Ժѵԧҹ ����ѭ����Ҵѧ���</span><span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>สำนักงาน
+ไม่ขัดข้องและขอส่งเครื่องจักรพร้อมพนักงานขับ เข้าปฏิบัติงาน ตามสัญญาเช่าดังนี้</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
@@ -391,14 +391,14 @@ style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal;tab-stops:50.25pt'><span lang=TH
-  style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Angsana New","serif"'>�ӴѺ���<o:p></o:p></span></p>
+  style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Angsana New","serif"'>ลำดับที่<o:p></o:p></span></p>
   </td>
   <td width=269 valign=top style='width:201.65pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal;tab-stops:50.25pt'><span lang=TH
-  style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Angsana New","serif"'>�����Ţ����ͧ�ѡá�</span><span
+  style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Angsana New","serif"'>หมายเลขเครื่องจักรกล</span><span
   style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=204 valign=top style='width:152.7pt;border:solid windowtext 1.0pt;
@@ -406,7 +406,7 @@ style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal;tab-stops:50.25pt'><span lang=TH
-  style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Angsana New","serif"'>��ѡ�ҹ�Ѻ</span><span
+  style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Angsana New","serif"'>พนักงานขับ</span><span
   style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -449,21 +449,21 @@ style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
-style='mso-tab-count:1'><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>���ժ�ҧ�Ǻ����ѧ���</span><span
+style='mso-tab-count:1'><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>โดยมีช่างควบคุมดังนี้</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoListParagraph style='margin-left:90.0pt;mso-add-space:auto;
 text-indent:-18.0pt;mso-list:l0 level1 lfo1;tab-stops:50.25pt'><![if !supportLists]><span
 lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;
 font-family:"Angsana New","serif";mso-fareast-font-family:"Angsana New"'><span
-style='mso-list:Ignore'>�.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>๑.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=TH style='font-size:14.0pt;
-mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>����ԢԵ
-ᾧ���§�ѹ���</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
+mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>นายลิขิต
+แพงเวียงจันทร์</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;��駹�������ѹ���<span class="MsoNormal" style="tab-stops:50.25pt"><span lang=TH style='font-size:14.0pt;
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทั้งนี้ตั้งแต่วันที่<span class="MsoNormal" style="tab-stops:50.25pt"><span lang=TH style='font-size:14.0pt;
 mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
 style='mso-spacerun:yes'>&nbsp; <span
 style='font-family:"Angsana New","serif"'>
@@ -482,8 +482,8 @@ font-family:&quot;TH SarabunPSK&quot;,&quot;sans-serif&quot;">
 </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14.0pt;line-height:115%;
 font-family:&quot;TH SarabunPSK&quot;,&quot;sans-serif&quot;">
 <? $aaa=date('Y'); //echo $aaa+543; ?>
-</span></span></span> �����
-�ú��˹�������� ��س�������ͧ�ѡáž�������˹�ҷ���Ѻ�ӹѡ�ҹ����</span><span
+</span></span></span> เมื่อ
+ครบกำหนดเช่าแล้ว กรุณาส่งเครื่องจักรกลพร้อมเจ้าหน้าที่กลับสำนักงานด้วย</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
@@ -502,27 +502,27 @@ style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>���Ѵ����ٹ������ͧ�ѡá�</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ผู้จัดการศูนย์เครื่องจักรกล</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
 14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>�ӹѡ�ҹ�ҧ��ǧ�����ä��</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
+</span>สำนักงานทางหลวงมหาสารคาม</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>�ӹѡ�ҹ�ҧ��ǧ�����ä��</span><span
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>สำนักงานทางหลวงมหาสารคาม</span><span
 style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>��.</span><span
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>โทร.</span><span
 lang=TH style='font-family:"Angsana New","serif"'> </span><span lang=TH
 style='font-size:14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:
-"Angsana New","serif"'>���-������</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
+"Angsana New","serif"'>๐๔๓-๗๑๑๒๗๘</span><span style='font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:50.25pt'><span lang=TH style='font-size:
-14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>�����
-���-������<o:p></o:p></span></p>
+14.0pt;mso-ansi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>โทรสาร
+๐๔๓-๗๒๓๓๑๗<o:p></o:p></span></p>
 
 </div>
 

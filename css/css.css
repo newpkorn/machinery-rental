@@ -1,33 +1,58 @@
-BODY{
-	MARGIN:0px
+BODY {
+  margin: 0px;
+  font-family: Arial, Tahoma, sans-serif;
 }
 .style8 {
-	FONT-SIZE: small; COLOR: #333333; FONT-FAMILY: "MS Sans Serif"
+  font-size: small;
+  color: #333333;
+  font-family: 'MS Sans Serif';
 }
 .style11 {
-	FONT-SIZE: x-small; COLOR: #999999; FONT-FAMILY: "MS Sans Serif"
+  font-size: x-small;
+  color: #999999;
+  font-family: 'MS Sans Serif';
 }
 A:link {
-	COLOR: #000000; TEXT-DECORATION: none
+  color: #000000;
+  text-decoration: none;
 }
 A:visited {
-	COLOR: #000000; TEXT-DECORATION: none
+  color: #000000;
+  text-decoration: none;
 }
 A:hover {
-	COLOR: #666666; TEXT-DECORATION: none
+  color: #666666;
+  text-decoration: none;
 }
 A:active {
-	COLOR: #000000; TEXT-DECORATION: none
+  color: #000000;
+  text-decoration: none;
 }
 .style32 {
-	COLOR: #000000
+  color: #000000;
 }
 .style39 {
-	font-family: AngsanaUPC;
-	font-size: 18px;
+  font-family: AngsanaUPC;
+  font-size: 18px;
 }
-.style51 {font-family: AngsanaUPC; font-size: 24px; }
+.style51 {
+  font-family: AngsanaUPC;
+  font-size: 24px;
+}
 .style52 {
-	font-family: EucrosiaUPC;
-	font-size: 22px;
+  font-family: EucrosiaUPC;
+  font-size: 22px;
+}
+.link-blue {
+  color: #0099ff;
+  text-decoration: none;
+}
+
+.link-blue:hover {
+  text-decoration: underline;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
 }

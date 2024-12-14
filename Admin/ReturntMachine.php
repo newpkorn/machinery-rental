@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
 </head>
 
@@ -20,7 +20,7 @@
   <tr valign="top">
     <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
       <tr>
-        <td width="100%" height="45"><center>™◊ËÕºŸÈ„™Èß“π : <?=$_SESSION['adm_name']?></center></td>
+        <td width="100%" height="45"><center>‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : <?=$_SESSION['adm_name']?></center></td>
       </tr>
     </table>
       <table width="100%" height="52"  border="0">
@@ -32,37 +32,37 @@
         <tr>
           <td width="100%" height="34">
             <input type="image" name="imageField3" id="imageField3" src="../images/bullet.gif" />
-            ÀπÈ“·√°</td>
+            ‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</td>
         </tr>
     </table>
       <table width="100%" height="29"  border="0">
         <tr>
-          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;¢ÈÕ¡Ÿ≈‡§√◊ËÕß®—°√</td>
+          <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£</td>
         </tr>
     </table>
       <table width="100%" height="31"  border="0">
         <tr>
-          <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;‡æ‘Ë¡‡§√◊ËÕß®—°√</td>
+          <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£</td>
         </tr>
     </table>
       <table width="100%" height="28"  border="0">
         <tr>
-          <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;·°È‰¢¢ÈÕ¡Ÿ≈</td>
+          <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•</td>
         </tr>
     </table>
       <table width="100%" height="36"  border="0">
         <tr>
-          <td width="100%" height="32"><img src="../images/bullet.gif" />&nbsp;≈∫¢ÈÕ¡Ÿ≈</td>
+          <td width="100%" height="32"><img src="../images/bullet.gif" />&nbsp;‡∏•‡∏ö‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•</td>
         </tr>
     </table>
       <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;¢Õ®Õß</td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;‡∏Ç‡∏≠‡∏à‡∏≠‡∏á</td>
         </tr>
     </table>
       <table width="100%" height="27"  border="0">
         <tr>
-          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;¢Õ‡™Ë“</td>
+          <td width="100%" height="23"><img src="../images/bullet.gif" alt="" />&nbsp;‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤</td>
         </tr>
       </table></td>
     <td width="77%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
@@ -76,12 +76,12 @@
         <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt="" /></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF">
           <fieldset>
-            <legend>¢ÈÕ¡Ÿ≈°“√‡™Ë“‡§√◊ËÕß®—°√
+            <legend>‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£
             </legend><table width="100%"  border="0">
               <tr>
-                <td>√À— °“√‡™Ë“</td>
+                <td>‡∏£‡∏´‡∏±‡∏™‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</td>
                 <td><input name="name3" type="text" id="name3" size="30" maxlength="100" />
-                  <input type="submit" name="§ÈπÀ“" id="§ÈπÀ“2" value="§ÈπÀ“" /></td>
+                  <input type="submit" name="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤" id="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤2" value="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤" /></td>
                 <td width="12%">&nbsp;</td>
                 <td width="16%">&nbsp;</td>
               </tr>
@@ -94,11 +94,11 @@
               <tr>
                 <td height="56" colspan="4"><table width="807" border="1">
                   <tr>
-                    <td width="133" bgcolor="#00CCFF">√À— ‡®È“ÀπÈ“∑’Ë</td>
-                    <td width="133" bgcolor="#00CCFF">√À— ‡§√◊ËÕß®—°√°≈</td>
-                    <td width="159" bgcolor="#00CCFF">√À—  ¡“™‘°</td>
-                    <td width="115" bgcolor="#00CCFF">«—π∑’Ë‡™Ë“</td>
-                    <td width="111" bgcolor="#00CCFF">«—π∑’Ë√—∫</td>
+                    <td width="133" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</td>
+                    <td width="133" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</td>
+                    <td width="159" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡∏™‡∏°‡∏≤‡∏ä‡∏¥‡∏Å</td>
+                    <td width="115" bgcolor="#00CCFF">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡πÄ‡∏ä‡πà‡∏≤</td>
+                    <td width="111" bgcolor="#00CCFF">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏£‡∏±‡∏ö</td>
                   </tr>
                   <tr>
                     <td bgcolor="#CCCCCC">&nbsp;</td>
@@ -119,13 +119,13 @@
             </table>
           </fieldset>
           <fieldset>
-          <legend>¢ÈÕ¡Ÿ≈°“√§◊π‡§√◊ËÕß®—°√°≈
+          <legend>‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Å‡∏≤‡∏£‡∏Ñ‡∏∑‡∏ô‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•
           </legend><table width="101%"  border="0">
             <tr>
-              <td>√À— ‡§√◊ËÕß®—°√°≈</td>
-              <td>«—π∑’Ë§◊π</td>
-              <td>√À—  ¡“™‘°</td>
-              <td colspan="2">√À— °√√¡°“√</td>
+              <td>‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</td>
+              <td>‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏Ñ‡∏∑‡∏ô</td>
+              <td>‡∏£‡∏´‡∏±‡∏™‡∏™‡∏°‡∏≤‡∏ä‡∏¥‡∏Å</td>
+              <td colspan="2">‡∏£‡∏´‡∏±‡∏™‡∏Å‡∏£‡∏£‡∏°‡∏Å‡∏≤‡∏£</td>
               </tr>
             <tr>
               <td width="13%"><input name="name" type="text" id="name" size="15" maxlength="100" /></td>
@@ -163,18 +163,18 @@
                 <option>31</option>
               </select>
                 <select name="select2" id="select2">
-                  <option>¡°√“§¡</option>
-                  <option>°ÿ¡æ“æ—π∏Ï</option>
-                  <option>¡’π“§¡</option>
-                  <option>‡¡…“¬π</option>
-                  <option>æƒ…¿“§¡</option>
-                  <option>¡‘∂ÿπ“¬π</option>
-                  <option>°√°Æ“§¡</option>
-                  <option> ‘ßÀ“§¡</option>
-                  <option>°—π¬“¬π</option>
-                  <option>µÿ≈“§¡</option>
-                  <option>æƒ…®‘°“¬π</option>
-                  <option>∏—π«“§¡</option>
+                  <option>‡∏°‡∏Å‡∏£‡∏≤‡∏Ñ‡∏°</option>
+                  <option>‡∏Å‡∏∏‡∏°‡∏û‡∏≤‡∏û‡∏±‡∏ô‡∏ò‡πå</option>
+                  <option>‡∏°‡∏µ‡∏ô‡∏≤‡∏Ñ‡∏°</option>
+                  <option>‡πÄ‡∏°‡∏©‡∏≤‡∏¢‡∏ô</option>
+                  <option>‡∏û‡∏§‡∏©‡∏†‡∏≤‡∏Ñ‡∏°</option>
+                  <option>‡∏°‡∏¥‡∏ñ‡∏∏‡∏ô‡∏≤‡∏¢‡∏ô</option>
+                  <option>‡∏Å‡∏£‡∏Å‡∏é‡∏≤‡∏Ñ‡∏°</option>
+                  <option>‡∏™‡∏¥‡∏á‡∏´‡∏≤‡∏Ñ‡∏°</option>
+                  <option>‡∏Å‡∏±‡∏ô‡∏¢‡∏≤‡∏¢‡∏ô</option>
+                  <option>‡∏ï‡∏∏‡∏•‡∏≤‡∏Ñ‡∏°</option>
+                  <option>‡∏û‡∏§‡∏©‡∏à‡∏¥‡∏Å‡∏≤‡∏¢‡∏ô</option>
+                  <option>‡∏ò‡∏±‡∏ô‡∏ß‡∏≤‡∏Ñ‡∏°</option>
                 </select>
                 <select name="select3" id="select3">
                   <option>2554</option>
@@ -188,10 +188,10 @@
             <tr>
               <td height="56" colspan="5"><table width="670" border="1">
                 <tr>
-                  <td width="159" bgcolor="#00CCFF">√À— ‡§√◊ËÕß®—°√°≈</td>
-                  <td width="157" bgcolor="#00CCFF">«—π∑’Ë§◊π</td>
-                  <td width="161" bgcolor="#00CCFF">√À—  ¡“™‘°</td>
-                  <td width="165" bgcolor="#00CCFF">√À— °√√¡°“√</td>
+                  <td width="159" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•</td>
+                  <td width="157" bgcolor="#00CCFF">‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏Ñ‡∏∑‡∏ô</td>
+                  <td width="161" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡∏™‡∏°‡∏≤‡∏ä‡∏¥‡∏Å</td>
+                  <td width="165" bgcolor="#00CCFF">‡∏£‡∏´‡∏±‡∏™‡∏Å‡∏£‡∏£‡∏°‡∏Å‡∏≤‡∏£</td>
                   </tr>
                 <tr>
                   <td bgcolor="#CCCCCC">&nbsp;</td>
@@ -210,8 +210,8 @@
             <tr>
               <td align="right">&nbsp;</td>
               <td align="right">&nbsp;</td>
-              <td align="right"><input  type="submit" name="§ÈπÀ“3" id="§ÈπÀ“4" value="     ∫—π∑÷°     " /></td>
-              <td width="27%" ><input  type="submit" name="§ÈπÀ“2" id="§ÈπÀ“" value="     ÕÕ°√“¬ß“π     " /></td>
+              <td align="right"><input  type="submit" name="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤3" id="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤4" value="     ‡∏ö‡∏±‡∏ô‡∏ó‡∏∂‡∏Å     " /></td>
+              <td width="27%" ><input  type="submit" name="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤2" id="‡∏Ñ‡πâ‡∏ô‡∏´‡∏≤" value="     ‡∏≠‡∏≠‡∏Å‡∏£‡∏≤‡∏¢‡∏á‡∏≤‡∏ô     " /></td>
               <td width="14%" >&nbsp;</td>
             </tr>
           </table>

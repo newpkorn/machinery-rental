@@ -12,11 +12,11 @@
 	<?php
 	if($purpose==""){
 	 
-			echo"<SCRIPT>alert('°√ÿ≥“°√Õ°«—µ∂ÿª√– ß§Ï¥È«¬§√—∫');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡∏Å‡∏£‡∏≠‡∏Å‡∏ß‡∏±‡∏ï‡∏ñ‡∏∏‡∏õ‡∏£‡∏∞‡∏™‡∏á‡∏Ñ‡πå‡∏î‡πâ‡∏ß‡∏¢‡∏Ñ‡∏£‡∏±‡∏ö');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=RentMachine.php'>";
 		exit();
 	}	else if($area==""){
-					echo"<SCRIPT>alert('°√ÿ≥“°√Õ° –∂“π∑’Ë¥È«¬§√—∫');history.back();</SCRIPT>";
+					echo"<SCRIPT>alert('‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡∏Å‡∏£‡∏≠‡∏Å‡∏™‡∏∞‡∏ñ‡∏≤‡∏ô‡∏ó‡∏µ‡πà‡∏î‡πâ‡∏ß‡∏¢‡∏Ñ‡∏£‡∏±‡∏ö');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=RentMachine.php'>";
  
 		exit();
@@ -30,7 +30,7 @@ for ($u=0; $u<count($chkType); $u++){
 }
 $numa;
 if($numa>3){
-		echo"<SCRIPT>alert('‡™Ë“‰¥È‰¡Ë‡°‘π 3 ‡§√◊ËÕß'); </SCRIPT>";
+		echo"<SCRIPT>alert('‡πÄ‡∏ä‡πà‡∏≤‡πÑ‡∏î‡πâ‡πÑ‡∏°‡πà‡πÄ‡∏Å‡∏¥‡∏ô 3 ‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=RentMachine.php'>";
 			exit();
 }if($numa<=3){
@@ -68,9 +68,9 @@ $result2=mysql_query($sql2)or die("no $sql2");
 	}
 if($result2){
 
-echo"<SCRIPT>alert('∑”°“√‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡ √Á®·≈È«');</SCRIPT>";
+echo"<SCRIPT>alert('‡∏ó‡∏≥‡∏Å‡∏≤‡∏£‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏™‡∏£‡πá‡∏à‡πÅ‡∏•‡πâ‡∏ß');</SCRIPT>";
 echo "<meta http-equiv=\"refresh\" content=\"1;url=RentMachine.php\"> ";
-}	else {echo"<SCRIPT>alert('‰¡Ë “¡“√∂‡æ‘Ë¡¢ÈÕ¡Ÿ≈‰¥È');</SCRIPT>";
+}	else {echo"<SCRIPT>alert('‡πÑ‡∏°‡πà‡∏™‡∏≤‡∏°‡∏≤‡∏£‡∏ñ‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÑ‡∏î‡πâ');</SCRIPT>";
 echo "<meta http-equiv=\"refresh\" content=\"1;url=RentMachine.php\"> ";
 }
 }

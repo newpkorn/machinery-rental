@@ -1,15 +1,15 @@
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 <? @session_start(); include("../inc_connect.php"); ?>
 	<?php 
 
-	if($_REQUEST['del_id'] != "") //ถ้า ค่า del_id ไม่เท่ากับค่าว่างเปล่า
+	if($_REQUEST['del_id'] != "") //เธ–เนเธฒ เธเนเธฒ del_id เนเธกเนเน€เธ—เนเธฒเธเธฑเธเธเนเธฒเธงเนเธฒเธเน€เธเธฅเนเธฒ
 {
 $del_id = $_REQUEST['del_id'];
 $sql_del = "delete from tb_member where mem_id = '$del_id';";
 mysql_query($sql_del) or die(mysql_error());
  
-	echo"<SCRIPT>alert('ลบข้อมูลเรียบร้อยแล้ว'); </SCRIPT>";
+	echo"<SCRIPT>alert('เธฅเธเธเนเธญเธกเธนเธฅเน€เธฃเธตเธขเธเธฃเนเธญเธขเนเธฅเนเธง'); </SCRIPT>";
 	echo "<meta http-equiv='refresh' content='0; url=search_admin.php'>";
 }
 ?>

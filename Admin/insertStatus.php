@@ -1,4 +1,4 @@
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 <? @session_start(); include("../inc_connect.php"); ?>
 <?php
@@ -8,13 +8,13 @@
 	
 			/*if($id==""){
  
-				echo"<SCRIPT>alert('กรุณากรอกรหัสสถานะ ด้วยครับ');history.back();</SCRIPT>";
+				echo"<SCRIPT>alert('เธเธฃเธธเธ“เธฒเธเธฃเธญเธเธฃเธซเธฑเธชเธชเธ–เธฒเธเธฐ เธ”เนเธงเธขเธเธฃเธฑเธ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=addPosition.php'>";
 		exit();
 	}*/
 	if($name==""){
  
-						echo"<SCRIPT>alert('กรุณากรอกชื่อสถานะด้วยครับ');history.back();</SCRIPT>";
+						echo"<SCRIPT>alert('เธเธฃเธธเธ“เธฒเธเธฃเธญเธเธเธทเนเธญเธชเธ–เธฒเธเธฐเธ”เนเธงเธขเธเธฃเธฑเธ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=addStatus.php'>";
 		exit();
 	}
@@ -30,11 +30,11 @@ $pic = $_FILES['pic'];
 	if($query)
 	{
  
-			echo"<SCRIPT>alert('เพิ่มข้อมูลสถานะเรียบร้อยแล้ว'); </SCRIPT>";
+			echo"<SCRIPT>alert('เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธชเธ–เธฒเธเธฐเน€เธฃเธตเธขเธเธฃเนเธญเธขเนเธฅเนเธง'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_status.php'>";
 	}
 	else if(!$query){
-					echo"<SCRIPT>alert('ไม่สามารถเพิ่มข้อมูลได้'); </SCRIPT>";
+					echo"<SCRIPT>alert('เนเธกเนเธชเธฒเธกเธฒเธฃเธ–เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเนเธ”เน'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_status.php'>";
 	}
 

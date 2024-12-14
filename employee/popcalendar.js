@@ -124,14 +124,14 @@
 		document.write ("</table></div><div id='selectMonth' style='z-index:+999;position:absolute;visibility:hidden;'></div><div id='selectYear' style='z-index:+999;position:absolute;visibility:hidden;'></div>");
 	}
 
-	var	monthName =	new	Array("���Ҥ�","����Ҿѹ��","�չҤ�","����¹","����Ҥ�","�Զع�¹","�á�Ҥ�","�ԧ�Ҥ�","�ѹ��¹","���Ҥ�","��Ȩԡ�¹","�ѹ�����")
+	var	monthName =	new	Array("มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฏาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวามคม")
 	if (startAt==3)
 	{
-		dayName = new Array	("��.","�.","�.","�.","��.","�.","�.")
+		dayName = new Array	("อา.","จ.","อ.","พ.","พฤ.","ศ.","ส.")
 	}
 	else
 	{
-		dayName = new Array	("��.","�.","�.","�.","��.","�.","�.")
+		dayName = new Array	("อา.","จ.","อ.","พ.","พฤ.","ศ.","ส.")
 	}
 	var	styleAnchor="text-decoration:none;color:black;"
 	var	styleLightBorder="border-style:solid;border-width:1px;border-color:#a0a0a0;"

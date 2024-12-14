@@ -6,7 +6,7 @@
 <Center>
 <head>
 <title></title> 
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -23,7 +23,7 @@
 <SCRIPT language="JavaScript">
 <!--   
   function Conf(object) {
-  if (confirm("คุณต้องการลบข้อมูล ?") == true) {
+  if (confirm("เธเธธเธ“เธ•เนเธญเธเธเธฒเธฃเธฅเธเธเนเธญเธกเธนเธฅ ?") == true) {
   return true;
   }
   return false;
@@ -44,7 +44,7 @@
     <table width="100%" height="49"  border="0">
       <tr>
         <td width="100%" height="45"><center>
-<span class="style2">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['adm_name']?>
+<span class="style2">เธเธทเนเธญเธเธนเนเนเธเนเธเธฒเธ</span> : <?=$_SESSION['adm_name']?>
         </center></td>
       </tr>
     </table>
@@ -56,16 +56,16 @@
           <td width="100%" height="48"><center>
             <table width="95%" height="38"  border="0" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><span class="style1"><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></span></td>
+                <td height="34"><span class="style1"><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> เธซเธเนเธฒเนเธฃเธ</a></span></td>
               </tr>
               <tr>
-                <td height="34"><span class="style1"><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_type.php">ข้อมูลรุ่นเครื่องจักรกล</a></span></td>
+                <td height="34"><span class="style1"><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_type.php">เธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></span></td>
               </tr>
               <tr>
-                <td height="34"><span class="style1"><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addMachinType.php">เพิ่มข้อมูลรุ่นเครื่องจักรกล</a></span></td>
+                <td height="34"><span class="style1"><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addMachinType.php">เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></span></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><span class="style1"><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> ออกจากระบบ</a></span></td>
+                <td width="100%" height="34"><span class="style1"><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> เธญเธญเธเธเธฒเธเธฃเธฐเธเธ</a></span></td>
               </tr>
             </table>
             
@@ -89,7 +89,7 @@
         <td background="../images/rim_05.gif"> <img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
         <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
           <tr>
-            <td width="48%" colspan="2" ><strong>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </strong></td>
+            <td width="48%" colspan="2" ><strong>เธขเธดเธเธ”เธตเธ•เนเธญเธเธฃเธฑเธเธชเธนเนเธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก </strong></td>
   
           </tr>
           <tr>
@@ -101,14 +101,14 @@
               <table width="690" height="162" border="0" align="center">
                 <tr>
                   <td width="287" align="right"><img src="../images/icon_search11.gif" width="50" height="50" align="right"></td>
-                  <td width="393"><span class="style51">ค้นหาข้อมูลรุ่นเครื่องจักรกล</span></td>
+                  <td width="393"><span class="style51">เธเนเธเธซเธฒเธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></td>
                 </tr>
                 <tr>
                   <td colspan="2" align="center"><form id="form1" name="form1" method="post" action="search_type.php">
-   ชื่อที่ต้องการค้นหา
+   เธเธทเนเธญเธ—เธตเนเธ•เนเธญเธเธเธฒเธฃเธเนเธเธซเธฒ
       <input name="txtKeyword" type="text" id="txtKeyword" value="<?=$_POST["txtKeyword"];?>" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input type="submit" name="Submit" value="ค้นหา" />
+<input type="submit" name="Submit" value="เธเนเธเธซเธฒ" />
                   </form></td>
                   </tr>
                 <tr>
@@ -119,9 +119,9 @@
 
                     <table width="448" border="0" align="center">
                       <tr>
-                      	<td width="247" height="28" align="center" bgcolor="#99FFFF"><div align="center" class="style2">ชื่อ</div></td>
-          <td width="96" align="center" bgcolor="#99FFFF"><div align="center" class="style2">แก้ไข</div></td>
-          <td width="91" align="center" bgcolor="#99FFFF"><div align="center" class="style2">ลบ</div></td>
+                      	<td width="247" height="28" align="center" bgcolor="#99FFFF"><div align="center" class="style2">เธเธทเนเธญ</div></td>
+          <td width="96" align="center" bgcolor="#99FFFF"><div align="center" class="style2">เนเธเนเนเธ</div></td>
+          <td width="91" align="center" bgcolor="#99FFFF"><div align="center" class="style2">เธฅเธ</div></td>
                       </tr>
                       
                       <?
@@ -137,8 +137,8 @@ while($row_show = mysql_fetch_array($result_show))
         <td bgcolor="#CCFFFF"><span class="style4">
             <?=$row_show['type_name']?>
           </span></td>
-          <td bgcolor="#CCFFFF"><div align="center" class="style4"><a href="editMachinType.php?edit_id=<?=$row_show['type_id']?>">แก้ไข</a></div></td>
-           <td bgcolor="#CCFFFF"><div align="center" class="style4"><a href="del_MachinType.php?del_id=<?=$row_show[type_id]?>" onClick='return Conf(this)' >ลบ</a></div></td>
+          <td bgcolor="#CCFFFF"><div align="center" class="style4"><a href="editMachinType.php?edit_id=<?=$row_show['type_id']?>">เนเธเนเนเธ</a></div></td>
+           <td bgcolor="#CCFFFF"><div align="center" class="style4"><a href="del_MachinType.php?del_id=<?=$row_show[type_id]?>" onClick='return Conf(this)' >เธฅเธ</a></div></td>
         </tr>
         <?
 }

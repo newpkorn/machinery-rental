@@ -1,14 +1,14 @@
 <?
 function convert($number)
 {
-$txtnum1 = array('ÈÙ¹Âì','Ë¹Öè§','ÊÍ§','ÊÒÁ','ÊÕè','ËéÒ','Ë¡','à¨ç´','á»´','à¡éÒ','ÊÔº');
-$txtnum2 = array('','ÊÔº','ÃéÍÂ','¾Ñ¹','ËÁ×è¹','áÊ¹','ÅéÒ¹');
+$txtnum1 = array('à¸¨à¸¹à¸™à¸¢à¹Œ','à¸«à¸™à¸¶à¹ˆà¸‡','à¸ªà¸­à¸‡','à¸ªà¸²à¸¡','à¸ªà¸µà¹ˆ','à¸«à¹‰à¸²','à¸«à¸','à¹€à¸ˆà¹‡à¸”','à¹à¸›à¸”','à¹€à¸à¹‰à¸²','à¸ªà¸´à¸š');
+$txtnum2 = array('','à¸ªà¸´à¸š','à¸£à¹‰à¸­à¸¢','à¸à¸±à¸™','à¸«à¸¡à¸·à¹ˆà¸™','à¹à¸ªà¸™','à¸¥à¹‰à¸²à¸™');
 $number = str_replace(",","",$number);
 $number = str_replace(" ","",$number);
-$number = str_replace("ºÒ·","",$number);
+$number = str_replace("à¸šà¸²à¸—","",$number);
 $number = explode(".",$number);
 if(sizeof($number)>2){
-return '·È¹ÔÂÁËÅÒÂµÑÇ¹Ğ¨êĞ';
+return 'à¸—à¸¨à¸™à¸´à¸¢à¸¡à¸«à¸¥à¸²à¸¢à¸•à¸±à¸§à¸™à¸°à¸ˆà¹Šà¸°';
 exit;
 }
 $strlen = strlen($number[0]);
@@ -16,63 +16,63 @@ $convert = '';
 for($i=0;$i<$strlen;$i++){
 $n = substr($number[0], $i,1);
 if($n!=0){
-if($i==($strlen-1) AND $n==1){ $convert .= 'àÍç´'; }
-elseif($i==($strlen-2) AND $n==2){ $convert .= 'ÂÕè'; }
+if($i==($strlen-1) AND $n==1){ $convert .= 'à¹€à¸­à¹‡à¸”'; }
+elseif($i==($strlen-2) AND $n==2){ $convert .= 'à¸¢à¸µà¹ˆ'; }
 elseif($i==($strlen-2) AND $n==1){ $convert .= ''; }
 else{ $convert .= $txtnum1[$n]; }
 $convert .= $txtnum2[$strlen-$i-1];
 }
 }
-$convert .= 'ºÒ·';
+$convert .= 'à¸šà¸²à¸—';
 if($number[1]=='0' OR $number[1]=='00' OR $number[1]==''){
-$convert .= '¶éÇ¹';
+$convert .= 'à¸–à¹‰à¸§à¸™';
 }else{
 $strlen = strlen($number[1]);
 for($i=0;$i<$strlen;$i++){
 $n = substr($number[1], $i,1);
 if($n!=0){
-if($i==($strlen-1) AND $n==1){$convert .= 'àÍç´';}
-elseif($i==($strlen-2) AND $n==2){$convert .= 'ÂÕè';}
+if($i==($strlen-1) AND $n==1){$convert .= 'à¹€à¸­à¹‡à¸”';}
+elseif($i==($strlen-2) AND $n==2){$convert .= 'à¸¢à¸µà¹ˆ';}
 elseif($i==($strlen-2) AND $n==1){$convert .= '';}
 else{ $convert .= $txtnum1[$n];}
 $convert .= $txtnum2[$strlen-$i-1];
 }
 }
-$convert .= 'ÊµÒ§¤ì';
+$convert .= 'à¸ªà¸•à¸²à¸‡à¸„à¹Œ';
 }
 return $convert;
 }
 
-//àÃÕÂ¡ãªé funtion
-//$x = '51,211.10 ºÒ·';   //¨ĞãÊËÃ×ÍäÁèãÊ , ¡çä´é
+//à¹€à¸£à¸µà¸¢à¸à¹ƒà¸Šà¹‰ funtion
+//$x = '51,211.10 à¸šà¸²à¸—';   //à¸ˆà¸°à¹ƒà¸ªà¸«à¸£à¸·à¸­à¹„à¸¡à¹ˆà¹ƒà¸ª , à¸à¹‡à¹„à¸”à¹‰
 //echo $x.' => '.convert($x);
 
 ?>
 
 <?php   
-$thai_day_arr=array("ÍÒ·ÔµÂì","¨Ñ¹·Ãì","ÍÑ§¤ÒÃ","¾Ø¸","¾ÄËÑÊº´Õ","ÈØ¡Ãì","àÊÒÃì");   
+$thai_day_arr=array("à¸­à¸²à¸—à¸´à¸•à¸¢à¹Œ","à¸ˆà¸±à¸™à¸—à¸£à¹Œ","à¸­à¸±à¸‡à¸„à¸²à¸£","à¸à¸¸à¸˜","à¸à¸¤à¸«à¸±à¸ªà¸šà¸”à¸µ","à¸¨à¸¸à¸à¸£à¹Œ","à¹€à¸ªà¸²à¸£à¹Œ");   
 $thai_month_arr=array(   
   "0"=>"",   
-   "1"=>"Á¡ÃÒ¤Á",   
-   "2"=>"¡ØÁÀÒ¾Ñ¹¸ì",   
-  "3"=>"ÁÕ¹Ò¤Á",   
-  "4"=>"àÁÉÒÂ¹",   
-   "5"=>"¾ÄÉÀÒ¤Á",   
-   "6"=>"ÁÔ¶Ø¹ÒÂ¹",    
-   "7"=>"¡Ã¡®Ò¤Á",   
-    "8"=>"ÊÔ§ËÒ¤Á",   
-    "9"=>"¡Ñ¹ÂÒÂ¹",   
- "10"=>"µØÅÒ¤Á",   
-   "11"=>"¾ÄÈ¨Ô¡ÒÂ¹",   
-    "12"=>"¸Ñ¹ÇÒ¤Á"                     
+   "1"=>"à¸¡à¸à¸£à¸²à¸„à¸¡",   
+   "2"=>"à¸à¸¸à¸¡à¸ à¸²à¸à¸±à¸™à¸˜à¹Œ",   
+  "3"=>"à¸¡à¸µà¸™à¸²à¸„à¸¡",   
+  "4"=>"à¹€à¸¡à¸©à¸²à¸¢à¸™",   
+   "5"=>"à¸à¸¤à¸©à¸ à¸²à¸„à¸¡",   
+   "6"=>"à¸¡à¸´à¸–à¸¸à¸™à¸²à¸¢à¸™",    
+   "7"=>"à¸à¸£à¸à¸à¸²à¸„à¸¡",   
+    "8"=>"à¸ªà¸´à¸‡à¸«à¸²à¸„à¸¡",   
+    "9"=>"à¸à¸±à¸™à¸¢à¸²à¸¢à¸™",   
+ "10"=>"à¸•à¸¸à¸¥à¸²à¸„à¸¡",   
+   "11"=>"à¸à¸¤à¸¨à¸ˆà¸´à¸à¸²à¸¢à¸™",   
+    "12"=>"à¸˜à¸±à¸™à¸§à¸²à¸„à¸¡"                     
 );
 function thai_date($time){   
 global $thai_day_arr,$thai_month_arr;   
-$thai_date_return="ÇÑ¹".$thai_day_arr[date("w",$time)];   
-$thai_date_return.= "·Õè ".date("j",$time);   
-$thai_date_return.=" à´×Í¹".$thai_month_arr[date("n",$time)];   
- $thai_date_return.= " ¾.È.".(date("Y",$time)+543);   
-$thai_date_return.= "  ".date("H:i",$time)." ¹.";   
+$thai_date_return="à¸§à¸±à¸™".$thai_day_arr[date("w",$time)];   
+$thai_date_return.= "à¸—à¸µà¹ˆ ".date("j",$time);   
+$thai_date_return.=" à¹€à¸”à¸·à¸­à¸™".$thai_month_arr[date("n",$time)];   
+ $thai_date_return.= " à¸.à¸¨.".(date("Y",$time)+543);   
+$thai_date_return.= "  ".date("H:i",$time)." à¸™.";   
 return $thai_date_return;   
 }   
 function thai_date1($time){   
@@ -85,9 +85,9 @@ return $thai_date_return;
 function thai_date2($time){   
 global $thai_day_arr,$thai_month_arr;   
 $thai_date_return= " ".date("j",$time);   
-$thai_date_return.=" à´×Í¹ ".$thai_month_arr[date("n",$time)];   
- $thai_date_return.= " ¾.È. ".(date("Y",$time)+543);   
-$thai_date_return.= " àÇÅÒ ".date("H:i",$time)." ¹.";   
+$thai_date_return.=" à¹€à¸”à¸·à¸­à¸™ ".$thai_month_arr[date("n",$time)];   
+ $thai_date_return.= " à¸.à¸¨. ".(date("Y",$time)+543);   
+$thai_date_return.= " à¹€à¸§à¸¥à¸² ".date("H:i",$time)." à¸™.";   
 return $thai_date_return;   
 }   
 function thai_date3($time){   
@@ -95,7 +95,7 @@ global $thai_day_arr,$thai_month_arr;
 $thai_date_return= " ".date("j",$time);   
 $thai_date_return.="  ".$thai_month_arr[date("n",$time)];   
  $thai_date_return.= " ".(date("Y",$time)+543);   
-$thai_date_return.= " àÇÅÒ ".date("H:i",$time)." ¹.";   
+$thai_date_return.= " à¹€à¸§à¸¥à¸² ".date("H:i",$time)." à¸™.";   
 return $thai_date_return;   
 }   
 

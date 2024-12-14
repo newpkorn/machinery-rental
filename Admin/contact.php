@@ -3,14 +3,14 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>�к����������ͧ�ѡá� ����ҧ��ǧ �����ä��</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<title>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 		<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '��͡��੾�е���Ţ 0-9 ' );
+			  alert( 'กรอกได้เฉพาะตัวเลข 0-9 ' );
 	    	}
 	}
 </script>
@@ -46,7 +46,7 @@ function CheckNum(){
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style3">���ͼ����ҹ</span> : <?=$_SESSION['adm_name']?>
+              <span class="style3">ชื่อผู้ใช้งาน</span> : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -59,11 +59,11 @@ function CheckNum(){
           </table>
           <table width="93%" height="38"  border="0" align="center" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ˹���á</a></strong></td>
+                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
               </tr>
             
               <tr>
-                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> �͡�ҡ�к�</a></strong></td>
+                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> ออกจากระบบ</a></strong></td>
               </tr>
         </table></td>
         <td width="77%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
@@ -77,7 +77,7 @@ function CheckNum(){
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>�к����������ͧ�ѡá� ����ҧ��ǧ �ѧ��Ѵ�����ä��</strong></td>
+                <td width="47%"><strong>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง จังหวัดมหาสารคาม</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -90,7 +90,7 @@ function CheckNum(){
               <tr>
                 <td colspan="2"><table width="69%"  border="0" align="center" bgcolor="#CCFFFF">
                   <tr>
-                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style4">�����š�õԴ���˹��§ҹ</span></td>
+                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style4">ข้อมูลการติดต่อหน่วยงาน</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
@@ -98,7 +98,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style3">
-                      <label>&nbsp;������� : </label>
+                      <label>&nbsp;ที่อยู่ : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtName"></label>
                      
@@ -107,13 +107,13 @@ function CheckNum(){
 					  </td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style3">&nbsp;���Ѿ�� : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style3">&nbsp;โทรศัพท์ : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="tel" id="tel" size="15" value="<?=$row_show['contact_tel']?>" maxlength="10" onKeyPress="CheckNum()"/>
                       <span class="style1">*</span></td>
                   </tr>
 
 				   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style3">&nbsp;������ : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style3">&nbsp;อีเมล์ : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" value="<?=$row_show['contact_mail']?>" name="email" id="email" size="50"/>
                       <span class="style1">*</span></td>
                   </tr>
@@ -125,7 +125,7 @@ function CheckNum(){
                     <td height="44" bgcolor="#CCFFFF">&nbsp;</td>
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
-                        <td width="55"><input type="submit" name="Update" id="Update" value="��䢢�����" /></td>
+                        <td width="55"><input type="submit" name="Update" id="Update" value="แก้ไขข้อมูล" /></td>
                         <td width="140">&nbsp;</td>
                       </tr>
                     </table></td>

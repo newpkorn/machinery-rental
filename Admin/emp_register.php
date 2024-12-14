@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Untitled Document</title>
 </head>
 
@@ -23,7 +23,7 @@
 		$result_show = mysql_query($sql_show);
 $num_show=mysql_num_rows($result_show);
 	if ($num_show!=0) {
-			echo"<SCRIPT>alert('�������˹�ҷ���ӡѹ��Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('รหัสเจ้าหน้าที่ซ้ำกันครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 		exit();
 	}
@@ -32,43 +32,43 @@ $num_show=mysql_num_rows($result_show);
 		$result_show2 = mysql_query($sql_show2);
 $num_show2=mysql_num_rows($result_show2);
 	if ($num_show2!=0) {
-			echo"<SCRIPT>alert('���������ҹ��ӡѹ��Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('ชื่อเข้าใช้งานซ้ำกันครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 		exit();
 	}
 	
 	if($admID==""){
 	
-		echo"<SCRIPT>alert('��سҡ�͡�������˹�ҷ����¤�Ѻ');history.back();</SCRIPT>";
+		echo"<SCRIPT>alert('กรุณากรอกรหัสเจ้าหน้าที่ด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 		exit();
 	}
 	else if($admName==""){
-			echo"<SCRIPT>alert('��سҡ�͡�������˹�ҷ����¤�Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('กรุณากรอกชื่อเจ้าหน้าที่ด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
  
 		exit();
 	}
 		else if($phone==""){
-					echo"<SCRIPT>alert('��سҡ�͡�������Ѿ����¤�Ѻ');history.back();</SCRIPT>";
+					echo"<SCRIPT>alert('กรุณากรอกเบอร์โทรศัพน์ด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 	 
 		exit();
 	}
 		else if($txtAdd==""){
 		 
-			echo"<SCRIPT>alert('��سҡ�͡���������¤�Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('กรุณากรอกที่อยู่ด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 		exit();
 	}
 	else if($txtUser==""){
-		echo"<SCRIPT>alert('��سҡ�͡�����ҹ���¤�Ѻ');history.back();</SCRIPT>";
+		echo"<SCRIPT>alert('กรุณากรอกเข้าใช้งานด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 		 
 		exit();
 	}
 	else if($txtPass==""){
-			echo"<SCRIPT>alert('��سҡ�͡���������ҹ�������¤�Ѻ');history.back();</SCRIPT>";
+			echo"<SCRIPT>alert('กรุณากรอกรหัสเข้าใช้งานด้วย่ด้วยครับ');history.back();</SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=Insertemployee.php'>";
 	 
 		exit();
@@ -85,7 +85,7 @@ $num_show2=mysql_num_rows($result_show2);
 	$query = mysql_query($insert);
 	if($query)
 	{
-				echo"<SCRIPT>alert('�������������º��������'); </SCRIPT>";
+				echo"<SCRIPT>alert('เพิ่มข้อมูลเรียบร้อยแล้ว'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_employee.php'>";
 	 
 	}

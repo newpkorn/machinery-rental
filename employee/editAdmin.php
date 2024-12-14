@@ -4,13 +4,13 @@
 <html>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 
 </head>
 <? include("../inc_connect.php"); ?>
 <? 
-//‡√’¬°¢ÈÕ¡Ÿ≈®“° √À—  ¡“· ¥ß„π textbox
+//‡πÄ‡∏£‡∏µ‡∏¢‡∏Å‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏à‡∏≤‡∏Å ‡∏£‡∏´‡∏±‡∏™ ‡∏°‡∏≤‡πÅ‡∏™‡∏î‡∏á‡πÉ‡∏ô textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
@@ -35,7 +35,7 @@
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              ™◊ËÕºŸÈ„™Èß“π : <?=$_SESSION['emp_name']?>
+              ‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : <?=$_SESSION['emp_name']?>
             </center></td>
           </tr>
         </table>
@@ -49,22 +49,22 @@
           <table width="100%" height="38"  border="0">
             <tr>
               <td width="100%" height="34"><input type="image" name="imageField3" id="imageField3" src="..//images/bullet.gif" />
-                <a href="Menu_Detail.php">ÀπÈ“·√°</a></td>
+                <a href="Menu_Detail.php">‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></td>
             </tr>
           </table>
           <table width="100%" height="29"  border="0">
             <tr>
-              <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<a href="search_admin.php">¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></td>
+              <td width="100%" height="25"><img src="../images/bullet.gif" >&nbsp;<a href="search_admin.php">‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></td>
             </tr>
           </table>
           <table width="100%" height="31"  border="0">
             <tr>
-              <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;<a href="InsertAdmin.php">‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></td>
+              <td width="100%" height="27"><img src="../images/bullet.gif" >&nbsp;<a href="InsertAdmin.php">‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></td>
             </tr>
           </table>
           <table width="100%" height="28"  border="0">
             <tr>
-              <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></td>
+              <td width="100%" height="24"><img src="../images/bullet.gif" />&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></td>
             </tr>
           </table>
           <table width="100%" height="36"  border="0">
@@ -88,7 +88,7 @@
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ®—ßÀ«—¥¡À“ “√§“¡</strong></td>
+                <td width="47%"><strong>‡∏£‡∏∞‡∏ö‡∏ö‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏• ‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á ‡∏à‡∏±‡∏á‡∏´‡∏ß‡∏±‡∏î‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏°</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -97,20 +97,20 @@
               <tr>
                 <td colspan="2"><table width="100%"  border="0">
                   <tr>
-                    <td colspan="2"><strong>·°È‰¢¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</strong></td>
+                    <td colspan="2"><strong>‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</strong></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
-                    <td height="45" bgcolor="#FFFFFF"><label>&nbsp;√À— ‡®È“ÀπÈ“∑’Ë</label></td>
+                    <td height="45" bgcolor="#FFFFFF"><label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</label></td>
                     <td bgcolor="#FFFFFF"><label for="txtID"></label>
                       <input type="text" name="txtID" id="txtID" value="<?=$row_show['mem_id']?>" />                      
                       *</td>
                   </tr>
                   <tr>
-                    <td height="45" bgcolor="#FFFFFF"><label>&nbsp;™◊ËÕ- °ÿ≈</label>
+                    <td height="45" bgcolor="#FFFFFF"><label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠-‡∏™‡∏Å‡∏∏‡∏•</label>
                       &nbsp;</td>
                     <td bgcolor="#FFFFFF"><label for="txtName"></label>
                       <label for="txtName2"></label>
@@ -118,44 +118,44 @@
 * </td>
                   </tr>
                   <tr>
-                    <td height="43" bgcolor="#FFFFFF"><label>&nbsp;µ”·ÀπËß</label>
+                    <td height="43" bgcolor="#FFFFFF"><label>&nbsp;‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á</label>
                       &nbsp;</td>
                     <td bgcolor="#FFFFFF"><label for="txtPos"></label>
                       <input type="text" name="txtPos" id="txtPos" value="<?=$row_show['mem_position']?>" /></td>
                   </tr>
                   <tr>
-                    <td height="43" bgcolor="#FFFFFF">&nbsp;«—π‡¥◊Õπª’‡°‘¥</td>
+                    <td height="43" bgcolor="#FFFFFF">&nbsp;‡∏ß‡∏±‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏õ‡∏µ‡πÄ‡∏Å‡∏¥‡∏î</td>
                     <td bgcolor="#FFFFFF"><input type="text" name="txtBirth" id="txtBirth" value="<?=$row_show['mem_birth']?>"/>
                       *</td>
                   </tr>
                   <tr>
-                    <td height="43" bgcolor="#FFFFFF"><label>&nbsp;‡≈¢∫—µ√ª√–®”µ—«ª√–™“™π</label>
+                    <td height="43" bgcolor="#FFFFFF"><label>&nbsp;‡πÄ‡∏•‡∏Ç‡∏ö‡∏±‡∏ï‡∏£‡∏õ‡∏£‡∏∞‡∏à‡∏≥‡∏ï‡∏±‡∏ß‡∏õ‡∏£‡∏∞‡∏ä‡∏≤‡∏ä‡∏ô</label>
                       &nbsp;</td>
                     <td bgcolor="#FFFFFF"><label for="txtCode"></label>
                       <input name="txtCode" type="text" id="txtCode" maxlength="13"  value="<?=$row_show['reg_card']?>" />
                       * </td>
                   </tr>
                   <tr>
-                    <td height="45" bgcolor="#FFFFFF"><label>&nbsp;‡∫Õ√Ï‚∑√</label>
+                    <td height="45" bgcolor="#FFFFFF"><label>&nbsp;‡πÄ‡∏ö‡∏≠‡∏£‡πå‡πÇ‡∏ó‡∏£</label>
                       &nbsp;</td>
                     <td bgcolor="#FFFFFF"><label for="Phone"></label>
                       <input name="Phone" type="text" id="Phone" maxlength="10"  value="<?=$row_show['mem_phone']?>" />
                       * </td>
                   </tr>
                   <tr>
-                    <td height="40" bgcolor="#FFFFFF"><label>&nbsp;∑’ËÕ¬ŸË</label>
+                    <td height="40" bgcolor="#FFFFFF"><label>&nbsp;‡∏ó‡∏µ‡πà‡∏≠‡∏¢‡∏π‡πà</label>
                       &nbsp;</td>
                     <td bgcolor="#FFFFFF"><label for="txtAdd"></label>
                       <textarea name="txtAdd" id="txtAdd" cols="45" rows="5"> <?=$row_show['mem_add']?> </textarea></td>
                   </tr>
                   <tr>
-                    <td height="44" bgcolor="#FFFFFF"><label>&nbsp;™◊ËÕ‡¢È“„™Èß“π</label>
+                    <td height="44" bgcolor="#FFFFFF"><label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠‡πÄ‡∏Ç‡πâ‡∏≤‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô</label>
 &nbsp;</td>
                     <td bgcolor="#FFFFFF"><input name="txtUser" type="text" id="txtUser" maxlength="15" value="<?=$row_show['mem_user']?>" />
                       *</td>
                   </tr>
                   <tr>
-                    <td height="44" bgcolor="#FFFFFF"><label>&nbsp;√À— ºË“π</label>
+                    <td height="44" bgcolor="#FFFFFF"><label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡∏ú‡πà‡∏≤‡∏ô</label>
 &nbsp;</td>
                     <td bgcolor="#FFFFFF"><input name="txtPass" type="text" id="txtPass" maxlength="15" value="<?=$row_show['mem_pass']?>" />
                       *</td>

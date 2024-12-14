@@ -16,7 +16,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -181,9 +181,9 @@ ul
 <div class=Section1>
 
 <p class=MsoNormal  ><span lang=TH style='mso-bidi-font-size:11.0pt;
-line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡√‘Ë¡„™È </span><span
+line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡πÄ‡∏£‡∏¥‡πà‡∏°‡πÉ‡∏ä‡πâ </span><span
 style='mso-bidi-font-size:11.0pt;line-height:115%;font-family:"Angsana New","serif"'>1
-<span lang=TH>µÿ≈“§¡ </span>2553
+<span lang=TH>‡∏ï‡∏∏‡∏•‡∏≤‡∏Ñ‡∏° </span>2553
 <o:p></o:p></span></p>
 
 <p class=MsoNormal><b><span lang=TH style='font-size:14.0pt;line-height:115%;
@@ -193,27 +193,27 @@ left:3px;top:-2px;width:90px;height:35px'>
 <table cellpadding=0 cellspacing=0>
  <tr>
   <td width=76 height=35 bgcolor=white style='border:.5pt solid black;
-  vertical-align:top;background:white'><![endif]><![if !mso]><![endif]><![if !mso & !vml]>&nbsp;<![endif]><![if !vml]>·∫∫ ED4</td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  vertical-align:top;background:white'><![endif]><![if !mso]><![endif]><![if !mso & !vml]>&nbsp;<![endif]><![if !vml]>‡πÅ‡∏ö‡∏ö ED4</td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </tr>
 </table>
 
-</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —≠≠“‡™Ë“‡§√◊ËÕß®—°√°≈<span
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏™‡∏±‡∏ç‡∏ç‡∏≤‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•<span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='font-size:14.0pt;
-line-height:115%;font-family:"Angsana New","serif"'>1 <span lang=TH>¢Õß </span>1<span
-lang=TH> ·ºËπ</span>
+line-height:115%;font-family:"Angsana New","serif"'>1 <span lang=TH>‡∏Ç‡∏≠‡∏á </span>1<span
+lang=TH> ‡πÅ‡∏ú‡πà‡∏ô</span>
 <o:p></o:p></span></p>
 
 <p class=MsoNormal><b><span lang=TH style='font-size:14.0pt;line-height:115%;
-font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ß“π‡ß‘π∑ÿπÀ¡ÿπ‡«’¬π§Ë“‡§√◊ËÕß®—°√°≈¢Õß°√¡∑“ßÀ≈«ß</span></b><span
-lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«—π∑’Ëæ‘¡æÏ</span><span
+font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏á‡∏≤‡∏ô‡πÄ‡∏á‡∏¥‡∏ô‡∏ó‡∏∏‡∏ô‡∏´‡∏°‡∏∏‡∏ô‡πÄ‡∏ß‡∏µ‡∏¢‡∏ô‡∏Ñ‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•‡∏Ç‡∏≠‡∏á‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á</span></b><span
+lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏û‡∏¥‡∏°‡∏û‡πå</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'> :
  <o:p></o:p>
  
  <? date('d/m/Y H:m:s');
 
-$b1 = date( "n" )-1; // §Ë“‡¥◊Õπ (1-12)
-$c1 = date( "j" ); // §Ë“«—π∑’Ë(1-31)
-$d1 = date( "Y" )+543; // §Ë“ §.».∫«° 543 ∑”„ÀÈ‡ªÁπ §.».
+$b1 = date( "n" )-1; // ‡∏Ñ‡πà‡∏≤‡πÄ‡∏î‡∏∑‡∏≠‡∏ô (1-12)
+$c1 = date( "j" ); // ‡∏Ñ‡πà‡∏≤‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà(1-31)
+$d1 = date( "Y" )+543; // ‡∏Ñ‡πà‡∏≤ ‡∏Ñ.‡∏®.‡∏ö‡∏ß‡∏Å 543 ‡∏ó‡∏≥‡πÉ‡∏´‡πâ‡πÄ‡∏õ‡πá‡∏ô ‡∏Ñ.‡∏®.
 $t1 = date( "H:m:s" );
 echo " $c1/$b1/$d1 $t1";
  
@@ -223,33 +223,33 @@ echo " $c1/$b1/$d1 $t1";
  </span></p>
 
 <p class=MsoNormal style='text-indent:-42.55pt'><span lang=TH style='font-size:
-14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ÀπË«¬ß“π </span><span
+14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏´‡∏ô‡πà‡∏ß‡∏¢‡∏á‡∏≤‡∏ô </span><span
 style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>155-00<span
-lang=TH>  ”π—°ß“π∑“ßÀ≈«ß¡À“ “√§“¡<span style='mso-tab-count:6'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-‡≈¢∑’Ë..............................</span> 
+lang=TH> ‡∏™‡∏≥‡∏ô‡∏±‡∏Å‡∏á‡∏≤‡∏ô‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏°<span style='mso-tab-count:6'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+‡πÄ‡∏•‡∏Ç‡∏ó‡∏µ‡πà..............................</span> 
   <o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:-42.55pt'><span lang=TH style='font-size:
-14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ºŸÈ‡™Ë“µ°≈ß‡™Ë“‡§√◊ËÕß®—°√°≈®“°ºŸÈ„ÀÈ‡™Ë“µ“¡∑’Ë√–∫ÿ‰«È¢È“ß≈Ë“ßπ’È
+14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏ú‡∏π‡πâ‡πÄ‡∏ä‡πà‡∏≤‡∏ï‡∏Å‡∏•‡∏á‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•‡∏à‡∏≤‡∏Å‡∏ú‡∏π‡πâ‡πÉ‡∏´‡πâ‡πÄ‡∏ä‡πà‡∏≤‡∏ï‡∏≤‡∏°‡∏ó‡∏µ‡πà‡∏£‡∏∞‡∏ö‡∏∏‡πÑ‡∏ß‡πâ‡∏Ç‡πâ‡∏≤‡∏á‡∏•‡πà‡∏≤‡∏á‡∏ô‡∏µ‡πâ
 <span style='mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«—π∑’Ë
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà
 &nbsp;&nbsp;<?php
 function ThaiDate()
 {
-$ThDay = array ( "Õ“∑‘µ¬Ï", "®—π∑√Ï", "Õ—ß§“√", "æÿ∏", "æƒÀ— ", "»ÿ°√Ï", "‡ “√Ï" );
-$ThMonth = array ( "¡°√“¡°", "°ÿ¡¿“æ—π∏Ï", "¡’π“§¡", "‡¡…“¬π",
-"æƒ…¿“§¡", "¡‘∂ÿπ“¬π", "°√°Ø“§¡", " ‘ßÀ“§¡",
-"°—π¬“¬π", "µÿ≈“§¡", "æƒ»®‘°“¬π", "∏—π«“§¡" );
+$ThDay = array ( "‡∏≠‡∏≤‡∏ó‡∏¥‡∏ï‡∏¢‡πå", "‡∏à‡∏±‡∏ô‡∏ó‡∏£‡πå", "‡∏≠‡∏±‡∏á‡∏Ñ‡∏≤‡∏£", "‡∏û‡∏∏‡∏ò", "‡∏û‡∏§‡∏´‡∏±‡∏™", "‡∏®‡∏∏‡∏Å‡∏£‡πå", "‡πÄ‡∏™‡∏≤‡∏£‡πå" );
+$ThMonth = array ( "‡∏°‡∏Å‡∏£‡∏≤‡∏°‡∏Å", "‡∏Å‡∏∏‡∏°‡∏†‡∏≤‡∏û‡∏±‡∏ô‡∏ò‡πå", "‡∏°‡∏µ‡∏ô‡∏≤‡∏Ñ‡∏°", "‡πÄ‡∏°‡∏©‡∏≤‡∏¢‡∏ô",
+"‡∏û‡∏§‡∏©‡∏†‡∏≤‡∏Ñ‡∏°", "‡∏°‡∏¥‡∏ñ‡∏∏‡∏ô‡∏≤‡∏¢‡∏ô", "‡∏Å‡∏£‡∏Å‡∏è‡∏≤‡∏Ñ‡∏°", "‡∏™‡∏¥‡∏á‡∏´‡∏≤‡∏Ñ‡∏°",
+"‡∏Å‡∏±‡∏ô‡∏¢‡∏≤‡∏¢‡∏ô", "‡∏ï‡∏∏‡∏•‡∏≤‡∏Ñ‡∏°", "‡∏û‡∏§‡∏®‡∏à‡∏¥‡∏Å‡∏≤‡∏¢‡∏ô", "‡∏ò‡∏±‡∏ô‡∏ß‡∏≤‡∏Ñ‡∏°" );
 
-$a = date( "w" ); // §Ë“«—π„π —ª¥“ÀÏ (0-6)
-$b = date( "n" )-1; // §Ë“‡¥◊Õπ (1-12)
-$c = date( "j" ); // §Ë“«—π∑’Ë(1-31)
-$d = date( "Y" )+543; // §Ë“ §.».∫«° 543 ∑”„ÀÈ‡ªÁπ §.».
+$a = date( "w" ); // ‡∏Ñ‡πà‡∏≤‡∏ß‡∏±‡∏ô‡πÉ‡∏ô‡∏™‡∏±‡∏õ‡∏î‡∏≤‡∏´‡πå (0-6)
+$b = date( "n" )-1; // ‡∏Ñ‡πà‡∏≤‡πÄ‡∏î‡∏∑‡∏≠‡∏ô (1-12)
+$c = date( "j" ); // ‡∏Ñ‡πà‡∏≤‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà(1-31)
+$d = date( "Y" )+543; // ‡∏Ñ‡πà‡∏≤ ‡∏Ñ.‡∏®.‡∏ö‡∏ß‡∏Å 543 ‡∏ó‡∏≥‡πÉ‡∏´‡πâ‡πÄ‡∏õ‡πá‡∏ô ‡∏Ñ.‡∏®.
 
 return " $c  $ThMonth[$b]  $d";
 }
 
-echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
+echo ThaiDate(); // ‡∏û‡∏¥‡∏°‡∏û‡πå‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà
 
 ?></span><span style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'> </span></p>
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=798
@@ -264,27 +264,27 @@ echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>∑’Ë<o:p></o:p></span></p>
+  font-family:"Angsana New","serif"'>‡∏ó‡∏µ‡πà<o:p></o:p></span></p>
   </td>
   <td width=153 valign=top style='width:112.15pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"Angsana New","serif"'>À¡“¬‡≈¬‡§√◊ËÕß®—°√</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"Angsana New","serif"'>‡∏´‡∏°‡∏≤‡∏¢‡πÄ‡∏•‡∏¢‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£</span><span
   style='font-size:14.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=95 valign=top style='width:70.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"Angsana New","serif"'>«—π∑’ËµÈÕß°“√„™È</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"Angsana New","serif"'>‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡πÉ‡∏ä‡πâ</span><span
   style='font-size:14.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=95 valign=top style='width:70.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=TH style='font-size:14.0pt;font-family:"Angsana New","serif"'>µÈÕß°“√‡™Ë“∂÷ß</span><span
+  normal'><span lang=TH style='font-size:14.0pt;font-family:"Angsana New","serif"'>‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤‡∏ñ‡∏∂‡∏á</span><span
   style='font-size:14.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=66 valign=top style='width:49.6pt;border:solid windowtext 1.0pt;
@@ -292,7 +292,7 @@ echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>√–¬–‡«≈“∑’Ë‡™Ë“</span><span
+  font-family:"Angsana New","serif"'>‡∏£‡∏∞‡∏¢‡∏∞‡πÄ‡∏ß‡∏•‡∏≤‡∏ó‡∏µ‡πà‡πÄ‡∏ä‡πà‡∏≤</span><span
   style='font-size:14.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=85 valign=top style='width:63.8pt;border:solid windowtext 1.0pt;
@@ -300,7 +300,7 @@ echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>ª√–‡¿∑</span><span style='font-size:14.0pt;
+  font-family:"Angsana New","serif"'>‡∏õ‡∏£‡∏∞‡πÄ‡∏†‡∏ó</span><span style='font-size:14.0pt;
   font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=94 valign=top style='width:70.85pt;border:solid windowtext 1.0pt;
@@ -308,7 +308,7 @@ echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>Õ—µ√“§Ë“‡™Ë“ (∫“∑)</span><span
+  font-family:"Angsana New","serif"'>‡∏≠‡∏±‡∏ï‡∏£‡∏≤‡∏Ñ‡πà‡∏≤‡πÄ‡∏ä‡πà‡∏≤ (‡∏ö‡∏≤‡∏ó)</span><span
   style='font-size:14.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=95 valign=top style='width:70.9pt;border:solid windowtext 1.0pt;
@@ -316,7 +316,7 @@ echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>√«¡§Ë“‡™Ë“ (∫“∑)</span><span
+  font-family:"Angsana New","serif"'>‡∏£‡∏ß‡∏°‡∏Ñ‡πà‡∏≤‡πÄ‡∏ä‡πà‡∏≤ (‡∏ö‡∏≤‡∏ó)</span><span
   style='font-size:14.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
   <td width=38 valign=top style='width:1.0cm;border:solid windowtext 1.0pt;
@@ -324,7 +324,7 @@ echo ThaiDate(); // æ‘¡æÏ«—π∑’Ë
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>√À— ß“π</span><span style='font-size:14.0pt;
+  font-family:"Angsana New","serif"'>‡∏£‡∏´‡∏±‡∏™‡∏á‡∏≤‡∏ô</span><span style='font-size:14.0pt;
   font-family:"Angsana New","serif"'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -425,7 +425,7 @@ echo thai_date1($eng_date2);?> <o:p></o:p></span></p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=right style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span lang=TH style='font-size:14.0pt;
-  font-family:"Angsana New","serif"'>√«¡<o:p></o:p></span></p>
+  font-family:"Angsana New","serif"'>‡∏£‡∏ß‡∏°<o:p></o:p></span></p>
   </td>
   <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -445,7 +445,7 @@ echo thai_date1($eng_date2);?> <o:p></o:p></span></p>
 "Angsana New","serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='text-indent:-42.55pt'><b><span lang=TH
-style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;À≈—°‡°≥±Ï°“√‡™Ë“</span></b><a
+style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‡∏´‡∏•‡∏±‡∏Å‡πÄ‡∏Å‡∏ì‡∏ë‡πå‡∏Å‡∏≤‡∏£‡πÄ‡∏ä‡πà‡∏≤</span></b><a
 name="_GoBack"></a><b><span style='font-size:14.0pt;line-height:115%;
 font-family:"Angsana New","serif"'>
   <o:p></o:p></span></b></p>
@@ -456,9 +456,9 @@ style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif";
 mso-fareast-font-family:"Angsana New"'><span style='mso-list:Ignore'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b><![endif]><span lang=TH style='font-size:14.0pt;
-line-height:115%;font-family:"Angsana New","serif"'>‡§√◊ËÕß®—°√√“¬‡¥◊Õπ§‘¥§Ë“‡™Ë“‡ªÁπ‡¥◊Õπ‡»…¢Õß‡¥◊Õπ§‘¥‡ªÁπ
+line-height:115%;font-family:"Angsana New","serif"'>‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏£‡∏≤‡∏¢‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏Ñ‡∏¥‡∏î‡∏Ñ‡πà‡∏≤‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏õ‡πá‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡πÄ‡∏®‡∏©‡∏Ç‡∏≠‡∏á‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏Ñ‡∏¥‡∏î‡πÄ‡∏õ‡πá‡∏ô
 </span><span style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>1
-<span lang=TH>‡¥◊Õπ</span><b><o:p></o:p></b></span></p>
+<span lang=TH>‡πÄ‡∏î‡∏∑‡∏≠‡∏ô</span><b><o:p></o:p></b></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;
 text-indent:-21.3pt;mso-list:l0 level1 lfo1'><![if !supportLists]><b><span
@@ -466,9 +466,9 @@ style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif";
 mso-fareast-font-family:"Angsana New"'><span style='mso-list:Ignore'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b><![endif]><span lang=TH style='font-size:14.0pt;
-line-height:115%;font-family:"Angsana New","serif"'>‡§√◊ËÕß®—°√√“¬«—π§‘¥§Ë“‡™Ë“‡ªÁπ«—π·≈–µÈÕß‡™Ë“‰¡ËπÈÕ¬°«Ë“
+line-height:115%;font-family:"Angsana New","serif"'>‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏£‡∏≤‡∏¢‡∏ß‡∏±‡∏ô‡∏Ñ‡∏¥‡∏î‡∏Ñ‡πà‡∏≤‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏õ‡πá‡∏ô‡∏ß‡∏±‡∏ô‡πÅ‡∏•‡∏∞‡∏ï‡πâ‡∏≠‡∏á‡πÄ‡∏ä‡πà‡∏≤‡πÑ‡∏°‡πà‡∏ô‡πâ‡∏≠‡∏¢‡∏Å‡∏ß‡πà‡∏≤
 </span><span style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>1
-<span lang=TH>«—π</span><b><o:p></o:p></b></span></p>
+<span lang=TH>‡∏ß‡∏±‡∏ô</span><b><o:p></o:p></b></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;
 text-indent:-21.3pt;mso-list:l0 level1 lfo1'><![if !supportLists]><b><span
@@ -476,7 +476,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif";
 mso-fareast-font-family:"Angsana New"'><span style='mso-list:Ignore'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b><![endif]><span lang=TH style='font-size:14.0pt;
-line-height:115%;font-family:"Angsana New","serif"'>‡§√◊ËÕß®—°√√“¬™—Ë«‚¡ß§‘¥§Ë“‡™Ë“‡ªÁπ™—Ë«‚¡ß·≈–µÈÕß‡™Ë“‰¡ËπÈÕ¬°«Ë“™—Ë«‚¡ß∑”ß“π¡“µ√∞“πµËÕ«—π¢Õß‡§√◊ËÕß®—°√·µË≈–™π‘¥</span><b><span
+line-height:115%;font-family:"Angsana New","serif"'>‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏£‡∏≤‡∏¢‡∏ä‡∏±‡πà‡∏ß‡πÇ‡∏°‡∏á‡∏Ñ‡∏¥‡∏î‡∏Ñ‡πà‡∏≤‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏õ‡πá‡∏ô‡∏ä‡∏±‡πà‡∏ß‡πÇ‡∏°‡∏á‡πÅ‡∏•‡∏∞‡∏ï‡πâ‡∏≠‡∏á‡πÄ‡∏ä‡πà‡∏≤‡πÑ‡∏°‡πà‡∏ô‡πâ‡∏≠‡∏¢‡∏Å‡∏ß‡πà‡∏≤‡∏ä‡∏±‡πà‡∏ß‡πÇ‡∏°‡∏á‡∏ó‡∏≥‡∏á‡∏≤‡∏ô‡∏°‡∏≤‡∏ï‡∏£‡∏ê‡∏≤‡∏ô‡∏ï‡πà‡∏≠‡∏ß‡∏±‡∏ô‡∏Ç‡∏≠‡∏á‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡πÅ‡∏ï‡πà‡∏•‡∏∞‡∏ä‡∏ô‡∏¥‡∏î</span><b><span
 style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'><o:p></o:p></span></b></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;
@@ -485,7 +485,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif";
 mso-fareast-font-family:"Angsana New"'><span style='mso-list:Ignore'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b><![endif]><span lang=TH style='font-size:14.0pt;
-line-height:115%;font-family:"Angsana New","serif"'>ºŸÈ‡™Ë“µÈÕß√—∫¿“√–§Ë“„™È®Ë“¬„π°“√¢π Ëß‡§√◊ËÕß®—°√°≈‡©æ“–§Ë“πÈ”¡—π‡™◊ÈÕ‡æ≈‘ß·≈–‡∫’È¬‡≈’È¬ßæπ—°ß“π¢—∫√∂‡Õß</span><b><span
+line-height:115%;font-family:"Angsana New","serif"'>‡∏ú‡∏π‡πâ‡πÄ‡∏ä‡πà‡∏≤‡∏ï‡πâ‡∏≠‡∏á‡∏£‡∏±‡∏ö‡∏†‡∏≤‡∏£‡∏∞‡∏Ñ‡πà‡∏≤‡πÉ‡∏ä‡πâ‡∏à‡πà‡∏≤‡∏¢‡πÉ‡∏ô‡∏Å‡∏≤‡∏£‡∏Ç‡∏ô‡∏™‡πà‡∏á‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏•‡πÄ‡∏â‡∏û‡∏≤‡∏∞‡∏Ñ‡πà‡∏≤‡∏ô‡πâ‡∏≥‡∏°‡∏±‡∏ô‡πÄ‡∏ä‡∏∑‡πâ‡∏≠‡πÄ‡∏û‡∏•‡∏¥‡∏á‡πÅ‡∏•‡∏∞‡πÄ‡∏ö‡∏µ‡πâ‡∏¢‡πÄ‡∏•‡∏µ‡πâ‡∏¢‡∏á‡∏û‡∏ô‡∏±‡∏Å‡∏á‡∏≤‡∏ô‡∏Ç‡∏±‡∏ö‡∏£‡∏ñ‡πÄ‡∏≠‡∏á</span><b><span
 style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'><o:p></o:p></span></b></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto'><b><span
@@ -495,8 +495,8 @@ style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'><o:p
 style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:108.0pt;mso-add-space:
-auto'><span lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>(≈ß™◊ËÕ).............................................ºŸÈ‡™Ë“<span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(≈ß™◊ËÕ).................................................ºŸÈ„ÀÈ‡™Ë“</span><span
+auto'><span lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>(‡∏•‡∏á‡∏ä‡∏∑‡πà‡∏≠).............................................‡∏ú‡∏π‡πâ‡πÄ‡∏ä‡πà‡∏≤<span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(‡∏•‡∏á‡∏ä‡∏∑‡πà‡∏≠).................................................‡∏ú‡∏π‡πâ‡πÉ‡∏´‡πâ‡πÄ‡∏ä‡πà‡∏≤</span><span
 style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:108.0pt;mso-add-space:
@@ -511,26 +511,26 @@ style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>
 <o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:108.0pt;mso-add-space:
-auto'><span lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>µ”·ÀπËß ºŸÈ¢Õ‡™Ë“<span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>µ”·ÀπËß..................................................
+auto'><span lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á ‡∏ú‡∏π‡πâ‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á..................................................
 <o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:108.0pt;mso-add-space:
-auto'><span lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>«—π∑’Ë............‡¥◊Õπ.....................æ.».
+auto'><span lang=TH style='font-size:14.0pt;line-height:115%;font-family:"Angsana New","serif"'>‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà............‡πÄ‡∏î‡∏∑‡∏≠‡∏ô.....................‡∏û.‡∏®.
 .......<span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>«—π∑’Ë............‡¥◊Õπ.....................æ.». .......<o:p></o:p></span></p>
+</span>‡∏ß‡∏±‡∏ô‡∏ó‡∏µ‡πà............‡πÄ‡∏î‡∏∑‡∏≠‡∏ô.....................‡∏û.‡∏®. .......<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:14.0pt;line-height:115%;font-family:
 "Angsana New","serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span lang=TH style='font-size:10.0pt;font-family:"Angsana New","serif"'>µÈπ©∫—∫
-ñ ºŸÈ„ÀÈ‡™Ë“</span><span style='font-size:10.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
+normal'><span lang=TH style='font-size:10.0pt;font-family:"Angsana New","serif"'>‡∏ï‡πâ‡∏ô‡∏â‡∏ö‡∏±‡∏ö
+Ô£à ‡∏ú‡∏π‡πâ‡πÉ‡∏´‡πâ‡πÄ‡∏ä‡πà‡∏≤</span><span style='font-size:10.0pt;font-family:"Angsana New","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span lang=TH style='font-size:10.0pt;font-family:"Angsana New","serif"'> —≠≠“§ŸË©∫—∫
-ñ ºŸÈ‡™Ë“<o:p></o:p></span></p>
+normal'><span lang=TH style='font-size:10.0pt;font-family:"Angsana New","serif"'>‡∏™‡∏±‡∏ç‡∏ç‡∏≤‡∏Ñ‡∏π‡πà‡∏â‡∏ö‡∏±‡∏ö
+Ô£à ‡∏ú‡∏π‡πâ‡πÄ‡∏ä‡πà‡∏≤<o:p></o:p></span></p>
 
 </div>
 

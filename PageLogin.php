@@ -1,63 +1,51 @@
-<? 
-	@session_start();
+<?php
+session_start();
 include("inc_connect.php");
+
+if (empty($_POST['username']) || empty($_POST['password'])) {
+    echo "<center><font color='red'>‡∏Å‡∏£‡∏∏‡∏ì‡∏≤‡∏Å‡∏£‡∏≠‡∏Å Username ‡πÅ‡∏•‡∏∞ Password ‡∏Ñ‡∏£‡∏ö‡∏ó‡∏∏‡∏Å‡∏ä‡πà‡∏≠‡∏á</font></center>";
+    echo "<meta http-equiv='refresh' content='1;url=Formlogin.php'>";
+    exit();
+}
+
+$username = $_POST['username'];
+$password = $_POST['password'];
+
+
+$sql = "SELECT * FROM tb_admin WHERE adm_user = ?"; 
+$stmt = $conn->prepare($sql);
+$stmt->bind_param('s', $username);
+$stmt->execute();
+$result = $stmt->get_result();
+
+if ($result->num_rows > 0) {
+    $row = $result->fetch_assoc();
+    if ($password == $row['adm_pass']) {
+        $_SESSION['username'] = $username;
+        $_SESSION['adm_id'] = $row['adm_id'];
+        $_SESSION['adm_name'] = $row['adm_name'];
+        header("Location: Admin/Menu_Detail.php");
+        exit();
+    }
+} else {
+    $sql2 = "SELECT * FROM tb_employee WHERE emp_user = ?";
+    $stmt2 = $conn->prepare($sql2);
+    $stmt2->bind_param('s', $username);
+    $stmt2->execute();
+    $result2 = $stmt2->get_result();
+
+    if ($result2->num_rows > 0) {
+        $row2 = $result2->fetch_assoc();
+        if ($password == $row2['emp_pass']) {
+            $_SESSION['username'] = $username;
+            $_SESSION['emp_id'] = $row2['emp_id'];
+            $_SESSION['emp_name'] = $row2['emp_name'];
+            header("Location: employee/Menu_Detail.php");
+            exit();
+        }
+    }
+}
+
+echo "<script>alert('User ‡πÅ‡∏•‡∏∞ Password ‡πÑ‡∏°‡πà‡∏ñ‡∏π‡∏Å‡∏ï‡πâ‡∏≠‡∏á'); window.location.href='Formlogin.php';</script>";
+exit();
 ?>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-874" />
-<?
-if($username=="" or $password==""){
-	echo"<center><font color=red>°√ÿ≥“°√Õ° Username ·≈– Password §√∫∑ÿ°™ËÕß</font></center>"; 
-	echo"<meta http-equiv='refresh' content=1;url='Formlogin.php'>";exit();
-
-
-}
-
-	$sql="select*from tb_admin WHERE adm_user='".$_POST["username"]."'and adm_pass='".$_POST["password"]."' ";
-	$query=mysql_query($sql);
-	$row=mysql_num_rows($query);
-
-	if ($row!=0) {
-	$_SESSION['username'] = $username;
-    $_SESSION['adm_id'] = mysql_result($query,0,"adm_id");
-		 $_SESSION['adm_name'] = mysql_result($query,0,"adm_name");
-	print "<meta http-equiv=refresh content=0;URL=Admin/Menu_Detail.php>";
-
-	}
-	else {
-					
-
-
-	
-		$sql2="select*from tb_employee WHERE emp_user='".$_POST["username"]."'and emp_pass='".$_POST["password"]."' ";
-	$query2=mysql_query($sql2);
-	$row2=mysql_num_rows($query2);
-	if ($row2!=0) {
-			$_SESSION['username'] = $username;
-    $_SESSION['emp_id'] = mysql_result($query2,0,"emp_id");
-	 $_SESSION['emp_name'] = mysql_result($query2,0,"emp_name");
-			print "<meta http-equiv=refresh content=0;URL=employee/Menu_Detail.php>";	
-	}
-	else {
-echo"<SCRIPT>alert('User ·≈– Password‰¡Ë∂Ÿ°µÈÕß');window.navigate('Formlogin.php');</SCRIPT>";
-print "<meta http-equiv=refresh content=0;URL=Formlogin.php>";	
-session_register("code_error");
-	}
-	}
-?> 
-
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-function validate(){
-	var f = document.login;
-	if (f.username.value=="") 	{
-		alert("°√ÿ≥“ªÈÕπ™◊ËÕºŸÈ„™Èß“π.");
-		f.username.focus();
-		return false;
-	}
-	if (f.password.value=="") 	{
-		alert("°√ÿ≥“ªÈÕπ√À— ºË“π.");
-		f.password.focus();
-		return false;
-	}
-}
-//  End -->
-</script>

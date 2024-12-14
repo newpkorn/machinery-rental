@@ -4,14 +4,14 @@
 <html>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" language="javascript" src="datetimepicker.js"></script>
 		<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '°√Õ°‰¥È‡©æ“–µ—«‡≈¢ 0-9 ' );
+			  alert( '‡∏Å‡∏£‡∏≠‡∏Å‡πÑ‡∏î‡πâ‡πÄ‡∏â‡∏û‡∏≤‡∏∞‡∏ï‡∏±‡∏ß‡πÄ‡∏•‡∏Ç 0-9 ' );
 	    	}
 	}
 </script>
@@ -35,7 +35,7 @@ function CheckNum(){
 </head>
 <? include("../inc_connect.php"); ?>
 <? 
-//‡√’¬°¢ÈÕ¡Ÿ≈®“° √À—  ¡“· ¥ß„π textbox
+//‡πÄ‡∏£‡∏µ‡∏¢‡∏Å‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏à‡∏≤‡∏Å ‡∏£‡∏´‡∏±‡∏™ ‡∏°‡∏≤‡πÅ‡∏™‡∏î‡∏á‡πÉ‡∏ô textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
@@ -60,7 +60,7 @@ function CheckNum(){
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style4">™◊ËÕºŸÈ„™Èß“π</span> : <?=$_SESSION['adm_name']?>
+              <span class="style4">‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô</span> : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -73,16 +73,16 @@ function CheckNum(){
           </table>
           <table width="93%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ÀπÈ“·√°</a></strong></td>
+                <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ‡∏´‡∏ô‡πâ‡∏≤‡πÅ‡∏£‡∏Å</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/impersonal.gif" alt="" width="16" height="16">&nbsp;<a href="search_employee.php">¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></strong></td>
+                <td height="34"><strong><img src="../images/impersonal.gif" alt="" width="16" height="16">&nbsp;<a href="search_employee.php">‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></strong></td>
               </tr>
               <tr>
-                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15">&nbsp;<a href="Insertemployee.php">‡æ‘Ë¡¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</a></strong></td>
+                <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15">&nbsp;<a href="Insertemployee.php">‡πÄ‡∏û‡∏¥‡πà‡∏°‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</a></strong></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ÕÕ°®“°√–∫∫</a></strong></td>
+                <td width="100%" height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">‡∏≠‡∏≠‡∏Å‡∏à‡∏≤‡∏Å‡∏£‡∏∞‡∏ö‡∏ö</a></strong></td>
               </tr>
           </table></td>
         <td width="77%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
@@ -96,7 +96,7 @@ function CheckNum(){
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>√–∫∫¢Õ‡™Ë“‡§√◊ËÕß®—°√°≈ °√¡∑“ßÀ≈«ß ®—ßÀ«—¥¡À“ “√§“¡</strong></td>
+                <td width="47%"><strong>‡∏£‡∏∞‡∏ö‡∏ö‡∏Ç‡∏≠‡πÄ‡∏ä‡πà‡∏≤‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏à‡∏±‡∏Å‡∏£‡∏Å‡∏• ‡∏Å‡∏£‡∏°‡∏ó‡∏≤‡∏á‡∏´‡∏•‡∏ß‡∏á ‡∏à‡∏±‡∏á‡∏´‡∏ß‡∏±‡∏î‡∏°‡∏´‡∏≤‡∏™‡∏≤‡∏£‡∏Ñ‡∏≤‡∏°</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -105,7 +105,7 @@ function CheckNum(){
               <tr>
                 <td colspan="2"><table width="100%"  border="0" bgcolor="#99FFFF">
                   <tr>
-                    <td colspan="2"><strong>·°È‰¢¢ÈÕ¡Ÿ≈‡®È“ÀπÈ“∑’Ë</strong></td>
+                    <td colspan="2"><strong>‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà</strong></td>
                   </tr>
                   <tr>
                     <td>&nbsp;</td>
@@ -113,7 +113,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;√À— ‡®È“ÀπÈ“∑’Ë : </label>
+                      <label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡πÄ‡∏à‡πâ‡∏≤‡∏´‡∏ô‡πâ‡∏≤‡∏ó‡∏µ‡πà : </label>
                     </span></td>
                     <td bgcolor="#CCFFFF"><label for="txtID"></label>
                       <input type="text" name="txtID" id="txtID" value="<?=$row_show['emp_id']?>" />                      
@@ -121,7 +121,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;™◊ËÕ- °ÿ≈ : </label>
+                      <label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠-‡∏™‡∏Å‡∏∏‡∏• : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtName"></label>
                       <label for="txtName2"></label>
@@ -130,7 +130,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;µ”·ÀπËß : </label>
+                      <label>&nbsp;‡∏ï‡∏≥‡πÅ‡∏´‡∏ô‡πà‡∏á : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtPos"></label>
 					<select name="txtPos" id="txtPos">
@@ -145,14 +145,14 @@ function CheckNum(){
                     </select>					  </td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;«—π‡¥◊Õπª’‡°‘¥  : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;‡∏ß‡∏±‡∏ô‡πÄ‡∏î‡∏∑‡∏≠‡∏ô‡∏õ‡∏µ‡πÄ‡∏Å‡∏¥‡∏î  : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="txtBirth1"  size="10"  id="txtBirth1" value="<?=$row_show['brithday']?>" onKeyPress="CheckNum()"/><a href="javascript:NewCal('txtBirth1','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>
                       <span class="style2">*</span></td>
                   </tr>
                   
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;‡∫Õ√Ï‚∑√ : </label>
+                      <label>&nbsp;‡πÄ‡∏ö‡∏≠‡∏£‡πå‡πÇ‡∏ó‡∏£ : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="Phone"></label>
                       <input name="Phone" type="text" id="Phone" maxlength="10"  value="<?=$row_show['phone']?>" onKeyPress="CheckNum()" />
@@ -160,7 +160,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="40" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;∑’ËÕ¬ŸË : </label>
+                      <label>&nbsp;‡∏ó‡∏µ‡πà‡∏≠‡∏¢‡∏π‡πà : </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtAdd"></label>
                       <textarea name="txtAdd" id="txtAdd" cols="45" rows="5"><?=$row_show['address']?> </textarea>
@@ -168,14 +168,14 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="44" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;™◊ËÕ‡¢È“„™Èß“π : </label>
+                      <label>&nbsp;‡∏ä‡∏∑‡πà‡∏≠‡πÄ‡∏Ç‡πâ‡∏≤‡πÉ‡∏ä‡πâ‡∏á‡∏≤‡∏ô : </label>
 &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><input name="txtUser" type="text" id="txtUser" maxlength="15" value="<?=$row_show['emp_user']?>" />
                       <span class="style2">*</span></td>
                   </tr>
                   <tr>
                     <td height="44" align="right" bgcolor="#CCFFFF"><span class="style1">
-                      <label>&nbsp;√À— ºË“π : </label>
+                      <label>&nbsp;‡∏£‡∏´‡∏±‡∏™‡∏ú‡πà‡∏≤‡∏ô : </label>
 &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><input name="txtPass" type="text" id="txtPass" maxlength="15" value="<?=$row_show['emp_pass']?>" />
                       <span class="style2">*</span></td>
@@ -188,7 +188,7 @@ function CheckNum(){
                     <td height="44" bgcolor="#CCFFFF">&nbsp;</td>
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
-                        <td width="55"><input type="submit" name="Update" id="Update" value="·°È‰¢" /> <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" /></td>
+                        <td width="55"><input type="submit" name="Update" id="Update" value="‡πÅ‡∏Å‡πâ‡πÑ‡∏Ç" /> <input name="edit_id" type="hidden" id="edit_id" value="<?=$_REQUEST['edit_id']?>" /></td>
                         <td width="140">&nbsp;</td>
                       </tr>
                     </table></td>

@@ -3,8 +3,8 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<title>เธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
@@ -36,7 +36,7 @@
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              ชื่อผู้ใช้งาน : <?=$_SESSION['adm_name']?>
+              เธเธทเนเธญเธเธนเนเนเธเนเธเธฒเธ : <?=$_SESSION['adm_name']?>
             </center></td>
           </tr>
         </table>
@@ -49,16 +49,16 @@
           </table>
           <table width="91%" height="38"  border="0" align="center" bgcolor="#FFFFFF">
               <tr>
-                <td height="34"><span class="style6"><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></span></td>
+                <td height="34"><span class="style6"><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> เธซเธเนเธฒเนเธฃเธ</a></span></td>
               </tr>
               <tr>
-                <td height="34"><span class="style6"><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_type.php">ข้อมูลรุ่นเครื่องจักรกล</a></span></td>
+                <td height="34"><span class="style6"><img src="../images/edit.gif" alt="" width="15" height="15">&nbsp; <a href="search_type.php">เธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></span></td>
               </tr>
               <tr>
-                <td height="34"><span class="style6"><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addMachinType.php">เพิ่มข้อมูลรุ่นเครื่องจักรกล</a></span></td>
+                <td height="34"><span class="style6"><img src="../images/addg.GIF" alt="" width="15" height="15"> &nbsp;<a href="addMachinType.php">เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</a></span></td>
               </tr>
               <tr>
-                <td width="100%" height="34"><span class="style6"><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> ออกจากระบบ</a></span></td>
+                <td width="100%" height="34"><span class="style6"><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php"> เธญเธญเธเธเธฒเธเธฃเธฐเธเธ</a></span></td>
               </tr>
         </table></td>
         <td width="77%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
@@ -72,7 +72,7 @@
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง จังหวัดมหาสารคาม</strong></td>
+                <td width="47%"><strong>เธฃเธฐเธเธเธเธญเน€เธเนเธฒเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ เธเธฃเธกเธ—เธฒเธเธซเธฅเธงเธ เธเธฑเธเธซเธงเธฑเธ”เธกเธซเธฒเธชเธฒเธฃเธเธฒเธก</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -81,14 +81,14 @@
               <tr>
                 <td colspan="2"><table width="78%"  border="0" align="center" bgcolor="#CCFFFF">
                   <tr>
-                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style4">เพิ่มข้อมูลรุ่นเครื่องจักรกล</span></td>
+                    <td colspan="2" align="center" bgcolor="#99FFFF"><span class="style4">เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></td>
                   </tr>
                   <tr>
                     <td bgcolor="#CCFFFF">&nbsp;</td>
                     <td bgcolor="#CCFFFF">&nbsp;</td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style8">&nbsp;ชื่อรุ่นเครื่องจักรกล : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style8">&nbsp;เธเธทเนเธญเธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ : </span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="txtName" id="txtName"/>
                       <span class="style1">*</span></td>
                   </tr>
@@ -100,8 +100,8 @@
                     <td height="44" bgcolor="#CCFFFF">&nbsp;</td>
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
-                        <td width="55"><input type="submit" name="submit" id="submit" value="เพิ่มข้อมูล" /></td>
-                        <td width="140"><input type="reset" name="Reset" id="Reset" value="ล้างข้อมูล" /></td>
+                        <td width="55"><input type="submit" name="submit" id="submit" value="เน€เธเธดเนเธกเธเนเธญเธกเธนเธฅ" /></td>
+                        <td width="140"><input type="reset" name="Reset" id="Reset" value="เธฅเนเธฒเธเธเนเธญเธกเธนเธฅ" /></td>
                       </tr>
                     </table></td>
                   </tr>

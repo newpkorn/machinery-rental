@@ -5,7 +5,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -393,7 +393,7 @@ div.Section1
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:ตารางปกติ;
+	{mso-style-name:เธ•เธฒเธฃเธฒเธเธเธเธ•เธด;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -406,7 +406,7 @@ div.Section1
 	font-size:10.0pt;
 	font-family:"Calibri","sans-serif";}
 table.MsoTableGrid
-	{mso-style-name:เส้นตาราง;
+	{mso-style-name:เน€เธชเนเธเธ•เธฒเธฃเธฒเธ;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-priority:59;
@@ -445,7 +445,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>หมายเลยเครื่องจักรกล<o:p></o:p></span></p>
+  mso-hansi-font-family:Calibri'>เธซเธกเธฒเธขเน€เธฅเธขเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.65pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -453,7 +453,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>หมายเลขทะเบียน</span></p>
+  mso-hansi-font-family:Calibri'>เธซเธกเธฒเธขเน€เธฅเธเธ—เธฐเน€เธเธตเธขเธ</span></p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -461,7 +461,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ยี่ห้อเครื่องจักรกล</span></p>
+  mso-hansi-font-family:Calibri'>เธขเธตเนเธซเนเธญเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></p>
   </td>
   <td width=113 valign=top style='width:3.0cm;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -469,7 +469,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>รุ่นเครื่องจักรกล</span></p>
+  mso-hansi-font-family:Calibri'>เธฃเธธเนเธเน€เธเธฃเธทเนเธญเธเธเธฑเธเธฃเธเธฅ</span></p>
   </td>
   <td width=113 valign=top style='width:3.0cm;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -477,7 +477,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อัตราค่าเช่าสำหรับหน่วยงานภายนอก</span></p>
+  mso-hansi-font-family:Calibri'>เธญเธฑเธ•เธฃเธฒเธเนเธฒเน€เธเนเธฒเธชเธณเธซเธฃเธฑเธเธซเธเนเธงเธขเธเธฒเธเธ เธฒเธขเธเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -485,7 +485,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>พนักงานขับ</span></p>
+  mso-hansi-font-family:Calibri'>เธเธเธฑเธเธเธฒเธเธเธฑเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
@@ -525,7 +525,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>0/<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เดือน<o:p></o:p></span></p>
+  mso-hansi-font-family:Calibri'>เน€เธ”เธทเธญเธ<o:p></o:p></span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -572,7 +572,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>0/<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เดือน</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -619,7 +619,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>0/<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เดือน</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -666,7 +666,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>0/<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เดือน</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -711,7 +711,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>2049<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -720,7 +720,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อมร ไชยเวียน<o:p></o:p></span></p>
+  mso-hansi-font-family:Calibri'>เธญเธกเธฃ เนเธเธขเน€เธงเธตเธขเธ<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
@@ -737,7 +737,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อห </span>1158</p>
+  mso-hansi-font-family:Calibri'>เธญเธซ </span>1158</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -760,7 +760,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>23809<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -805,7 +805,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>28930<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -814,7 +814,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สินสมุทร ธรรมทินโน</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธดเธเธชเธกเธธเธ—เธฃ เธเธฃเธฃเธกเธ—เธดเธเนเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
@@ -831,7 +831,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อษ</span> 6326</p>
+  mso-hansi-font-family:Calibri'>เธญเธฉ</span> 6326</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -854,7 +854,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>22978<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -863,7 +863,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ทองอินทร์ จันทะ</span></p>
+  mso-hansi-font-family:Calibri'>เธ—เธญเธเธญเธดเธเธ—เธฃเน เธเธฑเธเธ—เธฐ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9'>
@@ -880,7 +880,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อษ </span>6335</p>
+  mso-hansi-font-family:Calibri'>เธญเธฉ </span>6335</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -903,7 +903,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>22978<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /เดือน</span></p>
+  mso-hansi-font-family:Calibri'> /เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -927,7 +927,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ชง </span>2906</p>
+  mso-hansi-font-family:Calibri'>เธเธ </span>2906</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -950,7 +950,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>27968<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /เดือน</span></p>
+  mso-hansi-font-family:Calibri'> /เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -959,7 +959,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ถาวร พรมภูวงศ์</span></p>
+  mso-hansi-font-family:Calibri'>เธ–เธฒเธงเธฃ เธเธฃเธกเธ เธนเธงเธเธจเน</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11'>
@@ -976,7 +976,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฌธ </span>7536</p>
+  mso-hansi-font-family:Calibri'>เธเธ </span>7536</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -999,7 +999,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>22978<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /เดือน</span></p>
+  mso-hansi-font-family:Calibri'> /เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1008,7 +1008,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สายใจ พลศรี</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธฒเธขเนเธ เธเธฅเธจเธฃเธต</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12'>
@@ -1025,7 +1025,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฏฬ </span>3809</p>
+  mso-hansi-font-family:Calibri'>เธเธฌ </span>3809</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1048,7 +1048,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>22978<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /เดือน</span></p>
+  mso-hansi-font-family:Calibri'> /เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1057,7 +1057,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สุดใจ บุตตะวงศ์</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธธเธ”เนเธ เธเธธเธ•เธ•เธฐเธงเธเธจเน</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13'>
@@ -1074,7 +1074,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>6<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ธ</span>-1031</p>
+  mso-hansi-font-family:Calibri'>เธ</span>-1031</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1097,7 +1097,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /เดือน</span></p>
+  mso-hansi-font-family:Calibri'> /เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1142,7 +1142,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1976<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /วัน</span></p>
+  mso-hansi-font-family:Calibri'> /เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1151,7 +1151,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สิทธิ เทพาศักดิ์</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธดเธ—เธเธด เน€เธ—เธเธฒเธจเธฑเธเธ”เธดเน</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15'>
@@ -1189,7 +1189,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1976<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /วัน</span></p>
+  mso-hansi-font-family:Calibri'> /เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1198,7 +1198,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อดุลย์ เทียมมาลา</span></p>
+  mso-hansi-font-family:Calibri'>เธญเธ”เธธเธฅเธขเน เน€เธ—เธตเธขเธกเธกเธฒเธฅเธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16'>
@@ -1236,7 +1236,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1976<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /วัน</span></p>
+  mso-hansi-font-family:Calibri'> /เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1245,7 +1245,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ทูลชัย ทำทอง</span></p>
+  mso-hansi-font-family:Calibri'>เธ—เธนเธฅเธเธฑเธข เธ—เธณเธ—เธญเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17'>
@@ -1262,7 +1262,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>รฐ </span>6885</p>
+  mso-hansi-font-family:Calibri'>เธฃเธ </span>6885</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1285,7 +1285,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1976<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /วัน</span></p>
+  mso-hansi-font-family:Calibri'> /เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1294,7 +1294,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ศิริ ภูไชยแสง</span></p>
+  mso-hansi-font-family:Calibri'>เธจเธดเธฃเธด เธ เธนเนเธเธขเนเธชเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18'>
@@ -1332,7 +1332,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1763<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /วัน</span></p>
+  mso-hansi-font-family:Calibri'> /เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1341,7 +1341,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ณรงค์ศักดิ์ วงศ์ศรีอาจ</span></p>
+  mso-hansi-font-family:Calibri'>เธ“เธฃเธเธเนเธจเธฑเธเธ”เธดเน เธงเธเธจเนเธจเธฃเธตเธญเธฒเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19'>
@@ -1379,7 +1379,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1763<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'> /วัน</span></p>
+  mso-hansi-font-family:Calibri'> /เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1388,7 +1388,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วิรัช แสนผุ</span></p>
+  mso-hansi-font-family:Calibri'>เธงเธดเธฃเธฑเธ เนเธชเธเธเธธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20'>
@@ -1405,7 +1405,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>7<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>บ</span>-3539</p>
+  mso-hansi-font-family:Calibri'>เธ</span>-3539</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1435,7 +1435,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อภิชาติ หาวิรส</span></p>
+  mso-hansi-font-family:Calibri'>เธญเธ เธดเธเธฒเธ•เธด เธซเธฒเธงเธดเธฃเธช</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21'>
@@ -1452,7 +1452,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ถข </span>258</p>
+  mso-hansi-font-family:Calibri'>เธ–เธ </span>258</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1475,7 +1475,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>2845<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1484,7 +1484,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เสถียร เนื่องชัยยศ</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธชเธ–เธตเธขเธฃ เน€เธเธทเนเธญเธเธเธฑเธขเธขเธจ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:22'>
@@ -1501,7 +1501,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ถข</span> 461</p>
+  mso-hansi-font-family:Calibri'>เธ–เธ</span> 461</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1524,7 +1524,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>2782<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน<o:p></o:p></span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ<o:p></o:p></span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1533,7 +1533,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ประเวส โสจันทร์</span></p>
+  mso-hansi-font-family:Calibri'>เธเธฃเธฐเน€เธงเธช เนเธชเธเธฑเธเธ—เธฃเน</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23'>
@@ -1550,7 +1550,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ถข ภถต<o:p></o:p></span></p>
+  mso-hansi-font-family:Calibri'>เธ–เธ เธ เธ–เธ•<o:p></o:p></span></p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1573,7 +1573,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>2782<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1582,7 +1582,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ณรงค์ รินทะลึก</span></p>
+  mso-hansi-font-family:Calibri'>เธ“เธฃเธเธเน เธฃเธดเธเธ—เธฐเธฅเธถเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:24'>
@@ -1599,7 +1599,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>3<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ต</span>-8014</p>
+  mso-hansi-font-family:Calibri'>เธ•</span>-8014</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1622,7 +1622,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>562<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1631,7 +1631,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>คำสิงห์ สุคำภา</span></p>
+  mso-hansi-font-family:Calibri'>เธเธณเธชเธดเธเธซเน เธชเธธเธเธณเธ เธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:25'>
@@ -1648,7 +1648,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>4<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ต</span>-8739</p>
+  mso-hansi-font-family:Calibri'>เธ•</span>-8739</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1671,7 +1671,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>562<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1680,7 +1680,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ไพรวรรณ นีรสิงห์</span></p>
+  mso-hansi-font-family:Calibri'>เนเธเธฃเธงเธฃเธฃเธ“ เธเธตเธฃเธชเธดเธเธซเน</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:26'>
@@ -1697,7 +1697,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>3<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ต</span>-4553</p>
+  mso-hansi-font-family:Calibri'>เธ•</span>-4553</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1720,7 +1720,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>562<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1729,7 +1729,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สุภาพ จำปีหอม</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธธเธ เธฒเธ เธเธณเธเธตเธซเธญเธก</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:27'>
@@ -1746,7 +1746,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>4<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ต</span>-8446</p>
+  mso-hansi-font-family:Calibri'>เธ•</span>-8446</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1769,7 +1769,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>562<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1778,7 +1778,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สุพจน์ คลังพระศรี</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธธเธเธเธเน เธเธฅเธฑเธเธเธฃเธฐเธจเธฃเธต</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:28'>
@@ -1795,7 +1795,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อย </span>4670</p>
+  mso-hansi-font-family:Calibri'>เธญเธข </span>4670</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1818,7 +1818,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1827,7 +1827,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>มนัส พิเศก</span></p>
+  mso-hansi-font-family:Calibri'>เธกเธเธฑเธช เธเธดเน€เธจเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:29'>
@@ -1844,7 +1844,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วน </span>1597</p>
+  mso-hansi-font-family:Calibri'>เธงเธ </span>1597</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1860,7 +1860,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:10.0pt'>SUPER CAB XLT(4x4) OPEN CAB WL-T(</span><span
   lang=TH style='font-size:10.0pt;font-family:"Cordia New","sans-serif";
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>สองประตู</span><span
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>เธชเธญเธเธเธฃเธฐเธ•เธน</span><span
   style='font-size:10.0pt'>)</span><span lang=TH style='font-size:10.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri'><o:p></o:p></span></p>
@@ -1872,7 +1872,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1881,7 +1881,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ไพฑูรย์ เนื่องยางศรี</span></p>
+  mso-hansi-font-family:Calibri'>เนเธเธ‘เธนเธฃเธขเน เน€เธเธทเนเธญเธเธขเธฒเธเธจเธฃเธต</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:30'>
@@ -1898,7 +1898,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วน </span>1614</p>
+  mso-hansi-font-family:Calibri'>เธงเธ </span>1614</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1914,7 +1914,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:10.0pt'>DOUBLE CAB XL(4x2) (</span><span
   lang=TH style='font-size:10.0pt;font-family:"Cordia New","sans-serif";
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>สี่ประตู</span><span
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>เธชเธตเนเธเธฃเธฐเธ•เธน</span><span
   style='font-size:10.0pt'>)<o:p></o:p></span></p>
   </td>
   <td width=113 valign=top style='width:3.0cm;border-top:none;border-left:none;
@@ -1924,7 +1924,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1933,7 +1933,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สมเกียรติ พรรณะ</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธกเน€เธเธตเธขเธฃเธ•เธด เธเธฃเธฃเธ“เธฐ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:31'>
@@ -1950,7 +1950,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วน</span>1616</p>
+  mso-hansi-font-family:Calibri'>เธงเธ</span>1616</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1966,7 +1966,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:10.0pt'>SUPER CAB XLT(4x4) OPEN CAB WL-T(</span><span
   lang=TH style='font-size:10.0pt;font-family:"Cordia New","sans-serif";
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>สองประตู</span><span
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>เธชเธญเธเธเธฃเธฐเธ•เธน</span><span
   style='font-size:10.0pt'>)</span></p>
   </td>
   <td width=113 valign=top style='width:3.0cm;border-top:none;border-left:none;
@@ -1976,7 +1976,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2000,7 +2000,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อษ </span>9718</p>
+  mso-hansi-font-family:Calibri'>เธญเธฉ </span>9718</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2023,7 +2023,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2032,7 +2032,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>พิชัย พลลา<o:p></o:p></span></p>
+  mso-hansi-font-family:Calibri'>เธเธดเธเธฑเธข เธเธฅเธฅเธฒ<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:33'>
@@ -2049,7 +2049,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อษ</span> 9716</p>
+  mso-hansi-font-family:Calibri'>เธญเธฉ</span> 9716</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2072,7 +2072,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2096,7 +2096,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค </span>9469</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ </span>9469</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2119,7 +2119,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2128,7 +2128,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วิสิทธ์ เทศพรม</span></p>
+  mso-hansi-font-family:Calibri'>เธงเธดเธชเธดเธ—เธเน เน€เธ—เธจเธเธฃเธก</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:35'>
@@ -2145,7 +2145,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9471</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9471</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2168,7 +2168,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2177,7 +2177,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>กมล พันเสนา</span></p>
+  mso-hansi-font-family:Calibri'>เธเธกเธฅ เธเธฑเธเน€เธชเธเธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:36'>
@@ -2194,7 +2194,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9473</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9473</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2217,7 +2217,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2226,7 +2226,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>จำรัส เนื่องวงศ์ษา</span></p>
+  mso-hansi-font-family:Calibri'>เธเธณเธฃเธฑเธช เน€เธเธทเนเธญเธเธงเธเธจเนเธฉเธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:37'>
@@ -2243,7 +2243,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9475</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9475</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2266,7 +2266,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2275,7 +2275,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วัน บุญเหล้า</span></p>
+  mso-hansi-font-family:Calibri'>เธงเธฑเธ เธเธธเธเน€เธซเธฅเนเธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:38'>
@@ -2292,7 +2292,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9477</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9477</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2315,7 +2315,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2324,7 +2324,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>อวยชัย สิงขรอาจ</span></p>
+  mso-hansi-font-family:Calibri'>เธญเธงเธขเธเธฑเธข เธชเธดเธเธเธฃเธญเธฒเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:39'>
@@ -2341,7 +2341,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9421</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9421</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2364,7 +2364,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2373,7 +2373,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สาคร จองศรีกระยอม</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธฒเธเธฃ เธเธญเธเธจเธฃเธตเธเธฃเธฐเธขเธญเธก</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:40'>
@@ -2390,7 +2390,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9420</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9420</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2413,7 +2413,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2437,7 +2437,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ฮค</span> 9418</p>
+  mso-hansi-font-family:Calibri'>เธฎเธ</span> 9418</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2460,7 +2460,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>12160<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2469,7 +2469,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วิทยา เทพาคำ</span></p>
+  mso-hansi-font-family:Calibri'>เธงเธดเธ—เธขเธฒ เน€เธ—เธเธฒเธเธณ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:42'>
@@ -2486,7 +2486,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ชฬ </span>4541</p>
+  mso-hansi-font-family:Calibri'>เธเธฌ </span>4541</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2509,7 +2509,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2518,7 +2518,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สาย ศรีเมือง</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธฒเธข เธจเธฃเธตเน€เธกเธทเธญเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:43'>
@@ -2535,7 +2535,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ญก </span>4783</p>
+  mso-hansi-font-family:Calibri'>เธเธ </span>4783</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2558,7 +2558,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2567,7 +2567,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ทวีเกียรติ์ โหมดทอง</span></p>
+  mso-hansi-font-family:Calibri'>เธ—เธงเธตเน€เธเธตเธขเธฃเธ•เธดเน เนเธซเธกเธ”เธ—เธญเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:44'>
@@ -2584,7 +2584,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ญก</span> 4637</p>
+  mso-hansi-font-family:Calibri'>เธเธ</span> 4637</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2607,7 +2607,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2616,9 +2616,9 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>มนูญ</span><span lang=TH> </span><span
+  mso-hansi-font-family:Calibri'>เธกเธเธนเธ</span><span lang=TH> </span><span
   lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;font-family:"Cordia New","sans-serif";
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>บำรุง<o:p></o:p></span></p>
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>เธเธณเธฃเธธเธ<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:45'>
@@ -2635,7 +2635,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ญก</span> 4749</p>
+  mso-hansi-font-family:Calibri'>เธเธ</span> 4749</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2658,7 +2658,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2667,7 +2667,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เสนอ มาสิงห์</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธชเธเธญ เธกเธฒเธชเธดเธเธซเน</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:46'>
@@ -2684,7 +2684,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ญก</span> 4696</p>
+  mso-hansi-font-family:Calibri'>เธเธ</span> 4696</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2707,7 +2707,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2716,7 +2716,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สำรอง ตีชา</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธณเธฃเธญเธ เธ•เธตเธเธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:47'>
@@ -2733,7 +2733,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ญก</span> 4583</p>
+  mso-hansi-font-family:Calibri'>เธเธ</span> 4583</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2756,7 +2756,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2765,7 +2765,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ทองพันธ์ พลแสน</span></p>
+  mso-hansi-font-family:Calibri'>เธ—เธญเธเธเธฑเธเธเน เธเธฅเนเธชเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:48'>
@@ -2782,7 +2782,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ญก</span> 4801</p>
+  mso-hansi-font-family:Calibri'>เธเธ</span> 4801</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2805,7 +2805,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>14686<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2814,7 +2814,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วิชัย จำนงศรี</span></p>
+  mso-hansi-font-family:Calibri'>เธงเธดเธเธฑเธข เธเธณเธเธเธจเธฃเธต</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:49'>
@@ -2852,7 +2852,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>5124<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2861,7 +2861,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เขียน พลเพ็ง</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธเธตเธขเธ เธเธฅเน€เธเนเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:50'>
@@ -2899,7 +2899,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>5679<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2908,7 +2908,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สุรศักดิ์ อันปัญญา</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธธเธฃเธจเธฑเธเธ”เธดเน เธญเธฑเธเธเธฑเธเธเธฒ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:51'>
@@ -2955,7 +2955,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ไสว อุทัยคำ</span></p>
+  mso-hansi-font-family:Calibri'>เนเธชเธง เธญเธธเธ—เธฑเธขเธเธณ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:52'>
@@ -2993,7 +2993,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>3636<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3038,7 +3038,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>3636<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3047,7 +3047,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>วรวิฒิ พันธ์โยศรี</span></p>
+  mso-hansi-font-family:Calibri'>เธงเธฃเธงเธดเธ’เธด เธเธฑเธเธเนเนเธขเธจเธฃเธต</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:54'>
@@ -3064,7 +3064,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ตฉ </span>534</p>
+  mso-hansi-font-family:Calibri'>เธ•เธ </span>534</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3087,7 +3087,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>625<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3111,7 +3111,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ตฉ</span> 2951</p>
+  mso-hansi-font-family:Calibri'>เธ•เธ</span> 2951</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3134,7 +3134,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>625<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3158,7 +3158,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>4<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ต</span>-8667</p>
+  mso-hansi-font-family:Calibri'>เธ•</span>-8667</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3181,7 +3181,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>2847<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3190,7 +3190,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>สุดสาคร ธรรมทินโน</span></p>
+  mso-hansi-font-family:Calibri'>เธชเธธเธ”เธชเธฒเธเธฃ เธเธฃเธฃเธกเธ—เธดเธเนเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:57'>
@@ -3207,7 +3207,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ตฉ</span> 3040</p>
+  mso-hansi-font-family:Calibri'>เธ•เธ</span> 3040</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3230,7 +3230,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>562<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/วัน</span></p>
+  mso-hansi-font-family:Calibri'>/เธงเธฑเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3239,7 +3239,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>เสถียร ศักดาสะ</span></p>
+  mso-hansi-font-family:Calibri'>เน€เธชเธ–เธตเธขเธฃ เธจเธฑเธเธ”เธฒเธชเธฐ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:58'>
@@ -3256,7 +3256,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ตต </span>9251</p>
+  mso-hansi-font-family:Calibri'>เธ•เธ• </span>9251</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3279,7 +3279,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>724<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3288,7 +3288,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>จำเริญ ริ่มเย็น</span></p>
+  mso-hansi-font-family:Calibri'>เธเธณเน€เธฃเธดเธ เธฃเธดเนเธกเน€เธขเนเธ</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:59'>
@@ -3305,7 +3305,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>ตท </span>8611</p>
+  mso-hansi-font-family:Calibri'>เธ•เธ— </span>8611</p>
   </td>
   <td width=107 valign=top style='width:80.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3328,7 +3328,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>882<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/ชั่วโมง</span></p>
+  mso-hansi-font-family:Calibri'>/เธเธฑเนเธงเนเธกเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3373,7 +3373,7 @@ table.MsoTableGrid
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'>1569<span lang=TH style='font-size:14.0pt;mso-ansi-font-size:11.0pt;
   font-family:"Cordia New","sans-serif";mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri'>/เดือน</span></p>
+  mso-hansi-font-family:Calibri'>/เน€เธ”เธทเธญเธ</span></p>
   </td>
   <td width=125 valign=top style='width:93.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;

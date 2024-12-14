@@ -5,14 +5,14 @@ include("../inc_connect.php"); ?>
 <html>
 <head>
 <title>Machinery Rental for Department of Highways of Mahasarakham</title>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../css/css1.css" rel="stylesheet" type="text/css">
  
    		<script language="javascript">
 function CheckNum(){
 		if (event.keyCode < 48 || event.keyCode > 57){
 		      event.returnValue = false;
-			  alert( '��͡��੾�е���Ţ 0-9 ' );
+			  alert( 'กรอกได้เฉพาะตัวเลข 0-9 ' );
 	    	}
 	}
 </script>
@@ -42,7 +42,7 @@ function CheckNum(){
         <td width="23%" height="114" bgcolor="#E7E6E6"><table width="100%" height="49"  border="0">
           <tr>
             <td width="100%" height="45"><center>
-              <span class="style3">���ͼ����ҹ</span>: : <?=$_SESSION['emp_name']?>
+              <span class="style3">ชื่อผู้ใช้งาน</span>: : <?=$_SESSION['emp_name']?>
             </center></td>
           </tr>
         </table>
@@ -55,16 +55,16 @@ function CheckNum(){
           </table>
           <table width="91%" height="146"  border="0" align="center" bgcolor="#FFFFFF">
             <tr>
-              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> ˹���á</a></strong></td>
+              <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php"> หน้าแรก</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/users.png" alt="" width="16" height="16">&nbsp;<a href="search_member.php">��������Ҫԡ</a></strong></td>
+              <td height="34"><strong><img src="../images/users.png" alt="" width="16" height="16">&nbsp;<a href="search_member.php">ข้อมูลสมาชิก</a></strong></td>
             </tr>
 			  <tr>
-              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> <a href="InsertMember.php">������������Ҫԡ</a></strong></td>
+              <td height="34"><strong><img src="../images/addg.GIF" alt="" width="15" height="15"> <a href="InsertMember.php">เพิ่มข้อมูลสมาชิก</a></strong></td>
             </tr>
             <tr>
-              <td height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">�͡�ҡ�к�</a></strong></td>
+              <td height="34"><strong><img src="../images/logout.gif" alt="" width="16" height="16">&nbsp;<a href="../logout.php">ออกจากระบบ</a></strong></td>
             </tr>
           </table>
         </td>
@@ -79,7 +79,7 @@ function CheckNum(){
             <td background="../images/rim_05.gif"><img src="../images/rim_05.gif" width="20" height="11" alt=""></td>
             <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
               <tr>
-                <td width="47%"><strong>�к����������ͧ�ѡá� ����ҧ��ǧ �ѧ��Ѵ�����ä��</strong></td>
+                <td width="47%"><strong>ระบบขอเช่าเครื่องจักรกล กรมทางหลวง จังหวัดมหาสารคาม</strong></td>
                 <td width="53%" align="right">&nbsp;</td>
               </tr>
               <tr>
@@ -96,7 +96,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;����-ʡ��</label>
+                      <label>&nbsp;ชื่อ-สกุล</label>
                       :                      &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtName"></label>
                       <input name="txtName" type="text" id="txtName" />
@@ -104,7 +104,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="70" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;��</label>
+                      <label>&nbsp;เพศ</label>
                       :                      &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><table width="168" border="0">
                       <tr>
@@ -112,7 +112,7 @@ function CheckNum(){
                           <input type="radio" name="sex" id="sex" value="male"  checked="checked"/>
                           <label for="sex"></label></td>
                         <td width="121"><span class="style2">
-                          <label>���</label>
+                          <label>ชาย</label>
                           &nbsp;</span></td>
                       </tr>
                       <tr>
@@ -120,26 +120,26 @@ function CheckNum(){
                           <input type="radio" name="sex" id="sex1" value="female" />
                           <label for="sex1"></label></td>
                         <td><span class="style2">
-                          <label>˭ԧ</label>
+                          <label>หญิง</label>
                           &nbsp;</span></td>
                       </tr>
                     </table></td>
                   </tr>
                   <tr>
-                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">&nbsp;�ѹ��͹���Դ : </span></td>
+                    <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">&nbsp;วันเดือนปีเกิด : </span></td>
                     <td  width="20%" bgcolor="#CCFFFF"><input type="text" name="StartDate" size="10"  id="StartDate[]" value="<?=$StartDate?>" onKeyPress="CheckNum()"/>
                       <a href="javascript:NewCal('StartDate[]','ddmmyyyy')"> <img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"> <span class="style4">* </span></a></td>
                   </tr>
                   <tr>
                     <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>����</label>
+                      <label>อายุ</label>
 :</span> </td>
                     <td bgcolor="#CCFFFF"><input name="txtAge" type="text" id="txtAge" onKeyPress="CheckNum()" size = "2" maxlength="2" />
                       <span class="style4">*</span></td>
                   </tr>
                   <tr>
                     <td height="43" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;�Ţ�ѵû�Шӵ�ǻ�ЪҪ�: </label>
+                      <label>&nbsp;เลขบัตรประจำตัวประชาชน: </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="txtCode"></label>
                       <input name="txtCode" type="text" id="txtCode" onKeyPress="CheckNum()" maxlength="13" />
@@ -147,14 +147,14 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>�ѹ�͡�ѵ�</label>
+                      <label>วันออกบัตร</label>
 :</span></td>
                     <td bgcolor="#CCFFFF"><input type="text" name="dateIssue" size="10"  id="dateIssue[]" value="<?=$dateIssue?>" onKeyPress="CheckNum()"/>
                       <a href="javascript:NewCal('dateIssue[]','ddmmyyyy')"> <img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"> </a><a href="javascript:NewCal('dateIssue[]','ddmmyyyy')"><span class="style4">* </span></a></td>
                   </tr>
                   <tr>
                     <td height="45" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;������: </label>
+                      <label>&nbsp;เบอร์โทร: </label>
                       &nbsp;</span></td>
                     <td bgcolor="#CCFFFF"><label for="Phone"></label>
                       <input name="Phone" type="text" id="Phone" onKeyPress="CheckNum()" maxlength="10"  />
@@ -162,7 +162,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="40" align="right" bgcolor="#CCFFFF"><span class="style2">
-                      <label>&nbsp;������� :  </label>
+                      <label>&nbsp;ที่อยู่ :  </label>
                       &nbsp;</span></td>
                     <td valign="top" bgcolor="#CCFFFF"><label for="txtAdd"></label>
                       <textarea name="txtAdd" id="txtAdd" cols="45" rows="5"></textarea>
@@ -176,8 +176,8 @@ function CheckNum(){
                     <td height="44" bgcolor="#CCFFFF">&nbsp;</td>
                     <td bgcolor="#CCFFFF"><table width="114" border="0">
                       <tr>
-                        <td width="55"><input type="submit" name="submit" id="submit" value="����"  /></td>
-                        <td width="140"><input type="reset" name="Reset" id="Reset" value="������" /></td>
+                        <td width="55"><input type="submit" name="submit" id="submit" value="เพิ่ม"  /></td>
+                        <td width="140"><input type="reset" name="Reset" id="Reset" value="เคลียร์" /></td>
                       </tr>
                     </table></td>
                   </tr>

@@ -1,5 +1,5 @@
 <? @session_start(); include("../inc_connect.php"); ?>
-<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <body>
 	<?php 
 
@@ -9,18 +9,18 @@
 	$idPos = $_POST['txtPosID'];
 	$name = $_POST['txtName'];
 	$id = $_REQUEST['edit_id'];
-	// แก้ไขข้อมูล
+	// เนเธเนเนเธเธเนเธญเธกเธนเธฅ
 	//$id = $_REQUEST['edit_id'];
 	$sql_edit = "update tb_position set name = '$name' 
 	where pos_id = '$id'"; 
 	mysql_query($sql_edit) or die(mysql_error());
  
-		echo"<SCRIPT>alert('แก้ไขข้อมูลของ $name  สำเร็จแล้ว'); </SCRIPT>";
+		echo"<SCRIPT>alert('เนเธเนเนเธเธเนเธญเธกเธนเธฅเธเธญเธ $name  เธชเธณเน€เธฃเนเธเนเธฅเนเธง'); </SCRIPT>";
 	 echo "<meta http-equiv='refresh' content='0; url=search_position.php'>";
 	//-->
 }
 
-//เรียกข้อมูลจาก รหัส มาแสดงใน textbox
+//เน€เธฃเธตเธขเธเธเนเธญเธกเธนเธฅเธเธฒเธ เธฃเธซเธฑเธช เธกเธฒเนเธชเธ”เธเนเธ textbox
 	if($_REQUEST['edit_id'] != "")
 	{
 		$id = $_REQUEST['edit_id'];
