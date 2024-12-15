@@ -42,7 +42,7 @@
   <body>
     <table width="1000" border="0" cellpadding="0" cellspacing="0">
       <tr valign="top">
-        <td colspan="2"><? include("inc_header.php"); ?></td>
+        <td colspan="2"><?php include_once("inc_header.php"); ?></td>
       </tr>
       <tr valign="top">
         <td height="5" colspan="2" bgcolor="#E7E6E6"></td>

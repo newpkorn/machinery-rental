@@ -1,14 +1,18 @@
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "12345678";
-    $dbname = "machinery";
+$host = "localhost";
+$username = "root";
+$password = "12345678";
+$db = "machinery";
 
-    try {
-        $pdo = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
-        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    } catch (PDOException $e) {
-        echo "Connection failed: " . $e->getMessage();
-        exit;
-    }
-?>
+// Create a connection using mysqli_connect
+$conn = mysqli_connect($host, $username, $password, $db);
+
+// Check if the connection was successful
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+
+// Set the character set (optional, based on your database setup)
+mysqli_set_charset($conn, "utf8");
+
+// Your database operations can go here...

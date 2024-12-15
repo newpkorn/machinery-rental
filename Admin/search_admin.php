@@ -1,47 +1,54 @@
 <?php
 session_start();
-include("../inc_connect.php"); // ตรวจสอบว่าไฟล์นี้ถูกนำเข้าแล้ว
+include("../inc_connect.php");
 
-// ตรวจสอบการเชื่อมต่อ PDO
-if (!$pdo) {
-    die("Database connection failed.");
+if (!$conn) {
+  die("Database connection failed: " . mysqli_connect_error());
 }
-// ใช้การเตรียมคำสั่ง SQL (Prepared Statement) เพื่อป้องกัน SQL Injection
+
 if (isset($_POST['Submit'])) {
-  $txt_search = htmlspecialchars($_POST['txtKeyword']); // ป้องกัน XSS
+  $txt_search = htmlspecialchars($_POST['txtKeyword']);
   $fields = $_POST['fields'];
 
   switch ($fields) {
     case '1':
       $sql_show = "SELECT * FROM tb_admin
-                         JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id
-                         WHERE adm_id LIKE :txt_search";
+                  JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id
+                  WHERE adm_id LIKE ?";
       break;
     case '2':
       $sql_show = "SELECT * FROM tb_admin
-                         JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id
-                         WHERE adm_name LIKE :txt_search";
+                  JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id
+                  WHERE adm_name LIKE ?";
       break;
     case '3':
       $sql_show = "SELECT * FROM tb_admin
-                         JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id
-                         WHERE adm_birth LIKE :txt_search";
+                  JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id
+                  WHERE adm_birth LIKE ?";
       break;
     default:
       $sql_show = "SELECT * FROM tb_admin
-                         JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id";
+                  JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id";
       break;
   }
 
-  $stmt = $pdo->prepare($sql_show);
-  $stmt->bindValue(':txt_search', '%' . $txt_search . '%');
-  $stmt->execute();
-  $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+  if ($stmt = mysqli_prepare($conn, $sql_show)) {
+    if ($fields !== 'default') {
+      $txt_search = '%' . $txt_search . '%';
+      mysqli_stmt_bind_param($stmt, "s", $txt_search);
+    }
+
+    mysqli_stmt_execute($stmt);
+    $result = mysqli_stmt_get_result($stmt);
+    $results = mysqli_fetch_all($result, MYSQLI_ASSOC);
+  } else {
+    $results = [];
+  }
 } else {
   $sql_show = "SELECT * FROM tb_admin
-                 JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id";
-  $stmt = $pdo->query($sql_show);
-  $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+              JOIN tb_position ON tb_admin.Position_id = tb_position.pos_id";
+  $result = mysqli_query($conn, $sql_show);
+  $results = mysqli_fetch_all($result, MYSQLI_ASSOC);
 }
 ?>
 
@@ -64,6 +71,10 @@ if (isset($_POST['Submit'])) {
       .style3 {
         color: #FFFFFF;
         font-weight: bold;
+      }
+
+      .main-menu {
+        border-radius: 10px;
       }
       -->
     </style>
@@ -102,7 +113,7 @@ if (isset($_POST['Submit'])) {
               <tr>
                 <td width="100%" height="48">
                   <center>
-                    <table width="94%" height="146" border="0" bgcolor="#FFFFFF">
+                    <table class="main-menu" width="94%" height="146" border="0" bgcolor="#FFFFFF">
                       <tr>
                         <td height="34"><strong><img src="../images/home.gif" alt="" width="16" height="14"><a href="Menu_Detail.php">หน้าแรก</a></strong></td>
                       </tr>
@@ -124,8 +135,8 @@ if (isset($_POST['Submit'])) {
           <td width="77%">
             <table width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
               <tr>
-                <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF">
-                  <table width="100%" border="0">
+                <td colspan="2" rowspan="0" valign="top" bgcolor="#FFFFFF">
+                  <table width="100%" border="0" >
                     <tr>
                       <td width="48%" colspan="2"><strong>ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </strong></td>
                     </tr>
@@ -140,7 +151,7 @@ if (isset($_POST['Submit'])) {
                             <td colspan="2" align="center">
                               <form id="form1" name="form1" method="post" action="search_admin.php">
                                 คำที่ต้องการค้นหา
-                                <input name="txtKeyword" type="text" id="txtKeyword" value="<?= htmlspecialchars($_POST["txtKeyword"]); ?>" />
+                                <input name="txtKeyword" type="text" id="txtKeyword" value="<?= htmlspecialchars($_POST["txtKeyword"] ?? '') ?>" />
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จาก
                                 <select name="fields">
                                   <option value="1" selected="selected">รหัส</option>
@@ -188,10 +199,10 @@ if (isset($_POST['Submit'])) {
                                     <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['adm_name'] ?></td>
                                     <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['pos_name'] ?></td>
                                     <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['adm_user'] ?></td>
-                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['adm_tel'] ?></td>
-                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['adm_address'] ?></td>
-                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF" align="center"><a href="edit_admin.php?adm_id=<?= $row_show['adm_id'] ?>">แก้ไข</a></td>
-                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF" align="center"><a href="del_admin.php?adm_id=<?= $row_show['adm_id'] ?>" onClick="return Conf(this)">ลบ</a></td>
+                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['phone'] ?></td>
+                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF"><?= $row_show['address'] ?></td>
+                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF" align="center"><a href="editAdmin.php?edit_id=<?= $row_show['adm_id'] ?>"><img src="../images/edit.gif" alt="" width="15" height="15"></a></a></td>
+                                    <td bordercolor="#0066FF" bgcolor="#CCFFFF" align="center"><a href="del_admin.php?del_id=<?= $row_show['adm_id'] ?>" onClick='return Conf(this)' ><img src="../images/delete.gif" alt="" width="15" height="15"></a></td>
                                   </tr>
                                 <?php endforeach; ?>
                               </table>

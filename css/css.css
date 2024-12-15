@@ -51,8 +51,3 @@ A:active {
 .link-blue:hover {
   text-decoration: underline;
 }
-
-.active {
-  color: red;
-  font-weight: bold;
-}

@@ -146,7 +146,7 @@ function CheckNum(){
                   </tr>
                   <tr>
                     <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;วันเดือนปีเกิด  : </span></td>
-                    <td bgcolor="#CCFFFF"><input type="text" name="txtBirth1"  size="10"  id="txtBirth1" value="<?=$row_show['brithday']?>" onKeyPress="CheckNum()"/><a href="javascript:NewCal('txtBirth1','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>
+                    <td bgcolor="#CCFFFF"><input type="text" name="txtBirth1"  size="10"  id="txtBirth1" value="<?=$row_show['birthday']?>" onKeyPress="CheckNum()"/><a href="javascript:NewCal('txtBirth1','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>
                       <span class="style2">*</span></td>
                   </tr>
                   

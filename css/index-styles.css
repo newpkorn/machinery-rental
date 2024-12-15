@@ -1,0 +1,19 @@
+.container {
+  background-color: #e7e6e6;
+  width: 100px;
+}
+
+.machine-preview {
+  margin: auto;
+  background-color: white;
+  border-radius: 15px;
+  width: 95%;
+}
+
+.welcome-text {
+  color: blue;
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 20px;
+}

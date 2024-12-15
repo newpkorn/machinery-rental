@@ -19,7 +19,7 @@
 	// แก้ไขข้อมูล
 	//$id = $_REQUEST['edit_id'];
 	$sql_edit = "update tb_employee set 
-	emp_id = '$memid', emp_name='$txtNamexx', address = '$add' , phone = '$phone', Position_id = '$position', brithday='$txtBirth1', emp_user = '$user', emp_pass = '$pass' where emp_id = '$edit_id'"; 
+	emp_id = '$memid', emp_name='$txtNamexx', address = '$add' , phone = '$phone', Position_id = '$position', birthday='$txtBirth1', emp_user = '$user', emp_pass = '$pass' where emp_id = '$edit_id'"; 
 	mysql_query($sql_edit) or die(mysql_error());
 
 		echo"<SCRIPT>alert('แก้ไขข้อมูลของ $txtNamexx  สำเร็จแล้ว'); </SCRIPT>";
