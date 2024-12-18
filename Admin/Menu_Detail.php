@@ -102,7 +102,7 @@ include("../inc_connect.php");
                                       </tr>
                                       <tr>
                                         <td height="92" align="center">
-                                          <a href="search_machin.php"><img src="../images/cat2-1246522068.jpg" alt="" width="128" height="99"></a><br>ข้อมูลเครื่องจักรกล
+                                          <a href="search_machin.php"><img src="../images/cat2-1246522068.jpg" alt="" width="128" height="99"><br>ข้อมูลเครื่องจักรกล</a>
                                         </td>
                                         <td align="center">
                                           <a href="search_type.php"><img src="../images/icon_report.png" alt="" width="128" height="99"><br>ข้อมูลรุ่นเครื่องจักรกล</a>

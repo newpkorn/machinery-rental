@@ -1,113 +1,118 @@
-<? include("inc_connect.php"); ?>
+<?php include("inc_connect.php"); ?>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<Center>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-<HTML xmlns="http://www.w3.org/1999/xhtml">
-<style type="text/css">
-<!--
-.style53 {color: #3399FF}
-.style55 {color: #0000FF}
-.style56 {color: #CC9900}
--->
-</style>
-<HEAD><TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="css/css.css" rel="stylesheet" type="text/css">
-
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-function validate(){
-	var f = document.login;
-	if (f.username.value=="") 	{
-		alert("กรุณาป้อนชื่อผู้ใช้งาน.");`
-		f.username.focus();
-		return false;
-	}
-	if (f.password.value=="") 	{
-		alert("กรุณาป้อนรหัสผ่าน.");
-		f.password.focus();
-		return false;
-	}
-}
-//  End -->
-</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <TITLE>: : ระบบขอเช่าเครื่องจักรกล กรมทางหลวงมหาสารคาม : :</TITLE>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="./css/css.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-<table width="1000"  border="0" cellpadding="0" cellspacing="0">
-  <tr valign="top">
-    <td colspan="2"><? include("inc_header.php"); ?></td>
-  </tr>
-  <tr valign="top">
-    <td height="5" colspan="2" bgcolor="#E7E6E6"></td>
-  </tr>
-  <tr valign="top">
-    <td width="13%" height="114" align="center" bgcolor="#E7E6E6">	<?include("menu.php");?></td>
-    <td width="60%"><table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
-      <tr>
-        <td width="20"> <img src="images/rim_01.gif" width="20" height="22" alt=""></td>
-        <td background="images/rim_02.gif"> <img src="images/rim_02.gif" width="8" height="22" alt=""></td>
-        <td background="images/rim_02.gif">&nbsp; </td>
-        <td width="23"> <img src="images/rim_04.gif" width="23" height="22" alt=""></td>
+  <Center>
+    <style type="text/css">
+      <!--
+      .style53 {
+        color: #3399FF
+      }
+
+      .style55 {
+        color: #0000FF
+      }
+
+      .style56 {
+        color: #CC9900
+      }
+      -->
+    </style>
+    <SCRIPT LANGUAGE="JavaScript">
+      <!-- Begin
+      function validate() {
+        var f = document.login;
+        if (f.username.value == "") {
+          alert("กรุณาป้อนชื่อผู้ใช้งาน.");
+          `
+            f.username.focus();
+            return false;
+          }
+          if (f.password.value=="") 	{
+            alert("กรุณาป้อนรหัสผ่าน.");
+            f.password.focus();
+            return false;
+          }
+        }
+      -->
+    </script>
+
+    <table width="1000" border="0" cellpadding="0" cellspacing="0">
+      <tr valign="top">
+        <td colspan="2"><?php include("inc_header.php"); ?></td>
       </tr>
-      <tr>
-        <td background="images/rim_05.gif"> <img src="images/rim_05.gif" width="20" height="11" alt=""></td>
-        <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0">
-          <tr>
-            <td><strong><marquee>
-            <span class="style53">ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </span>
-            </marquee></strong></td>
+      <tr valign="top">
+        <td height="5" colspan="2" bgcolor="#E7E6E6"></td>
+      </tr>
+      <tr valign="top">
+        <td width="13%" height="114" align="center" bgcolor="#E7E6E6"> <?php include("menu.php"); ?></td>
+        <td width="60%">
+          <table id="Table_01" width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td colspan="2" rowspan="2" valign="top" bgcolor="#FFFFFF">
+                <table width="100%" border="0">
+                  <tr>
+                    <td><strong>
+                        <marquee>
+                          <span class="style53">ยินดีต้อนรับสู่ระบบขอเช่าเครื่องจักรกล กรมทางหลวง มหาสารคาม </span>
+                        </marquee>
+                      </strong></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="#FFFFFF">
+                      <table width="84%" border="0" align="center">
+                        <?php $sql_show = "select * from tb_contact where contact_id = '1'";
+                        $result_show = mysqli_query($conn, $sql_show) or die(mysqli_error($conn));
+                        $row_show = mysqli_fetch_array($result_show); ?>
+                        <TR>
+                          <TD><span class="style55"><BR>ติดต่อสำนักงานทางหลวงมหาสารคาม </span><BR><BR>
+                            &nbsp;&nbsp;&nbsp; <span class="style56"><?= $row_show['contact_add'] ?> </span><BR><BR>
+                            <span class="style55">โทรศัพน์</span><BR><BR>
+                            &nbsp;&nbsp;&nbsp; <span class="style56"><?= $row_show['contact_tel'] ?></span><BR><BR>
+                            <span class="style55">อีเมล์</span><BR><BR>&nbsp;&nbsp;&nbsp;<span class="style56"><?= $row_show['contact_mail'] ?></span><BR>
+                          </TD>
+                        </TR>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table>
+              </td>
             </tr>
-          <tr>
-            <td bgcolor="#FFFFFF">
-			<table width="84%"  border="0" align="center" bgcolor="#DDDDDD">
-         		  <?$sql_show = "select * from tb_contact where contact_id = '1'";
-		$result_show = mysql_query($sql_show) or die(mysql_error());
-		$row_show = mysql_fetch_array($result_show);?>
-
-<TR>
-	<TD><span class="style55"><BR>ติดต่อสำนักงานทางหลวงมหาสารคาม </span><BR><BR>
-	 &nbsp;&nbsp;&nbsp; <span class="style56"><?=$row_show['contact_add']?> </span><BR><BR>
-	 <span class="style55">โทรศัพน์</span><BR><BR>
-	&nbsp;&nbsp;&nbsp; <span class="style56"><?=$row_show['contact_tel']?></span><BR><BR>
-	<span class="style55">อีเมล์</span><BR><BR>&nbsp;&nbsp;&nbsp;<span class="style56"><?=$row_show['contact_mail']?></span><BR> </TD>
-</TR>
-
-              </table></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-        </table></td>
-        <td background="images/rim_07.gif"> <img src="images/rim_07.gif" width="23" height="11" alt=""></td>
+          </table>
+        </td>
       </tr>
-      <tr>
-        <td height="300" background="images/rim_05.gif">&nbsp; </td>
-        <td background="images/rim_07.gif">&nbsp; </td>
       </tr>
-      <tr>
-        <td> <img src="images/rim_10.gif" width="20" height="25" alt=""></td>
-        <td background="images/rim_11.gif"> <img src="images/rim_11.gif" width="8" height="25" alt=""></td>
-        <td background="images/rim_11.gif">&nbsp; </td>
-        <td> <img src="images/rim_13.gif" width="23" height="25" alt=""></td>
-      </tr>
-    </table></td>
-  </tr>
-</tr>
-  <tr valign="top" bgcolor="#E7E6E6">
-    <td colspan="2"> <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+      <tr valign="top" bgcolor="#E7E6E6">
+        <td colspan="2">
+          <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
 
-        <TR>
-          <TD class=style11 
-          background= 
-          bgColor=#ffffff height=30><img src="images/menu/footerr.jpg" width="100%" height="30"></TD>
-  </TR></TABLE></td>
-  </tr>
-</table>
+            <TR>
+              <TD class=style11
+                background=bgColor=#ffffff height=30><img src="images/menu/footerr.jpg" width="100%" height="30"></TD>
+            </TR>
+          </TABLE>
+        </td>
+      </tr>
+    </table>
+
+
+  </Center>
+
+
 
 </body>
-</Center>
+
 </html>

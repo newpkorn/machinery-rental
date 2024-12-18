@@ -154,7 +154,7 @@ if ($fields == "1") {
                                                         tb_machin.mac_unit = tb_machinery_unit.unit_id AND   
                                                         tb_machin.mac_type = tb_machinery_type.type_id AND  
                                                         tb_machin.mac_control = tb_machinery_control.control_id AND  
-                                                        tb_machin.mac_brAND = tb_machinery_brAND.brAND_id AND 
+                                                        tb_machin.mac_brand = tb_machinery_brand.brand_id AND 
                                                         tb_machin.mac_id != ''";
 
                               $txt_search = isset($_POST['txtKeyword']) ? $_POST['txtKeyword'] : '';

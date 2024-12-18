@@ -43,6 +43,11 @@ A:active {
   font-family: EucrosiaUPC;
   font-size: 22px;
 }
+
+.style57 {
+  color: #0000ff;
+}
+
 .link-blue {
   color: #0099ff;
   text-decoration: none;
@@ -50,4 +55,8 @@ A:active {
 
 .link-blue:hover {
   text-decoration: underline;
+}
+
+.document-support {
+  color: red;
 }
