@@ -19,7 +19,7 @@ include("../inc_connect.php");
 	$admPos = $_POST['txtPos'];
 	$birthDay = $_POST['txtBirth'];
 	$sex = $_POST['sex'];
-	$add = $_POST['txtAdd'];
+	$add = trim($_POST['txtAdd']);
 	$phone = $_POST['Phone'];
 	$user = $_POST['txtUser'];
 	$pass = $_POST['txtPass'];

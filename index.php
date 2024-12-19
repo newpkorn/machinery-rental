@@ -48,7 +48,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 1;
 
                                                         $show_page = 12;
                                                         $sql = "SELECT * FROM tb_machin ORDER BY mac_id DESC";
-                                                        $result = mysqli_query($conn, $sql);
+                                                        $result = mysqli_query($conn, $sql) or die(mysqli_connect_error($conn));
                                                         $num = mysqli_num_rows($result);
                                                         if ($num == 0) {
                                                             echo "No machines available";

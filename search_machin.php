@@ -222,9 +222,6 @@ if ($fields == "1") {
 
                         </tr>
                       </table>
-
-
-
                     </td>
                   </tr>
                   <tr>
