@@ -59,7 +59,7 @@
           height=30><img height=9
             src="images/arrow.png"
             width=9 border=0 />
-          <span"><a href="contact.php" target="_blank">กรมทางหลวงมหาสารคาม</a></span>
+          <span"><a href="contact.php">กรมทางหลวงมหาสารคาม</a></span>
         </TD>
       </TR>
       <TR>
