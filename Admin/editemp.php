@@ -167,9 +167,9 @@ if ($_REQUEST['edit_id'] != "") {
                             </td>
                           </tr>
                           <tr>
-                            <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;วันเดือนปีเกิด : </span></td>
-                            <td bgcolor="#CCFFFF"><input type="text" name="txtBirth" size="10" id="txtBirth" value="<?= $row_show['birthday'] ?>" onKeyPress="CheckNum()" /><a href="javascript:NewCal('txtBirth1','ddmmyyyy')"><img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>
-                              <span class="style2">*</span>
+                            <td height="43" align="right" bgcolor="#CCFFFF"><span class="style1">&nbsp;วัน/เดือน/ปีเกิด : </span></td>
+                            <td bgcolor="#CCFFFF"><input type="text" name="txtBirth" size="10" id="StartDate[]" value="<?= htmlspecialchars($row_show['birthday'], ENT_QUOTES, 'UTF-8') ?>" onKeyPress="CheckNum()" />
+                              <a href="javascript:NewCal('StartDate[]','ddmmyyyy')"> <img src="../images/cal.gif" width="16" height="16" border="0" alt="Pick a date"> <span class="style1">* </span></a>
                             </td>
                           </tr>
 

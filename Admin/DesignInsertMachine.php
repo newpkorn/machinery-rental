@@ -54,7 +54,7 @@ include("../inc_connect.php"); ?>
               <tr>
                 <td width="100%" height="48">
                   <center>
-                    <img src="../images/administrator.jpg" alt="" width="100" height="100" />
+                    <img src="../images/admini.jpg" alt="" width="100" height="100" />
                   </center>
                 </td>
               </tr>
